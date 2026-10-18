@@ -1,0 +1,4601 @@
+[
+  {
+    "id": "train_1319",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "620fd4225d0a2574d98df082a989a1120a629df7fa9a0174a3e08694016645d6",
+    "classes": [
+      3,
+      1,
+      0
+    ],
+    "source_id": 1319,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_813",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "8cd4c19ea2bda1a7aa4968001d83e8a636cca5b72b6f823a96a75a9f4a57f535",
+    "classes": [
+      0,
+      2
+    ],
+    "source_id": 813,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_1585",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "091e3bb83f808a6b1df4d52468143f98a54711286e17b9d58f6875155c5be2af",
+    "classes": [
+      0
+    ],
+    "source_id": 1585,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_1024",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "a13277aea4a5750f6f8b60fc6665a5ab95d7360604046de005522726a2fc2f60",
+    "classes": [],
+    "source_id": 1024,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_342",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "cf51fdcbcad3c15022176d33f9be43c7f7759fda7b5a72ddce779facd969e582",
+    "classes": [
+      3,
+      2
+    ],
+    "source_id": 342,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_1455",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "74aacf9b13c4fae3bf43fd4e8a3e3683d68c445acf9ded7634bd93467348b66c",
+    "classes": [],
+    "source_id": 1455,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_753",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "a04e703fc9c407851af6f750d68e72e01a6fddbd7853aba291c215eed220bc07",
+    "classes": [],
+    "source_id": 753,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_1358",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "2d377e822ee58acd33ec5462a8cddbb623451d086a6afc1d0352e5ff80250f58",
+    "classes": [],
+    "source_id": 1358,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_1008",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "0b58eebd961740b93cce8e9c02ceeeb1e6543aaf0cf8b486466b640b9b102f22",
+    "classes": [
+      2
+    ],
+    "source_id": 1008,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_1451",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "26e9fb51dd07c5c0265bd5f44d6367979354513af7f2cdfe2e149b501baa8e99",
+    "classes": [],
+    "source_id": 1451,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_354",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "3de5db2524b136c46113169f008193a56d80e794ea1f67be1635bda950c1feb9",
+    "classes": [
+      3
+    ],
+    "source_id": 354,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_463",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "63f1cfe66ca864cc86190e84f2c415a8d82689bb79b4e695cbaf9b07a7991fbd",
+    "classes": [],
+    "source_id": 463,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_45",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "cf532d74cbfc0688e1129df6a6910d3236cb5b87ec9be4662f83276719608e6a",
+    "classes": [
+      3
+    ],
+    "source_id": 45,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_174",
+    "split": "val",
+    "publisher_split": "train",
+    "sha256": "5705d12ca335c70d1b39e21f4a20b85316cf26d8fe24791ba78009931c07e0cb",
+    "classes": [
+      3
+    ],
+    "source_id": 174,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_1031",
+    "split": "val",
+    "publisher_split": "train",
+    "sha256": "29c90e0e56def5a4b0839c005f9c7ca1c9c5e877a70a1ea717149300559fa0c1",
+    "classes": [
+      3,
+      0
+    ],
+    "source_id": 1031,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_1440",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "81cfcce8dad0b8813c355159b5b1322ab0031e9f31448e84e5f93a735744476e",
+    "classes": [],
+    "source_id": 1440,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_1587",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "1c1a98399ff84c2a402a7f9a4e4cffe0e1f69f7d5c3d77516cad668dd7659571",
+    "classes": [],
+    "source_id": 1587,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_730",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "01e46ddb9cc25746aadfe6a629b9197fe9f527ebd818a1b5ae4e7ce2bfc02629",
+    "classes": [],
+    "source_id": 730,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_100",
+    "split": "val",
+    "publisher_split": "train",
+    "sha256": "1bd7093b3e32ed41aebb7e17e97f3893a8963940277fdce10759de7739bbf6f1",
+    "classes": [],
+    "source_id": 100,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_60",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "165d3e1a20c3c40af355fafe3cf3a0944f5f7f076542c14fe7ff609e5431b931",
+    "classes": [
+      2
+    ],
+    "source_id": 60,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_263",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "a1c99dfcaa98825a2702ceaa4f16e6a93fecaca170a9d4640b54a712f55a6503",
+    "classes": [
+      2
+    ],
+    "source_id": 263,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_1239",
+    "split": "val",
+    "publisher_split": "train",
+    "sha256": "c11a766c0b5fd2db2b3762e1bde61b86e85d9893fa1321bfa1c65fc153061a97",
+    "classes": [],
+    "source_id": 1239,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_211",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "8958153c401afe769d7374099b7119c6b4e0c787646c14143d9c99c3f831955e",
+    "classes": [],
+    "source_id": 211,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_401",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "febb7b70d312ab01068e695626961ea9ed808174fb95c413f2596a762d4d77e7",
+    "classes": [],
+    "source_id": 401,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_950",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "fc6d4d44a504a06ab397b3172d08db8bd27f7de7f70bde35bdde289061c738bb",
+    "classes": [],
+    "source_id": 950,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_9",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "35fc81b7133bb10442f4b9e7fbb16bbf9275f902aa68e12bd747416f1f9222c2",
+    "classes": [],
+    "source_id": 9,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_671",
+    "split": "val",
+    "publisher_split": "train",
+    "sha256": "7ef18db1c2a5f3c952953f208baf5bf4f2a76e7a59b661de68fbef583a72caf7",
+    "classes": [],
+    "source_id": 671,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_914",
+    "split": "val",
+    "publisher_split": "train",
+    "sha256": "7ab345d2596150b7290b1df833ce6c6c3636f0f7dbbde48fa7d252bf73fa4310",
+    "classes": [],
+    "source_id": 914,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_698",
+    "split": "val",
+    "publisher_split": "train",
+    "sha256": "2fa8a0324706deac4eb28c698349530f670016a4c0fcbfa431f97ba7fbfc134b",
+    "classes": [],
+    "source_id": 698,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_731",
+    "split": "val",
+    "publisher_split": "train",
+    "sha256": "e4896f5e15848655c8de2dd76e98f8a893ac45b56262b6289dc0832370407a46",
+    "classes": [
+      3
+    ],
+    "source_id": 731,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_532",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "13556aa936a0eea5b8313f19e988adf682c648b01741568c25bbc5038ac1a1dd",
+    "classes": [],
+    "source_id": 532,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_387",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "9731105aa7949c38182f6c56e438dc22ad8790e48d350587ac54b9a9086040b9",
+    "classes": [],
+    "source_id": 387,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_726",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "733bf756c746488fdecde0d7e9de9f79d96bc8a4ab0b7260b17c6612e51b9750",
+    "classes": [
+      3,
+      0
+    ],
+    "source_id": 726,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_1538",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "c6ed43a9c34f15a6f69235d70aeb76a206a57ed4c2a54b090d59b459cceaf2b8",
+    "classes": [
+      3
+    ],
+    "source_id": 1538,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_922",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "6b3200875c98d7a39489cb947eedeb5651869c9f96973917486e572565703628",
+    "classes": [
+      0
+    ],
+    "source_id": 922,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_315",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "aec57cce1b836cbc308b8668049cef05734cbec6e24e9096b6f9b715f176f89f",
+    "classes": [
+      0,
+      2
+    ],
+    "source_id": 315,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_1350",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "b1212c5e1aaa576a7b9a573143bedd99371eb412357678586137054d855d36b6",
+    "classes": [
+      3,
+      2
+    ],
+    "source_id": 1350,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_909",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "189f7a036247cc4e6428da4b4ba868f157213963ff61515e2019ca4ad9073d4b",
+    "classes": [
+      0
+    ],
+    "source_id": 909,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_632",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "35be75c7ef2e84846c9434965aa3bc5202416d4a21a55a33abfc5b683bc90f31",
+    "classes": [
+      3
+    ],
+    "source_id": 632,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_98",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "8bf1961f5a2e9521b907f8cf400a1b91bdef613096197257f45efb1c1df9e591",
+    "classes": [
+      3
+    ],
+    "source_id": 98,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_459",
+    "split": "val",
+    "publisher_split": "train",
+    "sha256": "06be55277394ef6aeeb00e64e9c2c142264774864c4061d74fa7ad96e0f829cd",
+    "classes": [
+      2
+    ],
+    "source_id": 459,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_213",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "efe970288608bcdaee28dd049b438685436ad79c4427aa9e5b7b0b1b9093da88",
+    "classes": [
+      2
+    ],
+    "source_id": 213,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_1361",
+    "split": "val",
+    "publisher_split": "train",
+    "sha256": "dfbadde1ab8c26d7c60f0e3d96d733dcf7c68f5e1c75f0947290cee0b8f987da",
+    "classes": [
+      0
+    ],
+    "source_id": 1361,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_396",
+    "split": "val",
+    "publisher_split": "train",
+    "sha256": "340e0865a4ca199e536523e8175acfbc8578318de450a76885f06abf3a7b3087",
+    "classes": [
+      3
+    ],
+    "source_id": 396,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_441",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "3be556111529c19e78e1df7cde14023887d5981ff5118fd6a1fede7720e737ac",
+    "classes": [
+      3
+    ],
+    "source_id": 441,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_269",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "37e99b23c17f5bb675f7a2545cf412203f194e327297ec9f68ffce58a6389341",
+    "classes": [
+      0,
+      2
+    ],
+    "source_id": 269,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_1363",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "e1a38c7db760e13036cfe57eb54f3e08b1c1dc51b5a49f50f670b647004cd528",
+    "classes": [
+      3,
+      0
+    ],
+    "source_id": 1363,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_5",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "f195e688555678dfa9d9395eff48e82b872b8f8dd84f4e996539708bd5923e3c",
+    "classes": [
+      3
+    ],
+    "source_id": 5,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_991",
+    "split": "val",
+    "publisher_split": "train",
+    "sha256": "60697cff6b0f40f650d145995032718721f4c8ad0ec1677aa3f59bedf54abc89",
+    "classes": [
+      1
+    ],
+    "source_id": 991,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_1483",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "33e99955ecbfb1c4b187a5949ac96b8430e70fdaef7378c5b8d3f923d7623f0c",
+    "classes": [
+      3,
+      2
+    ],
+    "source_id": 1483,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_1364",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "37fc1ef92026cd2899a0dbab63606fac6c8b846bd2b5b5bca295a8b7f3b89902",
+    "classes": [
+      2
+    ],
+    "source_id": 1364,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_853",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "b8762b12ce7b6dd0566c6d7a5669ea8e116d289e1b51f8aab2677d682b257ed8",
+    "classes": [
+      0
+    ],
+    "source_id": 853,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_1609",
+    "split": "val",
+    "publisher_split": "train",
+    "sha256": "2952730cc9d8d3be1d7bc4b8cf5cd2ef98c2b38887dbf240a2d62f08ed7f7eaf",
+    "classes": [
+      3
+    ],
+    "source_id": 1609,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_91",
+    "split": "val",
+    "publisher_split": "train",
+    "sha256": "c236f21ef67f70061c55517fdc72a4a81068dcd334d55c96ee4df5fce08a3473",
+    "classes": [
+      3,
+      0
+    ],
+    "source_id": 91,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_675",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "fd2b144843a71e5631eeb88d38aea3b67837004dad82f1b30510d15b319598db",
+    "classes": [
+      2
+    ],
+    "source_id": 675,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_544",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "39babfb1fbb17ef2e96fff93c64dd59641d6f511f68d6ee6ecde197e83c827c2",
+    "classes": [
+      3,
+      0
+    ],
+    "source_id": 544,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_1211",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "fbb66357a2e6f3ca14a2587c8da0898f202577f217917a35a8df59c8f3b66056",
+    "classes": [
+      0
+    ],
+    "source_id": 1211,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_1018",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "bf52bd8e2be1c0f71153248d710b046cae186c13c5daac92623728894aa82431",
+    "classes": [
+      3
+    ],
+    "source_id": 1018,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_1061",
+    "split": "val",
+    "publisher_split": "train",
+    "sha256": "78925f81cafdce7d17ea8e52ca7a29963ec29815f2ae5042dfe8494282772bbc",
+    "classes": [
+      2
+    ],
+    "source_id": 1061,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_1207",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "559099c73ed526b3aa5a962fa722546fbd3dcde44bef188e94ab705b85ba4c7e",
+    "classes": [
+      3
+    ],
+    "source_id": 1207,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_391",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "1e5280de1d0eac5e373d2ee72ea7e6c8c2bdcfacf985886324013916f5ad31bf",
+    "classes": [
+      3,
+      0
+    ],
+    "source_id": 391,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_982",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "9c4c80e4aba54e716b421fcfd6269aa86cb3597cae3d3cf115846ef0e8cf53b6",
+    "classes": [
+      1,
+      2
+    ],
+    "source_id": 982,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_137",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "516fe49e4c4260f3810968b1aef3356021aba035f249216bc044eefe10071e48",
+    "classes": [
+      3
+    ],
+    "source_id": 137,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_498",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "cf9cc4410e385f8cdf2f090f9c453564b2069dda39d4ea66252d7fe110010813",
+    "classes": [
+      2
+    ],
+    "source_id": 498,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_194",
+    "split": "val",
+    "publisher_split": "train",
+    "sha256": "89ab771cd3fb013d3fb9429bee434a54c9c400dbbe9050f00358310328116198",
+    "classes": [
+      3
+    ],
+    "source_id": 194,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_682",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "0801223c2a7a847a17ec8a94fd3571abc1fe939b98fc7932d73bf03c5967441b",
+    "classes": [
+      2
+    ],
+    "source_id": 682,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_486",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "10148d2c0010534fd2519b912edfb51e797611b0f8edd9249b94f9c1202cb497",
+    "classes": [
+      2
+    ],
+    "source_id": 486,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_1183",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "335d479c5ce32edf778301d464b5f336729258cdb203b9f5086a9893f5b4014d",
+    "classes": [
+      3
+    ],
+    "source_id": 1183,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_572",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "5ff205baf5770379de8527e47e5a19db1e2b86b514a571f45fc568e33e535047",
+    "classes": [
+      3,
+      0,
+      2
+    ],
+    "source_id": 572,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_34",
+    "split": "val",
+    "publisher_split": "train",
+    "sha256": "9cde768b7d24ade714ab73abef2c08d45ec1b5f98d0d307e982444f7483ee5fa",
+    "classes": [
+      3,
+      2
+    ],
+    "source_id": 34,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_1486",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "8564d9300dfc6c13c4f5a13c210ccfc7aee59b5b5d8241552ae9abc9ca9cd1d5",
+    "classes": [
+      0,
+      2
+    ],
+    "source_id": 1486,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_1336",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "65b2628ccb24c2f259b499048816e6aaa03697cefc88d5734d3aa1acf91bc6fd",
+    "classes": [
+      0,
+      2
+    ],
+    "source_id": 1336,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_1491",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "756005ada8199fe96dcbcecef950067787414e32e601ee5db77c275d8fc05fd1",
+    "classes": [
+      2
+    ],
+    "source_id": 1491,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_806",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "3dc6e956443592900c81246620fe758f6fd129e1fab31a1206d0939c072d9335",
+    "classes": [
+      3
+    ],
+    "source_id": 806,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_1421",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "1dd71cd12bf54129853d783636c31258fa9c377300aef99934eed1e948718f7a",
+    "classes": [
+      0
+    ],
+    "source_id": 1421,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_1647",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "23a20987a467f2278031d108c275065001664cad003fb60dd93ad5cccca88574",
+    "classes": [
+      2
+    ],
+    "source_id": 1647,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_361",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "451485f92e33555817b9320f357577c6f4e2d448da94bc9e5e35491c2a05f50b",
+    "classes": [
+      0
+    ],
+    "source_id": 361,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_916",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "d0426c70148e8b4ed195aebee410e8a27131bb5f56f4ce965f49cf1403c6e8cb",
+    "classes": [
+      0
+    ],
+    "source_id": 916,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_1265",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "4f3a84c53feddac85f3379dd27e51a7af7f67b0f95e90ad5a7a297f1fbec8f53",
+    "classes": [
+      3
+    ],
+    "source_id": 1265,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_172",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "33e98a861661ab5bfd564bedc27bfbd4b638004bbaa1cb9b1c20430c25e496cf",
+    "classes": [
+      3
+    ],
+    "source_id": 172,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_990",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "c1a48a8d79196e921eb3dafa2c867bf65e20950f6b7f4fcb9f14e7c410c3b43c",
+    "classes": [
+      3
+    ],
+    "source_id": 990,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_265",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "1f5d6c292abcad54795ad10822f2fa0efb5a7424442be5190c33bcdbeb092ce6",
+    "classes": [
+      3
+    ],
+    "source_id": 265,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_1544",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "f08c846d3bfe8ce67765df9cc19ae0eae3ebed856816ab536e996990d4719be8",
+    "classes": [
+      3,
+      2
+    ],
+    "source_id": 1544,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_1147",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "3e6479a4ff008c29f3a638da7ba8b3935ff773801118b4bd11fe376fdd31d289",
+    "classes": [
+      3
+    ],
+    "source_id": 1147,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_962",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "fd4c6ba16a350a8c29088e29a5aabc8a44d4d2cade9cd9e396f73ed0e982cf3d",
+    "classes": [
+      0
+    ],
+    "source_id": 962,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_343",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "0a9a27a695bb83d41a3122cf18e5c177abcec684a072092452c87c00be9b12b8",
+    "classes": [
+      3
+    ],
+    "source_id": 343,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_1152",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "bf654a71d144354d1cf69aa7e03c8634f9f2a200b113cb9bb428fd7c51f83dce",
+    "classes": [
+      3
+    ],
+    "source_id": 1152,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_898",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "37ad1b15ff729ca48349adc0a4984b3f71d34c44a17065893acca16cf9fe59a1",
+    "classes": [
+      2
+    ],
+    "source_id": 898,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_1553",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "c4a71dd202591bf1c7da7ae48b0b7f9d297b88cdeb5a6ee59c97c7e959b5f6f7",
+    "classes": [
+      3,
+      0
+    ],
+    "source_id": 1553,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_888",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "ab3a024c124de48cb1aff5fb7a06419f652890e6ec96b3946795ad70c5692fbd",
+    "classes": [
+      2
+    ],
+    "source_id": 888,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_109",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "c3a14bf714141291ed861e106c5d1e2cd11ffb59d49df1286c927d92f6b2f88b",
+    "classes": [
+      2
+    ],
+    "source_id": 109,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_368",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "1a19cda07c0ddc831ffb0dafbd7d909d4767bbc0a623dd3fff721604226238ac",
+    "classes": [
+      3
+    ],
+    "source_id": 368,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_710",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "10eaeb94a0649680292029a3d7296e51f15cea1370bb320be0356e9b0d4c4d5d",
+    "classes": [
+      3,
+      2
+    ],
+    "source_id": 710,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_1367",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "63a4197e2406fa835bc81f265a9a42bdcca69c31405835f2a7a0c897d44272fe",
+    "classes": [
+      3
+    ],
+    "source_id": 1367,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_133",
+    "split": "val",
+    "publisher_split": "train",
+    "sha256": "df847c4c86c2d07c97d557ac8265c82662c3b52a09451cf375c45c616d9b94f3",
+    "classes": [
+      2
+    ],
+    "source_id": 133,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_789",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "783d696103e40b0cbf24a5f4772df137c37ab1046b42f0a1cda8eb3e4c19cc9f",
+    "classes": [
+      3,
+      2
+    ],
+    "source_id": 789,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_1362",
+    "split": "val",
+    "publisher_split": "train",
+    "sha256": "942810655d5d719b380a34d3fa3a4ecfcdfb9d3e80ec4f912880d3ad7cefcf78",
+    "classes": [
+      3
+    ],
+    "source_id": 1362,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_376",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "6152cddb13cb829f8d3a2af9c611f237561f5015f1d356140b91db482516340f",
+    "classes": [
+      2
+    ],
+    "source_id": 376,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_1386",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "33b4d508a8ddfac63d1c07547e9e5fd89af012e45a625ff308e1596509c28ac5",
+    "classes": [
+      0
+    ],
+    "source_id": 1386,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_1297",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "c9cd284b5ede4f798bbb61e491ae0b0f3ad9dbcaa3b801aa4de82575bf53a9eb",
+    "classes": [
+      3,
+      0
+    ],
+    "source_id": 1297,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_690",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "b65e8afeecf9dfac5b022dd98fa468bf38f5c448aa39224e6afa471f4a3a1886",
+    "classes": [
+      3,
+      2
+    ],
+    "source_id": 690,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_199",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "5b2f09d83d1db9ae318b30d7a9ed3ed7817a5df7f2c4dc02154483cd4215692e",
+    "classes": [
+      3,
+      0,
+      2
+    ],
+    "source_id": 199,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_1551",
+    "split": "val",
+    "publisher_split": "train",
+    "sha256": "43d3147a54db43970c5b584cd66b3dbafb01f3c98e79d0a7250ff94d668cdb30",
+    "classes": [
+      0
+    ],
+    "source_id": 1551,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_808",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "2536176d402cbf559910ae6b1d8ddcf542ec91ccc2b3f51909be089899515f75",
+    "classes": [
+      0,
+      2
+    ],
+    "source_id": 808,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_852",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "42d3e0fae6c6124ede60e4740015b12a8ee86d0a88a5ef9209a33bc1f93c6670",
+    "classes": [
+      3,
+      2
+    ],
+    "source_id": 852,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_729",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "40e7f9c35ef2b75f31a77a902fb8108e614e4a0759acc40908e3f4b80fa589cd",
+    "classes": [
+      3
+    ],
+    "source_id": 729,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_1202",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "11191a8d4e319fc30c02ebc865abeb4752535c41743a635b9fce7646f1e98273",
+    "classes": [
+      3
+    ],
+    "source_id": 1202,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_422",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "6ccc0dc7ab1d95310b51dda92dfc3087751d0c0178d1c91a89faa827b767b9c2",
+    "classes": [
+      3
+    ],
+    "source_id": 422,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_627",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "a19751dcc8910a862595cccd39e941017d9d8a2a83495f7d81c4135b8be8f068",
+    "classes": [
+      3
+    ],
+    "source_id": 627,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_1175",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "37a7088121831ce49f86ec40308d7333c9dc7360d99b6836339b59a92644588f",
+    "classes": [
+      3,
+      0
+    ],
+    "source_id": 1175,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_1219",
+    "split": "val",
+    "publisher_split": "train",
+    "sha256": "cb0ab76db53ec9ed6a8d8ff324a188ef252d69e05212b6dab9d03b1ccd0e28e2",
+    "classes": [
+      3
+    ],
+    "source_id": 1219,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_1461",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "1f13467cf5a9ea79db061d2a2db6066245947c919ce96eb131209648ecbbdae0",
+    "classes": [
+      3,
+      0,
+      2
+    ],
+    "source_id": 1461,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_660",
+    "split": "val",
+    "publisher_split": "train",
+    "sha256": "795213263359ce726bc1be83832de71e43bb3be231b7608713c7a5ad34df3c9e",
+    "classes": [
+      3
+    ],
+    "source_id": 660,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_591",
+    "split": "val",
+    "publisher_split": "train",
+    "sha256": "b7e697f67ab74c68ba831f17b72d82c3fb1b50d470a694cbd39f9213544f24b0",
+    "classes": [
+      3,
+      0,
+      2
+    ],
+    "source_id": 591,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_170",
+    "split": "val",
+    "publisher_split": "train",
+    "sha256": "68cebfd699194d5f54fc0603984c2624139e48bf4ccb5c46b9cc2761c54222d0",
+    "classes": [
+      0
+    ],
+    "source_id": 170,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_617",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "23c3948dd27947b89f2a3e8f067c8c53e1e2175551ca80d211c1b26d32757025",
+    "classes": [
+      1
+    ],
+    "source_id": 617,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_899",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "0359593e69006af4030524e5443495899eec1e337dd81dfdb281f514867ca7d1",
+    "classes": [
+      3,
+      1
+    ],
+    "source_id": 899,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_1452",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "0ca2df5574aaba501c6a1e3b1d9cde81258b0accc52d9e2303fe2a0ac1de2e0d",
+    "classes": [
+      1
+    ],
+    "source_id": 1452,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_1188",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "3c0b34fbbe5ae4f41d03559a641ea4f4928df55fd8a92e1148aa3e0b78743def",
+    "classes": [
+      2
+    ],
+    "source_id": 1188,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_574",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "e3cbcc2d64e7980361054fb7e4cdee9ea0dc4e79e5147ec507d1123a2f7010a5",
+    "classes": [
+      3,
+      1
+    ],
+    "source_id": 574,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_662",
+    "split": "val",
+    "publisher_split": "train",
+    "sha256": "f09f5b0ad35a8ecaa16f7462a312e82f9a0af19d304961d6d6653125015cc754",
+    "classes": [
+      1
+    ],
+    "source_id": 662,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_528",
+    "split": "val",
+    "publisher_split": "train",
+    "sha256": "41ef3751d673958d0e492bf7842d3d0b612af11c69813d7c838fec9e1822d394",
+    "classes": [
+      2
+    ],
+    "source_id": 528,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_1002",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "a9d90c3630ea48383b050f572a4ba9dae49fa95272a9bfcedcf907698cf38118",
+    "classes": [
+      3
+    ],
+    "source_id": 1002,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_307",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "cf29f2a1d5fc11557539c5bcf3425eb30f42aa8399b66a4f04d33f5b340a7476",
+    "classes": [
+      0
+    ],
+    "source_id": 307,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_1267",
+    "split": "val",
+    "publisher_split": "train",
+    "sha256": "d4fc62b20be5124367fee1c09f78a5f5b284ea198fba49cefdea40db48013691",
+    "classes": [
+      3
+    ],
+    "source_id": 1267,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_1151",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "db9a3a970499ccd5cb8e5e393986e94045399b9444e5446bf3fe84c890f0cfa2",
+    "classes": [
+      3,
+      1
+    ],
+    "source_id": 1151,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_598",
+    "split": "val",
+    "publisher_split": "train",
+    "sha256": "a786f27f58bd57da08d44881e3f5f4f762d7689e43fefe4fcbaa8af686ba6a5d",
+    "classes": [
+      3
+    ],
+    "source_id": 598,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_1475",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "a1c26ee471e171d4770dbd4076e534fcf44a987accf29b4956af70cb357f6d2e",
+    "classes": [
+      3,
+      0,
+      2
+    ],
+    "source_id": 1475,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_1526",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "e0c49d93a0b922a9388454c433084ba4cc683c3d83bce0bf5e0d1bf9193e637b",
+    "classes": [
+      3
+    ],
+    "source_id": 1526,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_1415",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "776ba4d3a39631adb3f610d93201d1b70f36c7cac5740d2edbaea5ace8c3d69b",
+    "classes": [
+      3,
+      2
+    ],
+    "source_id": 1415,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_1614",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "07f51d736cdf55519eac4dfeb2effaec0671cc56b70d04dd0aa6944e74a1dc3a",
+    "classes": [
+      2
+    ],
+    "source_id": 1614,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_1111",
+    "split": "val",
+    "publisher_split": "train",
+    "sha256": "f26ed32fa0d45090aaccb61bfda39215b79e2d61b817515ad1abc1aa35e9aa07",
+    "classes": [
+      2
+    ],
+    "source_id": 1111,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_1371",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "ada832d518113378a4e686f9d6870c48049ad1be9110430d771275f13b725f8d",
+    "classes": [
+      3
+    ],
+    "source_id": 1371,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_1168",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "9a2ba86763035081fefaea4d99ad26543b3d280b42a961a4993b77fc7353e0bf",
+    "classes": [
+      2
+    ],
+    "source_id": 1168,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_1172",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "94c7ca6cab81ce3e661a7c63b913d04572dfb300f2c65b7d7b0f520d542b3bf9",
+    "classes": [
+      2
+    ],
+    "source_id": 1172,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_998",
+    "split": "val",
+    "publisher_split": "train",
+    "sha256": "482cf90558b833475b2d73ccc2f2426206a45e58c98447a86a1871d1f95ec1d8",
+    "classes": [
+      2
+    ],
+    "source_id": 998,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_1251",
+    "split": "val",
+    "publisher_split": "train",
+    "sha256": "dc30b597f18805ef25c6729ace61987653a6e88032169b0798a61ec7cf5f5f37",
+    "classes": [
+      2
+    ],
+    "source_id": 1251,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_1118",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "f5f9d7345270a64ae125dd256747b68c027bfbdeb7961ffa43a518aaefcbeb60",
+    "classes": [
+      3
+    ],
+    "source_id": 1118,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_372",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "6e68f503218fd394704185ab9b0e8562130364a7d56279ec08b2346744d71359",
+    "classes": [
+      2
+    ],
+    "source_id": 372,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_651",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "801b3261ada263d5cb26dbdd885a224845d11917fb520bb9575f90b0c1493158",
+    "classes": [
+      3,
+      0,
+      2
+    ],
+    "source_id": 651,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_886",
+    "split": "val",
+    "publisher_split": "train",
+    "sha256": "2b40ff717e0f655875b482907721a234c1d14e56c3be9d23b0f5021d6f5ea94f",
+    "classes": [
+      3,
+      1,
+      2
+    ],
+    "source_id": 886,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_525",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "7b2f984200f6b975dfcf22352b799436c71fa28028278a3ed3680fa0c8a0aa87",
+    "classes": [
+      2
+    ],
+    "source_id": 525,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_712",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "2286570c06d415ccaeebb311d299bd1b126b0cb4e1634ef8e80c7b0bbe924b88",
+    "classes": [
+      3
+    ],
+    "source_id": 712,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_415",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "8121b4343e41df1b71752a984fd2d966a6cae2ca26710c12f8cf46250164db93",
+    "classes": [
+      0
+    ],
+    "source_id": 415,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_1496",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "e78d9ebcf8347b1fbd86100726519117d8dd266b307150bf87ea5c1d30ac6232",
+    "classes": [
+      3,
+      0
+    ],
+    "source_id": 1496,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_321",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "7ad94e2abb47f4bd526e23d7da4482bc2d77f58351e8ef8c48bfaa819b53f53f",
+    "classes": [
+      2
+    ],
+    "source_id": 321,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_908",
+    "split": "val",
+    "publisher_split": "train",
+    "sha256": "eb02389880f87716de88e5b976068e584df74267e31433720408ffac97db8ae7",
+    "classes": [
+      2
+    ],
+    "source_id": 908,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_1032",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "8c3618174f22b9b44f3c4e0cb074d481709f07f894f5221b07e3b7e9366a2fdb",
+    "classes": [
+      3
+    ],
+    "source_id": 1032,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_993",
+    "split": "val",
+    "publisher_split": "train",
+    "sha256": "ddafe8cacc6703aa485cbb59c0ff5f90513438671449abe1128115841439c7f2",
+    "classes": [
+      3,
+      0
+    ],
+    "source_id": 993,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_1119",
+    "split": "val",
+    "publisher_split": "train",
+    "sha256": "773fc0e2cb5730768168a9b6846027c2c9229e81e78af8c7130110d8d492343a",
+    "classes": [
+      2
+    ],
+    "source_id": 1119,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_550",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "2fd659df4bf6ce0148b5b79d66102bb477184b5031b3fc58bd4ed86b68c6b748",
+    "classes": [
+      3,
+      0,
+      2
+    ],
+    "source_id": 550,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_112",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "424e8c810be49f772fdeb9e858b9bea1a383d38c353b9ba976e4062d30140002",
+    "classes": [
+      2
+    ],
+    "source_id": 112,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_1201",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "e9b1e1f30f79bd4414aeb2178301271235c8a91462e386061bafda9351316a6e",
+    "classes": [
+      3
+    ],
+    "source_id": 1201,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_935",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "18768bceda9a1c47697f3abd70bf9df12dd96a0413386101f3f29c33e47a6823",
+    "classes": [
+      2
+    ],
+    "source_id": 935,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_1277",
+    "split": "val",
+    "publisher_split": "train",
+    "sha256": "12f5606f6a08af3c54a7ae5feffbd874102925556bccd17e7e376cb465d95454",
+    "classes": [
+      2
+    ],
+    "source_id": 1277,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_1241",
+    "split": "val",
+    "publisher_split": "train",
+    "sha256": "7a8fc2744e089e4d59d27bf5fbb4693ba2548d393fafed79d69d716cc5d51dfd",
+    "classes": [
+      2
+    ],
+    "source_id": 1241,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_980",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "cd07f9032162a2d4250190bbfc764c3e51c425b0143903eb86fad381988f6c98",
+    "classes": [
+      3
+    ],
+    "source_id": 980,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_1534",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "c010f2cb393f5689d1ef6d3039350a7bad4e5ad4b4c2bdc8998b64c81c9de4b3",
+    "classes": [
+      3
+    ],
+    "source_id": 1534,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_1085",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "a40ac12f420853ebae574e9c20424d199f9bb171b7c5ae6df5d0927c7e4e61a8",
+    "classes": [
+      2
+    ],
+    "source_id": 1085,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_739",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "0d5d3c9b8a1141e8a61cacc7319eb7726fddb81ea48b78cad2e23d97c6ee02a1",
+    "classes": [
+      1
+    ],
+    "source_id": 739,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_840",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "91002bbf359e4d354e683f6666a302f7e8c57cd31c1ce9dc6085c9cf06795ab7",
+    "classes": [
+      3,
+      2
+    ],
+    "source_id": 840,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_233",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "7e66f3103aa70e4cb1017470e3e2bf995bcc66ab3c35ecb96ce7ac940081356d",
+    "classes": [
+      3
+    ],
+    "source_id": 233,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_176",
+    "split": "val",
+    "publisher_split": "train",
+    "sha256": "341482cb8ff2c18af88d6c0d45dfde95f7e00a2e3cabb8d77528b5f6d85d6b59",
+    "classes": [
+      0
+    ],
+    "source_id": 176,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_573",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "b74897e7266ff6368954f28c931780471b54ee4de0a75a30bbfe72c5daf344ba",
+    "classes": [
+      3,
+      1
+    ],
+    "source_id": 573,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_1634",
+    "split": "val",
+    "publisher_split": "train",
+    "sha256": "953d1d4c399705f32f8747740469d55829dacfd6c29c86788bb696b3a737bf9f",
+    "classes": [
+      1
+    ],
+    "source_id": 1634,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_238",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "e20f12ada663e2117125f3051ed40869a5ddd596f9d5b0c20a40f5ab4578111c",
+    "classes": [
+      2
+    ],
+    "source_id": 238,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_915",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "e56ff39044ba0e8e32c7112046687dc0ac1aa5aa5b2bb8bba67676831b81ccd0",
+    "classes": [
+      3
+    ],
+    "source_id": 915,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_656",
+    "split": "val",
+    "publisher_split": "train",
+    "sha256": "02e144ff5932a112afc9b9de0f10b247b0f4d767d3d5ca9107e3b778bb13844c",
+    "classes": [
+      1,
+      2
+    ],
+    "source_id": 656,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_733",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "b08dc4f462a9388445b66cfded5b647abcb50fff3d12b5e10f4f633ea2194e9a",
+    "classes": [
+      2
+    ],
+    "source_id": 733,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_1383",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "ed95675a1502e91eedab7a68ca861d980660033e6df4f2cd18e57931440ab7e0",
+    "classes": [
+      3
+    ],
+    "source_id": 1383,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_891",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "5a20f8adf0789d34eb7e6ab5c40447ec23abd6f784a7bb7970455a2263acfe01",
+    "classes": [
+      3
+    ],
+    "source_id": 891,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_734",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "322d2e2b72e640d4c5af22244bf96abf29ac80e4c25fbc8a862bb07c5b340fb6",
+    "classes": [
+      3,
+      0,
+      2
+    ],
+    "source_id": 734,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_1214",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "9bdcf5566fb2e509c57b045c37b09a6a0241a379d13ad42766badd8b5ab0fa69",
+    "classes": [
+      0,
+      2
+    ],
+    "source_id": 1214,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_517",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "85fac8fa3fc4aa1a6dea8698db79af196a3a9961f06108900d28fec942322ac8",
+    "classes": [
+      3
+    ],
+    "source_id": 517,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_220",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "d59b67fcea33de904d65c0a8202810bb250fc7820ee6ee7b4b488d926e66c302",
+    "classes": [
+      3,
+      1
+    ],
+    "source_id": 220,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_1114",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "0420c65797916171a542d944859c3e627ff65e8b1d87969f76889f6646c40f6f",
+    "classes": [
+      3,
+      0
+    ],
+    "source_id": 1114,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_774",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "87964d4889c34b47e569ab25269bf45d9d3c98113f87bd9676aca7513b87458f",
+    "classes": [
+      3
+    ],
+    "source_id": 774,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_1284",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "7e00e93abd6ea57fa5bc701f1c420d462639500495bdac99466e8cea9efba509",
+    "classes": [
+      0
+    ],
+    "source_id": 1284,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_28",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "d60a69feb4f26d35defc57ff5d6a123656d3ffbd63d6a1859ca4eb6f9cee8b92",
+    "classes": [
+      3,
+      2
+    ],
+    "source_id": 28,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_166",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "a08248af4823608550220a384f7ecfce2d994147a4322a3ea2bebc32ebe67d9d",
+    "classes": [
+      3,
+      2
+    ],
+    "source_id": 166,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_1495",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "56bbe605c59524d8eb2cc5a1e2d2a8bf699ad46e0a8b53e29e642cedb5f38a95",
+    "classes": [
+      1,
+      2
+    ],
+    "source_id": 1495,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_1005",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "30d762b942c55abae33609987390bc4aeb89feba9fc9f4e4bd8df9f996fdf95e",
+    "classes": [
+      3,
+      0
+    ],
+    "source_id": 1005,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_1215",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "29f3585bfff0f3f2b8c5147d3081b2add0996ef383eb67b1b365d9659ad9511c",
+    "classes": [
+      3,
+      2
+    ],
+    "source_id": 1215,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_1420",
+    "split": "val",
+    "publisher_split": "train",
+    "sha256": "2c97efa113b38f6f446507d954d1ea053ad928f818ce2a651593b5074a020ea1",
+    "classes": [
+      0
+    ],
+    "source_id": 1420,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_320",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "a87e9509a98abe00f270897fd3aac6d547e1b16e0270e02ef9ca3da752d6ca89",
+    "classes": [
+      0
+    ],
+    "source_id": 320,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_1158",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "d2a75ace806467fa89398a286de9cfbc39e5bfde1c86c13bd2b2f623de247aa4",
+    "classes": [
+      2
+    ],
+    "source_id": 1158,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_1279",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "38e49fd74901d196493ff0acbac41353817bfebf8d3e693af3bae12534eda7e8",
+    "classes": [
+      0
+    ],
+    "source_id": 1279,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_755",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "212a8b052053133b0318b06459a85eb01541e7dc30277426428dab9ad9428a00",
+    "classes": [
+      3,
+      0,
+      2
+    ],
+    "source_id": 755,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_15",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "1024dd9470f3de0e2304884aa058d90e43a567b192c0a852e71e229ccb9fda62",
+    "classes": [
+      2
+    ],
+    "source_id": 15,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_652",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "6c48e06c3ba307416e6ba55371298f284144d38a81bfab505aab72696e3d91d5",
+    "classes": [
+      3,
+      0
+    ],
+    "source_id": 652,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_390",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "dafed0f1ebaea350e98893f3c6ee5a95a1ae81700396d548c66c7ebda7959bcb",
+    "classes": [
+      2
+    ],
+    "source_id": 390,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_353",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "71a864adebc8a19a68165808bf51302c68b8da20ddbcf159fda4ce977d8c94db",
+    "classes": [
+      1,
+      2
+    ],
+    "source_id": 353,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_1075",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "d44d11203cf30b2e8cbc232165095dbf51746fdf4def5f75cea388a504670b2c",
+    "classes": [
+      2
+    ],
+    "source_id": 1075,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_846",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "9a5e666db54e6cb440ffe948aea72836a0e720e090595974199a061034a444e5",
+    "classes": [
+      0,
+      2
+    ],
+    "source_id": 846,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_71",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "280caed817464d447aa8ad4fa7e5e00dd6747064492dedfb86bd84f3efae1ce2",
+    "classes": [
+      0
+    ],
+    "source_id": 71,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_1340",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "c6af319246d4d0b728ddd395e6d34e78790b85c68fd907938beb5dd7ecf8a602",
+    "classes": [
+      0
+    ],
+    "source_id": 1340,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_586",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "cca96eb78c108345c7f7a59ac5c1862c04413738efdf5e1a81f06da04aa77d15",
+    "classes": [
+      2
+    ],
+    "source_id": 586,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_1007",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "55ff7a74e948992a51ca1d72579c2a1b07d0b1aa884cc3b56d280197cb795c98",
+    "classes": [
+      0,
+      2
+    ],
+    "source_id": 1007,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_1578",
+    "split": "val",
+    "publisher_split": "train",
+    "sha256": "1e5916aedadf6d5883d4a7c1513e20c315ef1c3d8645782f2ea22241945f62ee",
+    "classes": [
+      1
+    ],
+    "source_id": 1578,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_703",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "ffe55eeb727400bff02d92ee0e81d0bb87a835f3b48cc07f9aaa9714eeb212c8",
+    "classes": [
+      3,
+      2
+    ],
+    "source_id": 703,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_944",
+    "split": "val",
+    "publisher_split": "train",
+    "sha256": "0c7b5a1e14156ad60ca521b99813fb170aeee152e4cd3e258801349418530746",
+    "classes": [
+      0,
+      2
+    ],
+    "source_id": 944,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_162",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "6af5157fb0de7d1e2c940ba60f958acc012a43db4a16cba26a11b7b327bdc925",
+    "classes": [
+      3,
+      0,
+      2
+    ],
+    "source_id": 162,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_1011",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "3b3958526adda5d0138c3e664c2f4cc9b63dfff2e004c86dd9dff17f04496315",
+    "classes": [
+      3,
+      1
+    ],
+    "source_id": 1011,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_1382",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "ae60bd90f939cf1764204fe82baf02ad89260d3447a1e3d9710860836e8653fa",
+    "classes": [
+      2
+    ],
+    "source_id": 1382,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_1286",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "bd3771f428d8f130fbbe002cf67367391f5eaa5db2f444a0033e8aac6ed46052",
+    "classes": [
+      0
+    ],
+    "source_id": 1286,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_1348",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "d1702a7d1906f540a23c6e815aed4579bbc81dcc52e65b6b5bb02a939443221d",
+    "classes": [
+      0
+    ],
+    "source_id": 1348,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_341",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "e8d03524604c5ff0470051545ccac2842a29e90c7c486e49c41ecfe8cbc60b77",
+    "classes": [
+      3,
+      2
+    ],
+    "source_id": 341,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_1555",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "2ad41ebbc1823ca795e6059ff6f804584033e8a9c910d15b2ac0fe195ccb7c09",
+    "classes": [
+      0
+    ],
+    "source_id": 1555,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_1030",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "e0ff9ccb2b174c3bb36aaaebb430c8cc1d4bc75c697ca8d97abd762aee59e93d",
+    "classes": [
+      0
+    ],
+    "source_id": 1030,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_1492",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "364b0a44f403af30b50c73f61022f1f193b7e4bb9f89de4390b23345835f6f9c",
+    "classes": [
+      2
+    ],
+    "source_id": 1492,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_742",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "4d61578d3ab1f9f4974f62b8f60566594d1897486a581c21e6e8214c459136e5",
+    "classes": [
+      0
+    ],
+    "source_id": 742,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_612",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "6463057c58b59f3d3ba6c72e9b4c9c729342cf2f22cbdfd87826bf08e7840fcc",
+    "classes": [
+      0
+    ],
+    "source_id": 612,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_82",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "648e1fb5514401185104eff6c6a79ef574c9f1d9cb042c34d383c7fb83f991e7",
+    "classes": [
+      2
+    ],
+    "source_id": 82,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_609",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "66e70e046b8e9e270215032f811c32fd80a6d28d4f1e1b367397c00eba065cc9",
+    "classes": [
+      0,
+      2
+    ],
+    "source_id": 609,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_839",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "1360c1cb9d5689ef1ec9914c5d77b93b59b9152f6bb21e464c37450df87640da",
+    "classes": [
+      2
+    ],
+    "source_id": 839,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_1081",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "83818da00fe232f583d749fbd2bb429180eabec7ebcad2c3744b7a2e4d054b1e",
+    "classes": [
+      3,
+      0
+    ],
+    "source_id": 1081,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_202",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "a4d02ff5205e70cd970e21e028a6aa5669b84df397617cfb186d2c13c6670319",
+    "classes": [
+      3,
+      2
+    ],
+    "source_id": 202,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_239",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "1de43968bde7d9b44d9abc9bbaef631e01fd70f6f7ad95606699ce67d2488c1a",
+    "classes": [
+      3,
+      1
+    ],
+    "source_id": 239,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_237",
+    "split": "val",
+    "publisher_split": "train",
+    "sha256": "00ef0849120eb73796b7dc0cfa2c5dc4cebacce28042f19dbb57ca2b68a0f607",
+    "classes": [
+      3,
+      0
+    ],
+    "source_id": 237,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_986",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "f99631a8d02e37972f9b9d6c9b1ef5400b84f45f32a8017c1c7653470eadb731",
+    "classes": [
+      0
+    ],
+    "source_id": 986,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_1299",
+    "split": "val",
+    "publisher_split": "train",
+    "sha256": "2242afb491863b0854196ff4dea90496dd38cb17b4945e80daa1dc1ac2fc9d13",
+    "classes": [
+      0,
+      2
+    ],
+    "source_id": 1299,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_76",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "97458839ec9a1ba01c746c0a0c8538e2e5dd3f7d72c124c70ad571d5d3e0cdf0",
+    "classes": [
+      3,
+      0,
+      2
+    ],
+    "source_id": 76,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_565",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "3a733f643eaa311a1ffe63d289eccc82ef2b3be56dbb36acb570880bbb3c2173",
+    "classes": [
+      0
+    ],
+    "source_id": 565,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_1145",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "441e745e21182dc7852f17115dcf3bfd2b2003f6e4ad3d078db54031d7854153",
+    "classes": [
+      0
+    ],
+    "source_id": 1145,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_254",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "797ca010cbf909090ed2784d347872bbf8d46b4ac8d797cdeeb12adcb6bfcbd3",
+    "classes": [
+      3,
+      0
+    ],
+    "source_id": 254,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_1124",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "2d10153de7f0935528103b26bce6c5405e6d6ba158b85325937b08127deae1d5",
+    "classes": [
+      3,
+      0
+    ],
+    "source_id": 1124,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_1278",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "6e7fc8403f899d64d2a249a549d097d16b003480450a1f471a51725bcd684680",
+    "classes": [
+      0,
+      2
+    ],
+    "source_id": 1278,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_280",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "5c0014b6901ed355c570a19867eed44522eb1b60ed4cd1d8d012193f8268b902",
+    "classes": [
+      3,
+      1,
+      2
+    ],
+    "source_id": 280,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_1020",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "9969dbbfbb58cebccb4d5dd26aa4e563eddd811b1efb4f45a485958dca8e955e",
+    "classes": [
+      0
+    ],
+    "source_id": 1020,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_289",
+    "split": "val",
+    "publisher_split": "train",
+    "sha256": "9cb84f7481d61d90007204de85260e902ab5918fbddd032750047e47be25ea08",
+    "classes": [
+      0
+    ],
+    "source_id": 289,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_464",
+    "split": "val",
+    "publisher_split": "train",
+    "sha256": "718492ea7af311981b673371120bc059645cf8a426dd479b55728fd9c18f5fb2",
+    "classes": [
+      0
+    ],
+    "source_id": 464,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_763",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "305afb90414b3c9d798ec10fd4aaa43af4526fab38f9ca81a852035099cea230",
+    "classes": [
+      0,
+      2
+    ],
+    "source_id": 763,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_1472",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "9de59e4dc147123e4521822849141ece505f70c9e615913c4e257a140c5ba325",
+    "classes": [
+      0
+    ],
+    "source_id": 1472,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_811",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "bccd4ede5956907416c36138f462b2a6a3ef9c5e4e503b8e2e31f0dae5c731e7",
+    "classes": [
+      1
+    ],
+    "source_id": 811,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_458",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "b4dcd79e51c42a8147dccddfa1163ba93a340840cc2f1580fde4c10bf2371843",
+    "classes": [
+      3,
+      0
+    ],
+    "source_id": 458,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_1276",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "643236d2ff7737f4238171f45c99abcc27614020d3f712da84ad321531be07a4",
+    "classes": [
+      3,
+      0
+    ],
+    "source_id": 1276,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_737",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "d7d20a36ce3c6b2959c99d3a94b5c7ce1bb727e2bdff6b8b092b7c88a4b955db",
+    "classes": [
+      3,
+      0
+    ],
+    "source_id": 737,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_363",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "5b7a79e1bd9a6f5333790082d39f085b44f85448058d5309c30dc6a425e34632",
+    "classes": [
+      0,
+      2
+    ],
+    "source_id": 363,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_1532",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "73097ce22868c0615c6d8f858a4fc2bcbc0a94bf8d4ed980ab11ca02708ddcba",
+    "classes": [
+      0
+    ],
+    "source_id": 1532,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_1606",
+    "split": "val",
+    "publisher_split": "train",
+    "sha256": "108561680aa857e3d321b7f6cc5937c876a09d0b0af6f772552a1b77ef8db0d0",
+    "classes": [
+      0
+    ],
+    "source_id": 1606,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_845",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "ebb65598d2a5e9dba429d1faa62308a75468fcd69bcf4f9675e1f24a89b64bd3",
+    "classes": [
+      1
+    ],
+    "source_id": 845,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_630",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "bd2ea1cdee7d5446809da052ffeb3553f6640f55d147574d5ab499b9c3a67873",
+    "classes": [
+      3,
+      0
+    ],
+    "source_id": 630,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_180",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "cefdb9acf153b1f219e9af8d433742d5453d7198d4d61e53777ac8c24c0612a3",
+    "classes": [
+      3,
+      0,
+      2
+    ],
+    "source_id": 180,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_1213",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "fa39c52dd4d810feb92c72dc79a96d86ac1f8ab9a7c12d08ef43f031c3833494",
+    "classes": [
+      3,
+      0
+    ],
+    "source_id": 1213,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_869",
+    "split": "val",
+    "publisher_split": "train",
+    "sha256": "e4a95eeaf9680d5f3d1f710ace1682c8310ddc5ed908d79f6c67f0482bc391b8",
+    "classes": [
+      0
+    ],
+    "source_id": 869,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_1321",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "5701c08baf6015e1e2e6fa38f431412c25ef736ccd791c771e1366bbc05a5bf1",
+    "classes": [
+      0
+    ],
+    "source_id": 1321,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_1610",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "d39324fd82226bc3700c85025f18daee116ed1ea6507fd8c2f31d99636770c0e",
+    "classes": [
+      3,
+      1
+    ],
+    "source_id": 1610,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_1113",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "ebc1738d126ec6482cb5ef05d45c58e47830cf885d9167778c857d1559be433f",
+    "classes": [
+      1,
+      0
+    ],
+    "source_id": 1113,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_1223",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "60dc163f76852555fcfd93ec7e881d1e3a9682fa6dad9f9adea5c6d79be918e3",
+    "classes": [
+      1
+    ],
+    "source_id": 1223,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_1165",
+    "split": "val",
+    "publisher_split": "train",
+    "sha256": "9c7ebcb946d5f3adf6594ea2fbb148022fd4db0fe69c6a49d1677f210eb4bd70",
+    "classes": [
+      1,
+      2
+    ],
+    "source_id": 1165,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_1519",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "c860748e935bb5d0cccb9596d8f474c3b2cc8ff52a674463c5a8dc36ffd2b6c7",
+    "classes": [
+      3,
+      1
+    ],
+    "source_id": 1519,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_540",
+    "split": "val",
+    "publisher_split": "train",
+    "sha256": "6d818ce34b421d515c949ab962ecf2b39d5c23629e9c4a20868bb6ffe9008228",
+    "classes": [
+      3,
+      1
+    ],
+    "source_id": 540,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_1070",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "f7188e192125fab3e724a2a7f088ad7cb5f6770d43a23ee3cbc4f705910bb607",
+    "classes": [
+      1
+    ],
+    "source_id": 1070,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_1138",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "4e1c3c558cce45c4b8dd5f2b0e51af006362fc2a31867a6723d9e928386b658e",
+    "classes": [
+      3,
+      1
+    ],
+    "source_id": 1138,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_1441",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "9d19e1eff4243e48ead9008404d03bd8b6272f9e3a9617e3cb6c3263bbd3f58a",
+    "classes": [
+      1
+    ],
+    "source_id": 1441,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_511",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "32b38ac3ad52c70b75024b09da4b4cdf6f31b7d3dc721ef126f05e4634a0be6c",
+    "classes": [
+      1
+    ],
+    "source_id": 511,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_676",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "ba20983a4b31736c6fbdb78e9fa0ff2763b1a2509dfdd4a2f0f09dc54b2cf0a0",
+    "classes": [
+      3,
+      1
+    ],
+    "source_id": 676,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_1220",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "97f23cef24fe4134af6a994d87a1038a01e554511cc90caf0915d177e03219eb",
+    "classes": [
+      1
+    ],
+    "source_id": 1220,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "train_538",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "ee020de13beed7f150dc85e4cd12bd1c98c5e4c95be7328f4c05cfa54af1dff5",
+    "classes": [
+      3,
+      1,
+      2
+    ],
+    "source_id": 538,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_393",
+    "split": "val",
+    "publisher_split": "train",
+    "sha256": "44f46421f2f66dfbcfae8610593fff2d5356941cce84111dd89238b3a360908f",
+    "classes": [
+      3,
+      1,
+      2
+    ],
+    "source_id": 393,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "train_1494",
+    "split": "train",
+    "publisher_split": "train",
+    "sha256": "d50913839caf08fd6d00415269127aa3ad8ff5f24bcbf5556cd9a2d7b1f67cff",
+    "classes": [
+      1,
+      2
+    ],
+    "source_id": 1494,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "test_1178",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "109b8013cbe79bf30f1e42718489b9f39c785ee37a9194a6a0f85708da5280e9",
+    "classes": [],
+    "source_id": 1178,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "test_1327",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "cf3c67d80216c802248429e97984f55abe1f0a0e00816e7af6df61f4a353e291",
+    "classes": [],
+    "source_id": 1327,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "test_1836",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "1d7da126494e7f6abd61da6fd83a76ca8a3a00eac2025ac6bcb0327d8fe57890",
+    "classes": [],
+    "source_id": 1836,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "test_1879",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "9820514a4c9e76ac7130c3008577e6f46e64ab04f8faad7dca690519965d84fa",
+    "classes": [],
+    "source_id": 1879,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "test_1120",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "38a052bdffe7e342f6e6d6e753bfb1cb8f064ce609e1cd51b9f022111dfb8c72",
+    "classes": [
+      2
+    ],
+    "source_id": 1120,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "test_1905",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "e6c55e3c36a470095b6bf7a2e948b04ee956aa3438bb61975ba89b541439de0f",
+    "classes": [],
+    "source_id": 1905,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "test_595",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "a2bab8bbef321eb3f4e4dfbc48f11d3fc7283beb643cac5e86fa8c10467832f0",
+    "classes": [],
+    "source_id": 595,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "test_1573",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "d49f8c06057c0e177b893f750dbb778fd000f8f821de51a94d03efda3bbcb0ce",
+    "classes": [],
+    "source_id": 1573,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "test_371",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "9ba19752ac65459b514e54b4767e34f7826e50c1b0ceb1349c0ac7d41a7faf72",
+    "classes": [
+      0
+    ],
+    "source_id": 371,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "test_510",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "c45c9b3d85affb6782b6f1056e924abb08d0108668f82925d74a69528ebaf578",
+    "classes": [],
+    "source_id": 510,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "test_1497",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "1b86fa7b76077b6a450108d3cd4e11d8e84765e32af79c768e337b318a61819e",
+    "classes": [],
+    "source_id": 1497,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "test_1153",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "87068f0d5ae702e80b215a06658e68e6d5658eb21c79efb31dd64ef979dd979d",
+    "classes": [
+      0
+    ],
+    "source_id": 1153,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "test_228",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "7eb24a029d6a0f17ba24133bcfb7346e78c93913dbadd145455a46c5c831aa25",
+    "classes": [
+      3
+    ],
+    "source_id": 228,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "test_1675",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "6d8605782c0e2b56e619d5b6c9fcf49bb8b742c02eb7d8cd7194d239bbff1bd7",
+    "classes": [],
+    "source_id": 1675,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "test_297",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "11aa3480a025997bff3b2785ebea2cbb634eaed7a70b0337f82e410e63fdb209",
+    "classes": [],
+    "source_id": 297,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "test_661",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "e05b1d0ce5666403cdb925bfb6e5e3799aa1eef92333110839ba878d1b4f2e33",
+    "classes": [],
+    "source_id": 661,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "test_259",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "9689e0b9fa54f8cccb9a62a0960703444c0fc41cd335e6ca20addeb35dad5442",
+    "classes": [],
+    "source_id": 259,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "test_1427",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "f18feace3a303027be3464ae0b0b9f6c625039026f2eec681447c786a29ebe59",
+    "classes": [],
+    "source_id": 1427,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "test_817",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "0433336480de90a4c7eeec279ee121706e9648908c108d3b5291da28576f8c1f",
+    "classes": [
+      1,
+      2
+    ],
+    "source_id": 817,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "test_1561",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "28e5c349eb98e89e7313cc8443ebe8231c514a9867cbcb72c60b9f2b596af0e3",
+    "classes": [
+      3,
+      2
+    ],
+    "source_id": 1561,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "test_318",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "af88530cc357f10899028620486ad99f69a4c054b8d7b7064f173a589cf073f4",
+    "classes": [],
+    "source_id": 318,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "test_114",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "43081ffb863d761db47f3c5fce12725e3f97659c44383ed1560a6be98d57bb9d",
+    "classes": [],
+    "source_id": 114,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "test_1568",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "650a910662c9f8f948c5880fa98adf54aa707224eba5f616b47f917782b5aab1",
+    "classes": [],
+    "source_id": 1568,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "test_1351",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "6de22694fcf288f0f4f8a8a7923ebf3e72ccd09cdc6fac80c20e27dcf4c3688f",
+    "classes": [
+      3
+    ],
+    "source_id": 1351,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "test_828",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "1687041a1cbc5b987f0e2448d6dabe2b13447e5d947398baff0f5d987d102120",
+    "classes": [],
+    "source_id": 828,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "test_2000",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "0990d4a2775959bf5fb238d2042103f94fb665a15928a03e48905508d472443f",
+    "classes": [],
+    "source_id": 2000,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "test_569",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "178a4b84db804432d81412b01ea4af2049b4f71fcc6709d4b13150aaef77b200",
+    "classes": [
+      3,
+      0,
+      2
+    ],
+    "source_id": 569,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "test_667",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "b802aabaa35046affc968b1144115e06fe9d3ad5e80d73fee098eeee4af35f53",
+    "classes": [],
+    "source_id": 667,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "test_352",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "6221a11fee025d4a30aa3ebf9862612c7dd71c319eda8a0cb58e7c37afcbab78",
+    "classes": [
+      1
+    ],
+    "source_id": 352,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "test_530",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "cc919fc10fb13659eeba58540f83cdbf318f9745d905b6b87f0c10a76a08f02b",
+    "classes": [
+      2
+    ],
+    "source_id": 530,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "test_239",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "1cd0eaf51e188f30fd338a4a87f3b5211839edc863f08a5ca11a79ff4cc40020",
+    "classes": [
+      2
+    ],
+    "source_id": 239,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "test_520",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "21bad9cd205b90a1cf5d9c95578c0388d4e9c89d77a2bcdc0f954671d931633d",
+    "classes": [
+      0
+    ],
+    "source_id": 520,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "test_1338",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "36988cfba4b3000c38a5d86bade2fe5082e73f54852267f88678bd43f1f687fa",
+    "classes": [
+      2
+    ],
+    "source_id": 1338,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "test_131",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "945b1d3bc16944015cfa25a34d2c6ed3457ad061f4435c6684b5f6271b9e962b",
+    "classes": [
+      1,
+      2
+    ],
+    "source_id": 131,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "test_404",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "524c075808a7569b8f5f7b3d8f49e2ebe57377bf687f81a6842b94313b4a71d0",
+    "classes": [
+      2
+    ],
+    "source_id": 404,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "test_285",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "db260abfd661fcc8f9ccd256d5bdcaa3205b21a4403cc599e4e7c15d36144653",
+    "classes": [
+      0
+    ],
+    "source_id": 285,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "test_1132",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "8990f146efb734a410d68a9b0cfa7d55992055e7ae0a283366e7659fedc3d7a3",
+    "classes": [
+      1
+    ],
+    "source_id": 1132,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "test_854",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "88cabba83abea3d3742cd2ea8cdf9092925503b0ddda342ac162cac079081ac8",
+    "classes": [
+      3
+    ],
+    "source_id": 854,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "test_396",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "3bab2ccddcba74d73f88ccb93dec0e2bdbbdf875ebec0764e71eb4588db0241e",
+    "classes": [
+      3
+    ],
+    "source_id": 396,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "test_1544",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "9f559b2749fde652afa9aa42f60471376218456c652e0d3ccf4342f3295d3d51",
+    "classes": [
+      2
+    ],
+    "source_id": 1544,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "test_842",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "84352575aeccdb7c42f0e591038dc89c3a71bda0c67fc51eb48c50bbecd2cced",
+    "classes": [
+      3
+    ],
+    "source_id": 842,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "test_1849",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "65858042f9bbecf8084c45d55a09c606d58552b32a4f9ad2a64e6a528a1bfdf1",
+    "classes": [
+      3
+    ],
+    "source_id": 1849,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "test_821",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "68d20852daafa26d18299ede9f48c706d977d927f91509168233b8e2bc0d6a14",
+    "classes": [
+      3,
+      2
+    ],
+    "source_id": 821,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "test_723",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "41a0f745c001f6f6aefb7f6e811fa808d7fff87eacdb820f3b9891e5f82e1b0c",
+    "classes": [
+      3
+    ],
+    "source_id": 723,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "test_610",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "8576c369eb216b74fd64c85a0374dd92b30f5d3f34d865a1055fe92d553aa299",
+    "classes": [
+      3,
+      1
+    ],
+    "source_id": 610,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "test_102",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "54a5b5ed47187dfbe8bb821bafa50eb2011fb41e125044557a6712030791dc42",
+    "classes": [
+      2
+    ],
+    "source_id": 102,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "test_1532",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "cf76fc0e8914580175fc2cba31ff97fe88ac5248d1555467d414e68bd55a7c83",
+    "classes": [
+      2
+    ],
+    "source_id": 1532,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "test_1115",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "ac69c8fbbbb126465027ea9f4d76b257799ef68e0a5a87baa0cb21b2935a571d",
+    "classes": [
+      3
+    ],
+    "source_id": 1115,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "test_1558",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "4523f32251702a9c8e8fa99af4e6797c13b4d154857cc989cced8d9f00ede284",
+    "classes": [
+      3,
+      2
+    ],
+    "source_id": 1558,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "test_1689",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "861bfa9d2b63ab0b8cfec533a41d0689cf92c648fa48d1ab32d48403279b5329",
+    "classes": [
+      3
+    ],
+    "source_id": 1689,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "test_1776",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "2517571347b78e25f2f70624ceebbafc5d5eef7e98c50035447c1055f76ab479",
+    "classes": [
+      1
+    ],
+    "source_id": 1776,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "test_1494",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "e42eac417560cc07339e445de3b05ea1848c86dd17d9554fb9f9ccb3dfa1eac9",
+    "classes": [
+      3
+    ],
+    "source_id": 1494,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "test_346",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "95a657eadb6a8bded8f2569364c64c6563b69b03c4c52f6a3194bc0e98065086",
+    "classes": [
+      3
+    ],
+    "source_id": 346,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "test_1066",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "c12c0a8c0fee0a54e0a1116c5cb65c2edc8bef9e9e5ca97db42f6572f4e4194a",
+    "classes": [
+      3,
+      2
+    ],
+    "source_id": 1066,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "test_1208",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "669ee13389798b6677c8003779d95f9e3c1a6e95098ec99716b0f8a8d24c5fe2",
+    "classes": [
+      3
+    ],
+    "source_id": 1208,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "test_244",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "913e5b8065f18e8b4ee2085ff7944000ff91a805836f27b660dbc1ddc669d954",
+    "classes": [
+      3
+    ],
+    "source_id": 244,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "test_1556",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "e9f99c4c5b381896c42ba5cf3df38ac25109d07f946a0810d35dd78044889e9a",
+    "classes": [
+      3
+    ],
+    "source_id": 1556,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "test_2002",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "44c02b86dade7ae8b213915d2ebfd8c02d23acc77f227dfcc93307ee49ea0e0c",
+    "classes": [
+      3,
+      0
+    ],
+    "source_id": 2002,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "test_1414",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "9d66233d0bedd266aa04cda7a38432a4394fb509737a336fa6353fda843d211a",
+    "classes": [
+      0
+    ],
+    "source_id": 1414,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "test_1075",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "c6ddcba807dc975ab4d179423c33a120339e6774d26ed9a80d554b7cfed7a95f",
+    "classes": [
+      3,
+      0,
+      2
+    ],
+    "source_id": 1075,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "test_1807",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "134df8a40b56fe60beac7754bc7542be986c82ed542489234ac1974efd94860c",
+    "classes": [
+      3,
+      0
+    ],
+    "source_id": 1807,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "test_1683",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "3151bc4199408b00b730bf54840365750ed9aed8292326a5cb4df44b2807927d",
+    "classes": [
+      0,
+      2
+    ],
+    "source_id": 1683,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "test_1630",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "c041f5fbdef306d4f86834a644e6c9c4d8e7e5518893a2a89327624ba3e252d4",
+    "classes": [
+      2
+    ],
+    "source_id": 1630,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "test_31",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "719044e28ef2710e79768cf43d1ab9b66f5ab1495b2f73ea6d8dc4992355f06b",
+    "classes": [
+      3,
+      2
+    ],
+    "source_id": 31,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "test_1874",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "eb77608328279e54b5303b53c1909e6c3070490a8744d2f83b0fd1e22f281a77",
+    "classes": [
+      2
+    ],
+    "source_id": 1874,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "test_1207",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "e556bb6275dca076cebfdde750d1330e4dd6aa008a5dd1d5861a9b1b4c982ad1",
+    "classes": [
+      0,
+      2
+    ],
+    "source_id": 1207,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "test_807",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "0e20faa832c90abd238b34f48575b31f8133abd6df1d003c00ab16cbf32fdd59",
+    "classes": [
+      0,
+      2
+    ],
+    "source_id": 807,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "test_22",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "45ade3f78a8fb2e05be57df1bf338e1230481656b21aaf579cab7459ed9c08a3",
+    "classes": [
+      3,
+      0,
+      2
+    ],
+    "source_id": 22,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "test_927",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "8223deb2b634f0923c747dcdab8861c79f009fcf09899792151d87b7b1241960",
+    "classes": [
+      0
+    ],
+    "source_id": 927,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "test_1814",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "4568e3c9da15f2426a9ac389311efe9eba6e5e8f5b4f99dc114768bda6f3cc4f",
+    "classes": [
+      0
+    ],
+    "source_id": 1814,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "test_1430",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "3fac8530c3d16c18106b9b6f99d9e1dd88bdbd387fcc88084530fe86a5faf914",
+    "classes": [
+      3,
+      0,
+      2
+    ],
+    "source_id": 1430,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "test_437",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "72908ee6936a05f4cdb407900525594313e60fe0db3b9dbbebf6fe88f4166db6",
+    "classes": [
+      3,
+      0
+    ],
+    "source_id": 437,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "test_1800",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "804688dd6c0148edbf17b6d9e202244e56a70fd37823e3de33d3d4a9b1972caa",
+    "classes": [
+      0,
+      2
+    ],
+    "source_id": 1800,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "test_603",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "bc9bd3a60bc1f0afa382015242be35b3e3c831c7574b476404f38f0a1ba87385",
+    "classes": [
+      0
+    ],
+    "source_id": 603,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "test_1698",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "20557f922fb3163ff1df38d9a3599eb54fc3f13b8ccfd9e3f955fd7dfaaf2e66",
+    "classes": [
+      3,
+      1
+    ],
+    "source_id": 1698,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "test_861",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "ddf950e8334edf8b3f5d04be492e1e3e225a9a13b8a4f66173ef02505d9bb2f7",
+    "classes": [
+      3,
+      1,
+      2
+    ],
+    "source_id": 861,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "test_1297",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "3bb1214cd148646c33a071b5e549f6f47852f5a428b07c9fc71889f4f26ab37e",
+    "classes": [
+      1
+    ],
+    "source_id": 1297,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "test_666",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "efefa8e7d968527a80b8c3d296e017dc65e9ce60c4438ae3ee71b5b1c10f256f",
+    "classes": [
+      1,
+      2
+    ],
+    "source_id": 666,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "test_1613",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "2f4d8b01d323c5c7c9cfc13a65df657845bf76618be996f3c7d83e74be5478d2",
+    "classes": [
+      1,
+      2
+    ],
+    "source_id": 1613,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "test_1597",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "51dd234c9e4b4f39b927f34fa13355708ab2f7ba7a812c0dcc7580a17755d8c8",
+    "classes": [
+      3,
+      1
+    ],
+    "source_id": 1597,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "test_26",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "38e47cd5645c87b57157f40f7218344bb26259e5e4a68beec6c8596cd139ece8",
+    "classes": [
+      1,
+      2
+    ],
+    "source_id": 26,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "test_17",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "1f81d1232a75d918b5e25cfd3ff6fffbc13a41b11b31178195fd5d7dc08ab693",
+    "classes": [
+      1
+    ],
+    "source_id": 17,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "test_645",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "af23d56c63b5abbdf765f0cf034418ab741e8c77c625b4b58acdee77ac50fd5b",
+    "classes": [
+      3,
+      1,
+      2
+    ],
+    "source_id": 645,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "test_997",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "3152763365658b588dc0a72f9213f9625dd380a4d7640a500ca91cf589f6265a",
+    "classes": [
+      1,
+      2
+    ],
+    "source_id": 997,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "test_49",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "12907df130c345f29fcba37cd4b19d5cf7f8d001d34f62873ecbf8d7e3eddd03",
+    "classes": [
+      3,
+      1
+    ],
+    "source_id": 49,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": "chicken duck"
+  },
+  {
+    "id": "test_1493",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "dc2a520c8b98f15dfa8421b87b68707371e0e68a1ff9f00b2ba5805c06116c51",
+    "classes": [
+      1
+    ],
+    "source_id": 1493,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "test_1585",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "3dbc69bfc9bf5162aaabc2f7f5fdd04e91dafb6a41c9421f0638b883c897edfa",
+    "classes": [
+      1
+    ],
+    "source_id": 1585,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  },
+  {
+    "id": "test_1285",
+    "split": "test",
+    "publisher_split": "test",
+    "sha256": "c5b9ad6dfdeee933737467f28303f278031bd7e86d75ed589af07f484c814e59",
+    "classes": [
+      1
+    ],
+    "source_id": 1285,
+    "license": "Apache-2.0",
+    "source": "EduardoPacheco/FoodSeg103",
+    "poultry_label": null
+  }
+]

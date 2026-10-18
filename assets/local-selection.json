@@ -1,0 +1,7 @@
+{
+  "model": "semantic-v4",
+  "display_name": "PlateBack",
+  "benchmark_model": "Local semantic v4",
+  "criterion": "User selected the stronger pilot mask IoU candidate for the hackathon; chicken recall limitation retained in evaluation.",
+  "experimental": true
+}

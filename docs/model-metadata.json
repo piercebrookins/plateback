@@ -1,0 +1,12 @@
+{
+  "version": "v3",
+  "selection": "Class-specific source, confidence, area and presence gate selected only on 197 validation images. No test labels used for fitting.",
+  "components": {
+    "best.pt": "11f8b41aabff58442d6514e1d30957524054a7228ec9c4ae1b0e7399ab95ed3c",
+    "baseline.pt": "045c056ed4f94c1474c476dddacc636c33a1f0226f53cb5c159ee05e87ad1d41",
+    "presence.pt": "55139673ecab00ed875f3052f3763f6664be894bf3adf349716e79e5685278b2"
+  },
+  "license": "YOLO components AGPL-3.0; Torchvision presence component BSD-3-Clause; data attribution in docs.",
+  "poultry_limitation": "Chicken/duck proxy remains.",
+  "note": "V3 was motivated by v2 test recall regression, so previous v2 and frontier sets are now exploratory regression comparisons. Final 83-image set was not previously scored; contains no pasta positives."
+}

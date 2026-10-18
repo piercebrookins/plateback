@@ -1,0 +1,6527 @@
+[
+  {
+    "id": "dish_1562085185",
+    "split": "train",
+    "labels": [],
+    "ingredients": [
+      "bacon",
+      "hash browns",
+      "scrambled eggs"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1562085185.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1562085185.png",
+    "sha256": "7e0844558fe54aa53e05f648ab6e2dc40ef577a1e225b21cded08b5abb8f37da",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1563308386",
+    "split": "train",
+    "labels": [],
+    "ingredients": [
+      "carrot",
+      "eggplant",
+      "salt",
+      "roasted potatoes",
+      "olive oil"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1563308386.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1563308386.png",
+    "sha256": "c59968bc9c07fe8ef310355f50e36736c4df7eec74d76d7dfff5c791f9be1467",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1565194823",
+    "split": "train",
+    "labels": [],
+    "ingredients": [
+      "sweet potato",
+      "salt",
+      "pepper",
+      "olive oil",
+      "carrot",
+      "egg whites",
+      "grapes"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1565194823.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1565194823.png",
+    "sha256": "6888fa0869a0c01c4d5ddb4cf2f7b5df71581ffd840ecdda74e2a09b2c48b659",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1565972628",
+    "split": "train",
+    "labels": [],
+    "ingredients": [
+      "chicken apple sausage",
+      "scrambled eggs"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1565972628.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1565972628.png",
+    "sha256": "18015895c42afd46dab6279d0f17322d2ad37d67323ce5fc3f87a3018ede9364",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1558723960",
+    "split": "train",
+    "labels": [],
+    "ingredients": [
+      "cauliflower"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1558723960.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1558723960.png",
+    "sha256": "7da9939e610122a71ec4dcb8968eb75d466786ffcf500e9f68b9ab0fd8de4be3",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1560453356",
+    "split": "train",
+    "labels": [
+      "rice",
+      "chicken"
+    ],
+    "ingredients": [
+      "chicken",
+      "brown rice",
+      "thyme",
+      "olive oil",
+      "basil",
+      "lemon juice",
+      "arugula",
+      "salmon",
+      "pepper",
+      "kimchi",
+      "spinach (raw)",
+      "squash",
+      "wheat berry",
+      "tomatoes",
+      "rosemary",
+      "parsley",
+      "zucchini",
+      "salt",
+      "garlic"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1560453356.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1560453356.png",
+    "sha256": "6bf8fac1aa4353dac2836a8b0015ac82b1c19558d94d6d00ad90fc4d4aafc473",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1565383128",
+    "split": "train",
+    "labels": [
+      "chicken"
+    ],
+    "ingredients": [
+      "parmesan cheese",
+      "cucumbers",
+      "vinaigrette",
+      "olives",
+      "chicken",
+      "spinach (raw)"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1565383128.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1565383128.png",
+    "sha256": "84dfa2b5c34c2628075554c1a83079ae8c7e6edbc291605e92c659e0396f201d",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1566316525",
+    "split": "train",
+    "labels": [],
+    "ingredients": [
+      "olive oil",
+      "bacon",
+      "radishes",
+      "vinegar",
+      "bell peppers",
+      "garlic",
+      "salt",
+      "cucumbers",
+      "mustard"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1566316525.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1566316525.png",
+    "sha256": "e9d48366d8bea1fdbf179e0eafe422f4f4f7ee09fdf5d4a3c890cf29e24ae3c8",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1565813446",
+    "split": "train",
+    "labels": [],
+    "ingredients": [
+      "walnuts",
+      "garlic",
+      "salt",
+      "pepper",
+      "mustard",
+      "olive oil",
+      "blueberries",
+      "arugula",
+      "tofu",
+      "spinach (raw)",
+      "radishes",
+      "vinegar",
+      "chard"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1565813446.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1565813446.png",
+    "sha256": "0228579a8a154b567fbe3fd1eb1fd6b97b231fadf436ca373f639f84a276cdcf",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1560369102",
+    "split": "train",
+    "labels": [],
+    "ingredients": [
+      "garlic",
+      "mustard",
+      "salt",
+      "olive oil",
+      "blueberries",
+      "spinach (raw)",
+      "vinegar",
+      "radishes",
+      "asparagus"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1560369102.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1560369102.png",
+    "sha256": "6b5ad528154685f74b201cda81c762ac4ecde280c57b264b5012d647f5d8cf6a",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1563479596",
+    "split": "train",
+    "labels": [
+      "broccoli"
+    ],
+    "ingredients": [
+      "olive oil",
+      "lemon juice",
+      "salt",
+      "broccoli",
+      "figs",
+      "apple",
+      "goat cheese",
+      "cauliflower",
+      "pepper",
+      "arugula",
+      "brussels sprouts",
+      "mustard greens"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1563479596.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1563479596.png",
+    "sha256": "f61409dffe36ebabc55c673dfd86b3480beb564ae4d1494f840311352359a609",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1563395415",
+    "split": "train",
+    "labels": [
+      "broccoli"
+    ],
+    "ingredients": [
+      "carrot",
+      "broccoli",
+      "cheese pizza",
+      "salt",
+      "zucchini",
+      "olive oil",
+      "squash",
+      "pepper"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1563395415.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1563395415.png",
+    "sha256": "6a7cacb1da7a3599c6d951952f5499841326bc943007be91a7d86ec52cd12ad7",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1567801748",
+    "split": "train",
+    "labels": [
+      "rice"
+    ],
+    "ingredients": [
+      "cheese pizza",
+      "sugar",
+      "soy sauce",
+      "garlic",
+      "salt",
+      "white rice",
+      "bok choy",
+      "pepper",
+      "pork"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1567801748.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1567801748.png",
+    "sha256": "58ff4bf6fe16362e245c90dcaa934de9a9643fdcd4fc157dbf3af09fe75ea399",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1561579673",
+    "split": "train",
+    "labels": [
+      "chicken"
+    ],
+    "ingredients": [
+      "thyme",
+      "basil",
+      "mushroom",
+      "pepper",
+      "cauliflower",
+      "roasted potatoes",
+      "garlic",
+      "lemon juice",
+      "rosemary",
+      "olive oil",
+      "eggplant",
+      "oregano",
+      "arugula",
+      "chicken",
+      "shallots",
+      "salt",
+      "butter",
+      "white wine",
+      "cream",
+      "wheat berry"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1561579673.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1561579673.png",
+    "sha256": "5edaa75f1197154552438ebb3a92ffda11e8df3bf44b088f11b7f109b9c3cefa",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1558721757",
+    "split": "train",
+    "labels": [],
+    "ingredients": [
+      "almonds"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1558721757.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1558721757.png",
+    "sha256": "9f91df1daedc197855d8c2293b328cad11d37162113bf766ec7b447e45a06d11",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1565798558",
+    "split": "train",
+    "labels": [
+      "broccoli"
+    ],
+    "ingredients": [
+      "lime",
+      "salt",
+      "mixed greens",
+      "olive oil",
+      "cucumbers",
+      "onions",
+      "vinegar",
+      "broccoli",
+      "pepper",
+      "cherry tomatoes",
+      "lettuce"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1565798558.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1565798558.png",
+    "sha256": "ad948f78031eeacf133bd239b1cd862b0b9cd32a0ec78bf7ac6c2ced50a28f1a",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1561749016",
+    "split": "train",
+    "labels": [
+      "rice"
+    ],
+    "ingredients": [
+      "salmon",
+      "celery root",
+      "salt",
+      "mustard",
+      "cherry tomatoes",
+      "thyme",
+      "olive oil",
+      "vinegar",
+      "brown rice",
+      "arugula",
+      "pepper",
+      "mixed greens",
+      "honeydew melons"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1561749016.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1561749016.png",
+    "sha256": "aff5ae922e172b300673ff6c3a5b882f0128645778c78f7bbc50444f9dc5d041",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1559843222",
+    "split": "train",
+    "labels": [
+      "broccoli"
+    ],
+    "ingredients": [
+      "grapes",
+      "broccoli",
+      "mandarin oranges",
+      "strawberries"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1559843222.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1559843222.png",
+    "sha256": "631398f18ef98293f9bcf8b2156776c49c56114e15ef927d16077c272cb19f52",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1560270537",
+    "split": "train",
+    "labels": [],
+    "ingredients": [
+      "pineapple"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1560270537.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1560270537.png",
+    "sha256": "782da452f6c21a74e793a8aef4277ae59b39744ad55c76126c9d4011910dad7b",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1568316041",
+    "split": "train",
+    "labels": [],
+    "ingredients": [
+      "arugula",
+      "chard",
+      "vinegar",
+      "tofu",
+      "olive oil",
+      "pepper",
+      "salt",
+      "walnuts",
+      "mustard",
+      "blueberries"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1568316041.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1568316041.png",
+    "sha256": "b5188663cfbc0aee7b39c6df426b6ec8190923c598476c3d70b32a22778a16ce",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1562774531",
+    "split": "train",
+    "labels": [],
+    "ingredients": [
+      "berries",
+      "sausage",
+      "roasted potatoes",
+      "watermelon"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1562774531.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1562774531.png",
+    "sha256": "0b40235a54a201f513854d2195df986303be67d3eb880c142c268dd76217a078",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1558031566",
+    "split": "train",
+    "labels": [],
+    "ingredients": [
+      "bacon"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1558031566.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1558031566.png",
+    "sha256": "7f84634bd93543b11ccbe4ac6a2aa24a493459f1619100b3d6e3fc9d472c1473",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1559246053",
+    "split": "train",
+    "labels": [],
+    "ingredients": [
+      "cauliflower",
+      "orange",
+      "berries",
+      "pears"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1559246053.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1559246053.png",
+    "sha256": "3afcf99663b0af317fc7e5aa524a7efee6502df202f6c4b0763999d4c370cb47",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1558640705",
+    "split": "train",
+    "labels": [],
+    "ingredients": [
+      "cherry tomatoes",
+      "apple",
+      "cantaloupe"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1558640705.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1558640705.png",
+    "sha256": "914ef4921d2c2feed3a412f1ee3ee764f7782c8167cfa17738707c7acc048921",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1566414924",
+    "split": "train",
+    "labels": [],
+    "ingredients": [
+      "mustard",
+      "olive oil",
+      "pecans",
+      "salt",
+      "garlic",
+      "roasted potatoes",
+      "blueberries",
+      "arugula",
+      "vinegar",
+      "chard",
+      "green beans"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1566414924.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1566414924.png",
+    "sha256": "5492afdcd58ce7485a0c3e273e6a3d8badacac82567e6640836521f8857521f6",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1564686657",
+    "split": "train",
+    "labels": [],
+    "ingredients": [
+      "cheese pizza"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1564686657.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1564686657.png",
+    "sha256": "d3a5f029f1f7f277564816a7103a94d154d5b27c88df4ae14a7db86eef484f38",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1563216440",
+    "split": "train",
+    "labels": [
+      "rice",
+      "broccoli",
+      "chicken"
+    ],
+    "ingredients": [
+      "wheat berry",
+      "olive oil",
+      "spinach (raw)",
+      "cherry tomatoes",
+      "chicken breast",
+      "white rice",
+      "parmesan cheese",
+      "garlic",
+      "salt",
+      "broccoli",
+      "thyme"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1563216440.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1563216440.png",
+    "sha256": "2742ad6f049b8e62885c8f3bfd7b43f39e3d4dc50486e471596275abbd9763bf",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1565898511",
+    "split": "train",
+    "labels": [],
+    "ingredients": [
+      "cherry tomatoes",
+      "olives"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1565898511.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1565898511.png",
+    "sha256": "9fa0a769b0376de5e3ceb387372f1b0c8e0c3030903cb42c6ab83ed3cccab966",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1564516397",
+    "split": "train",
+    "labels": [],
+    "ingredients": [
+      "olives",
+      "cherry tomatoes"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1564516397.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1564516397.png",
+    "sha256": "3fc885be3c4cb638922aea191c12ff5911e0ba29ea987284323298a98cb476b3",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1558641442",
+    "split": "train",
+    "labels": [],
+    "ingredients": [
+      "cauliflower",
+      "cantaloupe",
+      "corn on the cob"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1558641442.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1558641442.png",
+    "sha256": "d9b57be4855aa58f2e52c193421084d38209a2b244171c9ff32343acdb7650e5",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1565721800",
+    "split": "train",
+    "labels": [],
+    "ingredients": [
+      "zucchini",
+      "chayote squash"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1565721800.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1565721800.png",
+    "sha256": "b8e24daa8cc8f5eae22b92cde9266b02982bebb89591a2330d56e0ace49d071b",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1566591048",
+    "split": "train",
+    "labels": [
+      "rice",
+      "chicken"
+    ],
+    "ingredients": [
+      "olives",
+      "brown rice",
+      "arugula",
+      "chicken salad",
+      "pepper",
+      "chicken",
+      "salmon",
+      "salt",
+      "thyme",
+      "olive oil"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1566591048.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1566591048.png",
+    "sha256": "c3c707f5f81f974ec5253a9e97e2962f27f612eb9c08036f9957fa5f0ee056e7",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1558029686",
+    "split": "train",
+    "labels": [],
+    "ingredients": [
+      "bacon"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1558029686.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1558029686.png",
+    "sha256": "92707d68c0b68b28be3b1209e97fde9fd47cb0e23a3d88746dcb476dd3385503",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1563563348",
+    "split": "train",
+    "labels": [
+      "chicken"
+    ],
+    "ingredients": [
+      "cherry tomatoes",
+      "olives",
+      "grilled chicken",
+      "carrot",
+      "bell peppers"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1563563348.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1563563348.png",
+    "sha256": "1dc42cd4988f364137719d70fad3fd03622b2b0e1ef4a3fafad51e37ca5d81b9",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1563391333",
+    "split": "train",
+    "labels": [],
+    "ingredients": [
+      "squash",
+      "olive oil",
+      "salt"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1563391333.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1563391333.png",
+    "sha256": "9ea3343b25f2bb7f1aecd4c71a26c507ce8177ec39145eb46ab39c78836907fc",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1563217804",
+    "split": "train",
+    "labels": [
+      "rice",
+      "broccoli"
+    ],
+    "ingredients": [
+      "cherry tomatoes",
+      "white rice",
+      "pork",
+      "parsley",
+      "arugula",
+      "zucchini",
+      "lemon juice",
+      "olive oil",
+      "cilantro",
+      "broccoli",
+      "lime",
+      "salt",
+      "mangos",
+      "garlic",
+      "jalapenos",
+      "onions",
+      "cucumbers",
+      "rosemary",
+      "mustard greens",
+      "tomatoes"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1563217804.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1563217804.png",
+    "sha256": "15d1dbac3a164e9e69724f1b9be2ea8fd92d15aa640a1c6d467b125dc9e31704",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1563568025",
+    "split": "train",
+    "labels": [],
+    "ingredients": [
+      "fish",
+      "cherry tomatoes",
+      "salt",
+      "bok choy",
+      "wheat berry",
+      "olive oil",
+      "chard",
+      "parsley",
+      "kale",
+      "lemon juice",
+      "chive",
+      "garlic",
+      "shallots",
+      "corn on the cob"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1563568025.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1563568025.png",
+    "sha256": "c6b5b2db5ab6cca3e092ec45896cf686e7c99dafd98984a7fc2030b0f4287b46",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1558463562",
+    "split": "train",
+    "labels": [],
+    "ingredients": [
+      "almonds"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1558463562.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1558463562.png",
+    "sha256": "ab9e749e55b06ea7fc053c5fb45c4e342491ad5fbd5d447cc13257ee9a948c60",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1558639949",
+    "split": "train",
+    "labels": [],
+    "ingredients": [
+      "cantaloupe"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1558639949.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1558639949.png",
+    "sha256": "9fd94939272bccb1e59499b7d1ee9fcf16b02089ca9243a089c5e1445bad990c",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1565884766",
+    "split": "train",
+    "labels": [],
+    "ingredients": [
+      "watermelon",
+      "waffles",
+      "egg whites"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1565884766.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1565884766.png",
+    "sha256": "80fd3133cc9171f647021ad16e43b1e0fa674f7de65c3e5ff0d478c69fe4bda1",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1562611853",
+    "split": "train",
+    "labels": [
+      "broccoli"
+    ],
+    "ingredients": [
+      "salt",
+      "broccoli",
+      "chickpeas",
+      "parsley",
+      "mustard greens",
+      "olive oil",
+      "arugula",
+      "vinegar",
+      "pepper"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1562611853.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1562611853.png",
+    "sha256": "18dd4c7851f4f5819aae50d6502a929460b4495bdfd58b641ce5efea2a2e80cd",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1566402160",
+    "split": "train",
+    "labels": [],
+    "ingredients": [
+      "egg whites",
+      "watermelon",
+      "yam",
+      "cantaloupe",
+      "sweet potato",
+      "olive oil"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1566402160.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1566402160.png",
+    "sha256": "6d68bbf0817320a0317cdcfc8a05eec449be37f42b9ff3a7ff54e26702005109",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1566330428",
+    "split": "train",
+    "labels": [],
+    "ingredients": [
+      "vinegar",
+      "beef",
+      "millet",
+      "bok choy",
+      "cauliflower",
+      "spinach (cooked)",
+      "shallots",
+      "salt",
+      "onions",
+      "olive oil"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1566330428.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1566330428.png",
+    "sha256": "e7257b1a213989995b8c125242758523369896262e62a03ce6e22596bfe95f04",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1563568357",
+    "split": "train",
+    "labels": [
+      "rice"
+    ],
+    "ingredients": [
+      "cheese pizza",
+      "white rice",
+      "wheat berry",
+      "ground turkey",
+      "parsley",
+      "arugula",
+      "mustard greens",
+      "onions",
+      "carrot",
+      "garlic",
+      "chickpeas",
+      "eggs",
+      "vinegar",
+      "corn on the cob",
+      "mushroom",
+      "cream",
+      "celery",
+      "kale",
+      "olive oil",
+      "thyme",
+      "pepper",
+      "chive",
+      "salt"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1563568357.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1563568357.png",
+    "sha256": "df61305d973f1daa4fbeba48eb8a2bf1a02f4b677d10625a046c95348a3f8d0e",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1565811390",
+    "split": "train",
+    "labels": [
+      "rice"
+    ],
+    "ingredients": [
+      "salmon",
+      "bok choy",
+      "salt",
+      "arugula",
+      "olive oil",
+      "brown rice",
+      "wheat berry",
+      "thyme",
+      "pepper"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1565811390.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1565811390.png",
+    "sha256": "b26bacb92620f87eebc15e0d434a1d828fb92bdbf5d6db822d4c7ff67694c616",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1561575445",
+    "split": "train",
+    "labels": [],
+    "ingredients": [
+      "salt",
+      "eggplant",
+      "cauliflower",
+      "olive oil"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1561575445.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1561575445.png",
+    "sha256": "01192f287ad324bdf7e9aea6ae025fb35b014b0d475ac7253a7b9a26a4e43c45",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1565021220",
+    "split": "train",
+    "labels": [],
+    "ingredients": [
+      "turnips",
+      "egg whites",
+      "sweet potato",
+      "salt",
+      "olive oil",
+      "waffles",
+      "tofu",
+      "pepper",
+      "sausage"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1565021220.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1565021220.png",
+    "sha256": "5652bf39669453c14111c0bd48223f37e5ee22e999f3cbb45dc20cda29256ea2",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1559674074",
+    "split": "train",
+    "labels": [],
+    "ingredients": [
+      "pizza"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1559674074.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1559674074.png",
+    "sha256": "ba1acdf6f1719105ff44150a99ae28876a6ee97b282400e170e205db0f5b6c4a",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1561060503",
+    "split": "train",
+    "labels": [],
+    "ingredients": [
+      "pineapple",
+      "bok choy",
+      "cheese pizza"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1561060503.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1561060503.png",
+    "sha256": "d73eabed9c6281794d29bb5459bb09f751a2bb38e434b7c0ceacdbc114275e67",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1558641989",
+    "split": "train",
+    "labels": [],
+    "ingredients": [
+      "cauliflower"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1558641989.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1558641989.png",
+    "sha256": "8519cb0007f155bea2834d32774fe760b60d43844a900e3e62378d9177ffbbb4",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1565383097",
+    "split": "train",
+    "labels": [
+      "chicken"
+    ],
+    "ingredients": [
+      "spinach (raw)",
+      "cucumbers",
+      "olives",
+      "chicken",
+      "parmesan cheese"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1565383097.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1565383097.png",
+    "sha256": "d40071a5a526f935a53565a5d883bca56c670b374ebffb99414ceb552777d7a7",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1565724269",
+    "split": "train",
+    "labels": [
+      "broccoli",
+      "chicken"
+    ],
+    "ingredients": [
+      "pizza",
+      "chicken",
+      "spinach (raw)",
+      "wheat berry",
+      "olive oil",
+      "thyme",
+      "salt",
+      "lemon juice",
+      "shallots",
+      "broccoli",
+      "garlic",
+      "parsley"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1565724269.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1565724269.png",
+    "sha256": "914641dca0f64faf8367b352f21b5d172928524ff940c0dbcf524ebee3d96572",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1558631872",
+    "split": "train",
+    "labels": [],
+    "ingredients": [
+      "cherry tomatoes"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1558631872.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1558631872.png",
+    "sha256": "1871ae8144ed22fcf094aa2eea2c296fd7dac96ad17343e5cfe8475ef557539f",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1564170542",
+    "split": "train",
+    "labels": [
+      "rice",
+      "broccoli"
+    ],
+    "ingredients": [
+      "thyme",
+      "zucchini",
+      "olive oil",
+      "broccoli",
+      "salt",
+      "salmon",
+      "pepper",
+      "arugula",
+      "brown rice",
+      "squash"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1564170542.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1564170542.png",
+    "sha256": "1273fd02500fb4f530578b308fe8d3d406f214d0cb36770cd0ce4f689b0c09b7",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1559844928",
+    "split": "train",
+    "labels": [],
+    "ingredients": [
+      "potatoes"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1559844928.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1559844928.png",
+    "sha256": "eb4cb37e4979db6034ed9243c9cfb10a1e00c98aa136ff55e79b233b9fce9645",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1564000490",
+    "split": "train",
+    "labels": [
+      "chicken"
+    ],
+    "ingredients": [
+      "pepper",
+      "arugula",
+      "cream",
+      "caesar salad",
+      "butter",
+      "shallots",
+      "cheese pizza",
+      "salt",
+      "garlic",
+      "lemon juice",
+      "basil",
+      "mushroom",
+      "wheat berry",
+      "oregano",
+      "thyme",
+      "olive oil",
+      "rosemary",
+      "white wine",
+      "chicken"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1564000490.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1564000490.png",
+    "sha256": "2b7ddb5343e036fc5e20da9702f7925abdf673c775d07fc8f38fd365fe7ead85",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1561576590",
+    "split": "train",
+    "labels": [],
+    "ingredients": [
+      "squash",
+      "olive oil",
+      "salt"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1561576590.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1561576590.png",
+    "sha256": "7e0735f30b1dd4a38024da1859aa766e7cf4f6dea5c4343fe42a3ea26f9aa673",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1559844090",
+    "split": "train",
+    "labels": [],
+    "ingredients": [
+      "strawberries",
+      "pears",
+      "mandarin oranges"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1559844090.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1559844090.png",
+    "sha256": "164e7abd32cbd21367d8caf006defcf0a696be85cafd0d4eb9834c2236b11d5b",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1563564760",
+    "split": "train",
+    "labels": [
+      "rice"
+    ],
+    "ingredients": [
+      "eggs",
+      "croutons",
+      "mushroom",
+      "olive oil",
+      "ground turkey",
+      "kale",
+      "salt",
+      "chive",
+      "carrot",
+      "garlic",
+      "white rice",
+      "corn on the cob",
+      "parmesan cheese",
+      "cream",
+      "onions",
+      "celery",
+      "caesar dressing",
+      "thyme"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1563564760.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1563564760.png",
+    "sha256": "f8ea079d63cf639304567ac2bd8607793475b6c99eda80a98c5991f194d3568e",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1558641075",
+    "split": "train",
+    "labels": [],
+    "ingredients": [
+      "cherry tomatoes"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1558641075.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1558641075.png",
+    "sha256": "a55ac73bd34d35974ee60eca1da68f81a73f378d1b8a5226c1b6f6167ea1cb86",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1558723096",
+    "split": "train",
+    "labels": [],
+    "ingredients": [
+      "cauliflower"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1558723096.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1558723096.png",
+    "sha256": "a144a53d3c72fcddc8800336fbf7676143d6b2ca01c56cad77bca90462b886da",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1565641943",
+    "split": "train",
+    "labels": [
+      "chicken"
+    ],
+    "ingredients": [
+      "thyme",
+      "salt",
+      "cheese pizza",
+      "olive oil",
+      "garlic",
+      "wheat berry",
+      "spinach (raw)",
+      "quinoa",
+      "chicken breast",
+      "cherry tomatoes",
+      "asparagus",
+      "parmesan cheese"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1565641943.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1565641943.png",
+    "sha256": "77ff903f3702f1277d9677fa2901ab0018d1f8158e23f995d6a1f5e06f5dbab4",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1561061593",
+    "split": "train",
+    "labels": [],
+    "ingredients": [
+      "caesar dressing",
+      "parmesan cheese",
+      "kale",
+      "croutons"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1561061593.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1561061593.png",
+    "sha256": "7b23b52692ea48d4227c6189b1300711ad493ec9916865fd9ae680eedf89241d",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1558632959",
+    "split": "train",
+    "labels": [],
+    "ingredients": [
+      "cherry tomatoes"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1558632959.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1558632959.png",
+    "sha256": "2565003de6d458bb85c67f6797fff241f2df239b3ababba232a428bec2b120ca",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1563475921",
+    "split": "train",
+    "labels": [
+      "rice"
+    ],
+    "ingredients": [
+      "shallots",
+      "garlic",
+      "lemon juice",
+      "onions",
+      "spinach (raw)",
+      "jalapenos",
+      "pineapple",
+      "cauliflower",
+      "honeydew melons",
+      "chili",
+      "salt",
+      "olive oil",
+      "lime",
+      "ginger",
+      "brown rice",
+      "cilantro",
+      "salmon"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1563475921.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1563475921.png",
+    "sha256": "e47412813568a6aa1601604ae497c7562cd82649ed59d64af2d6966a7d82c97e",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1558028007",
+    "split": "train",
+    "labels": [],
+    "ingredients": [
+      "potatoes"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1558028007.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1558028007.png",
+    "sha256": "e9f871b0ce18eec6d26bc7d9cdeab2e7bd14463b0ebee5aee240357bca74137a",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1558632921",
+    "split": "train",
+    "labels": [],
+    "ingredients": [
+      "apple"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1558632921.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1558632921.png",
+    "sha256": "051b293f878d94fba7e60572c18d77d58ecbb56dd5c7b9fb9332e25fcc28b786",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1559838279",
+    "split": "train",
+    "labels": [],
+    "ingredients": [
+      "bacon",
+      "berries"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1559838279.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1559838279.png",
+    "sha256": "7f52ff28b0fb7c41fb739a3f114b7499418cfa4242a8b16cbf9b76108b581c0f",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1560366410",
+    "split": "train",
+    "labels": [],
+    "ingredients": [
+      "blueberries",
+      "mustard",
+      "walnuts",
+      "salt",
+      "pepper",
+      "asparagus",
+      "olive oil",
+      "arugula",
+      "chard",
+      "vinegar"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1560366410.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1560366410.png",
+    "sha256": "638b1074f491f0bf5dc086ae54eeb47fd0eade6081d2ce61ac7d04e0ec35dfe2",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1559590202",
+    "split": "train",
+    "labels": [
+      "chicken"
+    ],
+    "ingredients": [
+      "couscous",
+      "caesar salad",
+      "chicken",
+      "asparagus"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1559590202.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1559590202.png",
+    "sha256": "7ce23b981baffbe7f67cda8cfcb4b7bf1f25600bb6f60b822c534dc8aa3e5aa0",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1562777099",
+    "split": "train",
+    "labels": [],
+    "ingredients": [
+      "salt",
+      "pepper",
+      "strawberries",
+      "sweet potato",
+      "scrambled eggs",
+      "olive oil",
+      "brussels sprouts"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1562777099.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1562777099.png",
+    "sha256": "2fdca8ecb9f3c2267a994366bbcfc102ae39591800adb84277e7b974644da023",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1563480476",
+    "split": "train",
+    "labels": [
+      "rice"
+    ],
+    "ingredients": [
+      "salmon",
+      "salt",
+      "lime",
+      "chili",
+      "onions",
+      "lemon juice",
+      "olive oil",
+      "ginger",
+      "jalapenos",
+      "spinach (raw)",
+      "brown rice",
+      "cilantro",
+      "shallots",
+      "garlic"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1563480476.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1563480476.png",
+    "sha256": "68128302ba65c6ce49e224271ad0625284dae4b745e4c545d21f2a523fcc8324",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1561749711",
+    "split": "train",
+    "labels": [
+      "rice"
+    ],
+    "ingredients": [
+      "salmon",
+      "salt",
+      "thyme",
+      "olive oil",
+      "arugula",
+      "brown rice",
+      "cherry tomatoes",
+      "pepper"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1561749711.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1561749711.png",
+    "sha256": "d52f7cdb3258fececba754e7efada4dbcad6ffe144c2b971a476eafe7c2b4ccc",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1562959129",
+    "split": "train",
+    "labels": [],
+    "ingredients": [
+      "fish",
+      "garlic",
+      "salt",
+      "pizza",
+      "onions",
+      "pepper",
+      "quinoa",
+      "artichokes",
+      "lemon juice",
+      "olive oil",
+      "arugula",
+      "jalapenos",
+      "tomatillo",
+      "parsnips",
+      "cilantro",
+      "roasted potatoes"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1562959129.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1562959129.png",
+    "sha256": "99839f567988538861a04b2b0f5457c4812eb19c60ede65b16b7f5768c8579b8",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1559846073",
+    "split": "train",
+    "labels": [
+      "broccoli"
+    ],
+    "ingredients": [
+      "mandarin oranges",
+      "broccoli"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1559846073.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1559846073.png",
+    "sha256": "f9d91986cad423c93f5f28fde601e5e0c19cd3b6036792a8f771f43f40d03089",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1563479625",
+    "split": "train",
+    "labels": [
+      "rice",
+      "broccoli"
+    ],
+    "ingredients": [
+      "goat cheese",
+      "salt",
+      "figs",
+      "spinach (raw)",
+      "shallots",
+      "chili",
+      "brussels sprouts",
+      "ginger",
+      "jalapenos",
+      "salmon",
+      "cauliflower",
+      "garlic",
+      "lime",
+      "onions",
+      "lemon juice",
+      "mustard greens",
+      "olive oil",
+      "cilantro",
+      "arugula",
+      "brown rice",
+      "apple",
+      "pepper",
+      "broccoli"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1563479625.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1563479625.png",
+    "sha256": "c79385b0f03cce9606ec256f0b252225116d8e0bc3a3b36d26c27e4720f0fa8d",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1562785184",
+    "split": "train",
+    "labels": [
+      "rice"
+    ],
+    "ingredients": [
+      "salt",
+      "green onions",
+      "garlic",
+      "caesar salad",
+      "country rice",
+      "olive oil",
+      "onions",
+      "eggplant",
+      "fish"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1562785184.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1562785184.png",
+    "sha256": "a25b52018572ede708ea9f2acd70463442526baae4f4fee1f633eff1968269db",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1563910708",
+    "split": "train",
+    "labels": [
+      "rice"
+    ],
+    "ingredients": [
+      "blueberries",
+      "vinegar",
+      "lemon juice",
+      "mustard",
+      "olive oil",
+      "green beans",
+      "lime",
+      "salt",
+      "garlic",
+      "shallots",
+      "radishes",
+      "salmon",
+      "spinach (raw)",
+      "ginger",
+      "onions",
+      "brown rice",
+      "jalapenos",
+      "chili",
+      "cilantro"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1563910708.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1563910708.png",
+    "sha256": "8fe6144300273e768a51105f8eaccd7904641ae064464cc7098d0150a2c20b6c",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1565119669",
+    "split": "train",
+    "labels": [],
+    "ingredients": [
+      "kale",
+      "zucchini",
+      "chard",
+      "chayote squash"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1565119669.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1565119669.png",
+    "sha256": "ef678a6638cc560bd174814a2dcbaaf1bd2af01ba467839dcda46f5fc20aae6d",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1566587958",
+    "split": "train",
+    "labels": [
+      "rice"
+    ],
+    "ingredients": [
+      "brown rice",
+      "arugula",
+      "salt",
+      "pepper",
+      "thyme",
+      "salmon",
+      "olive oil"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1566587958.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1566587958.png",
+    "sha256": "7d74a6d3d7c58c80eee9d777ed57b667fd573058459f31772b3721105af48a59",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1563464543",
+    "split": "train",
+    "labels": [],
+    "ingredients": [
+      "bacon",
+      "berries",
+      "watermelon",
+      "roasted potatoes",
+      "scrambled eggs"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1563464543.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1563464543.png",
+    "sha256": "e39c22640be3315525cdf8202e509c4d68ca4bd8c7acd381de31198fa849c279",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1563480608",
+    "split": "train",
+    "labels": [
+      "rice",
+      "pasta",
+      "broccoli"
+    ],
+    "ingredients": [
+      "beef",
+      "salt",
+      "cilantro",
+      "olive oil",
+      "cucumbers",
+      "jalapenos",
+      "brown rice",
+      "cauliflower",
+      "lime",
+      "broccoli",
+      "thyme",
+      "sour cream",
+      "ginger",
+      "spinach (raw)",
+      "wine",
+      "pasta",
+      "garlic",
+      "mushroom",
+      "lemon juice",
+      "mustard",
+      "salmon",
+      "figs",
+      "chili",
+      "shallots",
+      "onions",
+      "chard",
+      "cream",
+      "vinegar",
+      "cherry tomatoes"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1563480608.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1563480608.png",
+    "sha256": "2c1bbb5f2a078ed25faddd22ff9d4985207b42f88152cd452a0ef77cd717cd7e",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1561661850",
+    "split": "train",
+    "labels": [
+      "rice"
+    ],
+    "ingredients": [
+      "sugar",
+      "salt",
+      "soy sauce",
+      "garlic",
+      "pizza",
+      "pork",
+      "white rice",
+      "bok choy",
+      "pepper"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1561661850.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1561661850.png",
+    "sha256": "2162dcc83eecd3dd88ede99870d21abe6cf11a9b1a6cc2b3a9915fd9529b863b",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1566333118",
+    "split": "train",
+    "labels": [],
+    "ingredients": [
+      "cheese pizza"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1566333118.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1566333118.png",
+    "sha256": "104ec58c2de8d45726ab6c9485cffe93bffa2189086217ec887de6376611b795",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1565727821",
+    "split": "train",
+    "labels": [
+      "broccoli",
+      "chicken"
+    ],
+    "ingredients": [
+      "parmesan cheese",
+      "chicken",
+      "mixed greens",
+      "broccoli"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1565727821.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1565727821.png",
+    "sha256": "5ec907a8e31e464c7ff339a09fb3f49e7d743dfa57d2ceabd40d647f07a6b14c",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1562960437",
+    "split": "train",
+    "labels": [],
+    "ingredients": [
+      "roasted potatoes"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1562960437.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1562960437.png",
+    "sha256": "00698592a4057e45c670d1fd4e18e9bb9a127ad72ab87bba4ae2a29561a5eb86",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1559235815",
+    "split": "train",
+    "labels": [],
+    "ingredients": [
+      "cream cheese",
+      "bagels",
+      "strawberries",
+      "eggs"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1559235815.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1559235815.png",
+    "sha256": "cd0ffcbeb83b6809138ac0377dc4b097408190b06e3f554e85f5e12ebab3b809",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1558719514",
+    "split": "train",
+    "labels": [],
+    "ingredients": [
+      "almonds",
+      "apple",
+      "corn on the cob",
+      "cherry tomatoes",
+      "cauliflower"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1558719514.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1558719514.png",
+    "sha256": "98e3a216fd66138121981211a2b4621ed0e4ba9c48732847cc0eb94997e4f9dd",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1561578603",
+    "split": "train",
+    "labels": [],
+    "ingredients": [
+      "olive oil",
+      "onions",
+      "salt",
+      "roasted potatoes",
+      "spinach (cooked)",
+      "shallots",
+      "bok choy",
+      "millet",
+      "beef",
+      "vinegar"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1561578603.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1561578603.png",
+    "sha256": "a17216d6acebe92f3ba087e1f754ae1e9f1afd40ebd4dd96094d7ca3888048e0",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1563822636",
+    "split": "train",
+    "labels": [
+      "broccoli"
+    ],
+    "ingredients": [
+      "cauliflower",
+      "lime",
+      "steak",
+      "wheat berry",
+      "squash",
+      "olive oil",
+      "zucchini",
+      "salt",
+      "broccoli",
+      "garlic",
+      "caesar salad"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1563822636.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1563822636.png",
+    "sha256": "f9f03eaee2fbd2ca17a2eadfd603c0d658594f24fe648773c610c3a56b22ceb4",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1562784388",
+    "split": "train",
+    "labels": [],
+    "ingredients": [
+      "shallots",
+      "apple",
+      "eggplant",
+      "corn on the cob",
+      "pilaf",
+      "cranberries",
+      "lemon juice",
+      "salt",
+      "arugula",
+      "parsley",
+      "pizza",
+      "olive oil",
+      "mustard greens",
+      "garlic",
+      "bulgur"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1562784388.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1562784388.png",
+    "sha256": "f63cc6664e45c573da71e6305916af5a447542de2ebb2ed106b7ee5be00a5f7a",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1563996656",
+    "split": "train",
+    "labels": [
+      "rice"
+    ],
+    "ingredients": [
+      "carrot",
+      "cilantro",
+      "garlic",
+      "shallots",
+      "pepper",
+      "jalapenos",
+      "brown rice",
+      "vinegar",
+      "caesar salad",
+      "steak",
+      "olive oil",
+      "tatsoi",
+      "lemon juice",
+      "parsley",
+      "salt"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1563996656.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1563996656.png",
+    "sha256": "a7baf65c2b31e5d2b0eaf04e9bd817d925a90b8ac7f49a94b04b98545628a49f",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1559844611",
+    "split": "train",
+    "labels": [],
+    "ingredients": [
+      "grapes"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1559844611.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1559844611.png",
+    "sha256": "4d0d54f3735f359b9ef99ae430e38d02461fe9b86747bc5006431732ea6ecc20",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1565813386",
+    "split": "train",
+    "labels": [],
+    "ingredients": [
+      "tofu"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1565813386.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1565813386.png",
+    "sha256": "967deda52f55b2077cf0ebd10aa508654ca481a243ba0e4c647ed991720e5893",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1562689645",
+    "split": "train",
+    "labels": [
+      "broccoli"
+    ],
+    "ingredients": [
+      "bacon",
+      "olive oil",
+      "scrambled eggs",
+      "broccoli"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1562689645.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1562689645.png",
+    "sha256": "0c4a789f88082cddd206aa9e36223acd1c2e2bec3c4b0a63c708f571acda7c25",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1565724235",
+    "split": "train",
+    "labels": [
+      "broccoli",
+      "chicken"
+    ],
+    "ingredients": [
+      "spinach (raw)",
+      "parsley",
+      "wheat berry",
+      "chicken",
+      "broccoli",
+      "salt",
+      "garlic",
+      "olive oil",
+      "lemon juice",
+      "thyme",
+      "shallots"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1565724235.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1565724235.png",
+    "sha256": "877f53bf511a1f136b0d3a79c0b776d11f1274607d252525287029c23f70dfdb",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1565382762",
+    "split": "train",
+    "labels": [],
+    "ingredients": [
+      "pepperoni pizza",
+      "pepper",
+      "olive oil",
+      "carrot",
+      "salt"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1565382762.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1565382762.png",
+    "sha256": "205e1ec27e2de4bd6540b6969ecbee1a737f46c6d1f3c05336730bafea00e173",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1563565805",
+    "split": "train",
+    "labels": [],
+    "ingredients": [
+      "shallots",
+      "garlic",
+      "mushroom",
+      "fish",
+      "cherry tomatoes",
+      "chard",
+      "kale",
+      "salt",
+      "bok choy",
+      "wheat berry",
+      "olive oil",
+      "parsley",
+      "lemon juice",
+      "onions",
+      "chive"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1563565805.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1563565805.png",
+    "sha256": "b0c3fa61191c3bff6da692016fddfde02239c0c4ace2cbe074aedcd672f7d6d0",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1561753168",
+    "split": "train",
+    "labels": [
+      "rice"
+    ],
+    "ingredients": [
+      "brown rice",
+      "arugula",
+      "salmon",
+      "thyme",
+      "olive oil",
+      "pepper",
+      "salt"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1561753168.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1561753168.png",
+    "sha256": "8efa03525d6129de7faf05e4a199ea32adb5716d0eb866b41050910a2763ae67",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1568314951",
+    "split": "train",
+    "labels": [
+      "rice"
+    ],
+    "ingredients": [
+      "salt",
+      "lime",
+      "spinach (cooked)",
+      "cilantro",
+      "olive oil",
+      "onions",
+      "avocado",
+      "spinach (raw)",
+      "jalapenos",
+      "lemon juice",
+      "salmon",
+      "chili",
+      "tomatoes",
+      "shallots",
+      "garlic",
+      "ginger",
+      "brown rice",
+      "vinegar",
+      "bok choy",
+      "millet",
+      "beef"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1568314951.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1568314951.png",
+    "sha256": "0fe9f6c73a7da2a3a9f0df58fee1f1f11ce187f542bec847e95ee5b49bd4ea05",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1565118067",
+    "split": "train",
+    "labels": [
+      "chicken"
+    ],
+    "ingredients": [
+      "carrot",
+      "chicken breast",
+      "tuna",
+      "cherry tomatoes",
+      "cheese pizza",
+      "bell peppers"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1565118067.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1565118067.png",
+    "sha256": "76a5f3c38e59bf049b16264122f856856831cbb98d3e6d398961cb57ed257a04",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1563898880",
+    "split": "train",
+    "labels": [
+      "broccoli"
+    ],
+    "ingredients": [
+      "radishes",
+      "scrambled eggs",
+      "salsa",
+      "vinegar",
+      "bacon",
+      "mustard",
+      "cucumbers",
+      "olive oil",
+      "garlic",
+      "bell peppers",
+      "salt",
+      "broccoli"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1563898880.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1563898880.png",
+    "sha256": "b411fe00831051f31a3bd8da5291642323c4ce19c6047567cbaa1d125e05b98f",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1563564828",
+    "split": "train",
+    "labels": [
+      "rice"
+    ],
+    "ingredients": [
+      "lemon juice",
+      "cherry tomatoes",
+      "fish",
+      "eggs",
+      "olive oil",
+      "parsley",
+      "celery",
+      "salt",
+      "carrot",
+      "shallots",
+      "white rice",
+      "croutons",
+      "mushroom",
+      "corn on the cob",
+      "chive",
+      "ground turkey",
+      "parmesan cheese",
+      "cream",
+      "thyme",
+      "onions",
+      "caesar dressing",
+      "kale",
+      "wheat berry",
+      "chard",
+      "garlic"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1563564828.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1563564828.png",
+    "sha256": "8aa532ab8fc36240de3c2ea9a03601df74814a30981b5db289477a43a733a692",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1563824155",
+    "split": "train",
+    "labels": [
+      "broccoli"
+    ],
+    "ingredients": [
+      "garlic",
+      "turnips",
+      "broccoli",
+      "salt",
+      "zucchini",
+      "squash",
+      "olive oil",
+      "wheat berry",
+      "lime",
+      "steak",
+      "pepper",
+      "cauliflower",
+      "couscous"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1563824155.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1563824155.png",
+    "sha256": "436e1dd97196626be479f35b41461ef32fb9f7b7129e6a4c823ed3c3e5176afb",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1562613898",
+    "split": "train",
+    "labels": [
+      "broccoli"
+    ],
+    "ingredients": [
+      "shallots",
+      "salt",
+      "bulgur",
+      "lemon juice",
+      "mustard greens",
+      "olive oil",
+      "garlic",
+      "cranberries",
+      "broccoli",
+      "arugula",
+      "parsley",
+      "apple"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1562613898.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1562613898.png",
+    "sha256": "b64a063a2f720e7b680c6fce0e16570699a0059619007355c8631a66c12dd520",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1563827162",
+    "split": "train",
+    "labels": [
+      "rice",
+      "broccoli",
+      "chicken"
+    ],
+    "ingredients": [
+      "soy sauce",
+      "white rice",
+      "ginger",
+      "squash",
+      "olive oil",
+      "garlic",
+      "green onions",
+      "cheese pizza",
+      "broccoli",
+      "caesar salad",
+      "pineapple",
+      "chicken",
+      "spinach (raw)",
+      "green beans",
+      "vinegar",
+      "zucchini",
+      "salt"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1563827162.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1563827162.png",
+    "sha256": "721e78530be85836a78df305a9d62c95bfff6734f925d9abc1e89b8622bb1a20",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1563302345",
+    "split": "train",
+    "labels": [
+      "chicken"
+    ],
+    "ingredients": [
+      "wheat berry",
+      "parsley",
+      "spinach (raw)",
+      "mushroom",
+      "chicken",
+      "shallots",
+      "garlic",
+      "salt",
+      "olive oil",
+      "thyme",
+      "lemon juice"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1563302345.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1563302345.png",
+    "sha256": "4966319acd1a3a09ec747348659e75cf9d9c189807a509c0fdca891744e3b68c",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1562613340",
+    "split": "train",
+    "labels": [
+      "rice"
+    ],
+    "ingredients": [
+      "apple",
+      "steak",
+      "arugula",
+      "onions",
+      "lemon juice",
+      "olive oil",
+      "garlic",
+      "mustard greens",
+      "cilantro",
+      "salt",
+      "pineapple",
+      "white rice",
+      "kale",
+      "jalapenos",
+      "vinegar",
+      "goat cheese",
+      "figs"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1562613340.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1562613340.png",
+    "sha256": "57fe0d76491c9392258159504c5e339c472389a3f8853e0af91ff48000bc384e",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1562096401",
+    "split": "train",
+    "labels": [
+      "chicken"
+    ],
+    "ingredients": [
+      "chicken thighs",
+      "lemon juice",
+      "mushroom",
+      "wine",
+      "green beans",
+      "quinoa",
+      "salt",
+      "garlic",
+      "spinach (cooked)",
+      "shallots",
+      "olive oil",
+      "cucumbers",
+      "eggplant",
+      "squash"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1562096401.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1562096401.png",
+    "sha256": "14b2e50885e67e488bc9ec89710ba35415e26735c04c7abf2b08099c33b46004",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1568056258",
+    "split": "train",
+    "labels": [
+      "chicken"
+    ],
+    "ingredients": [
+      "olives",
+      "carrot",
+      "chicken",
+      "caesar dressing",
+      "cherry tomatoes",
+      "onions"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1568056258.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1568056258.png",
+    "sha256": "ccf3b54ff0b69b2402802bffa37e4b3784e0892eba1ca69b27cb50bad64ccd6d",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1565637123",
+    "split": "train",
+    "labels": [
+      "pasta"
+    ],
+    "ingredients": [
+      "pasta salad"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1565637123.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1565637123.png",
+    "sha256": "3421716cab382e5296fb8af395426e954b23ee8dfd9bec78a5088d2b793c207a",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1563389199",
+    "split": "train",
+    "labels": [
+      "broccoli"
+    ],
+    "ingredients": [
+      "broccoli",
+      "garlic",
+      "pepper",
+      "arugula",
+      "vinegar",
+      "chard",
+      "blueberries",
+      "bulgur",
+      "olive oil",
+      "pecans",
+      "mustard",
+      "tofu",
+      "salt",
+      "carrot"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1563389199.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1563389199.png",
+    "sha256": "509866c05d733c7a85933582cb2486dc0cc44abf5894a922882ad4d600d80ad9",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1566499686",
+    "split": "train",
+    "labels": [
+      "rice"
+    ],
+    "ingredients": [
+      "pepper",
+      "spinach (raw)",
+      "vinegar",
+      "white rice",
+      "olives",
+      "bok choy",
+      "garlic",
+      "soy sauce",
+      "mustard",
+      "onions",
+      "olive oil",
+      "pork",
+      "sun dried tomatoes",
+      "sugar",
+      "salt",
+      "cucumbers"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1566499686.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1566499686.png",
+    "sha256": "926a6245087a96f43c20643afc57bc0a8f2faab5ac0601669830ff6ca3bb095e",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1563823359",
+    "split": "train",
+    "labels": [
+      "rice",
+      "broccoli",
+      "chicken"
+    ],
+    "ingredients": [
+      "white rice",
+      "vinegar",
+      "green beans",
+      "spinach (raw)",
+      "ginger",
+      "soy sauce",
+      "green onions",
+      "salt",
+      "garlic",
+      "cauliflower",
+      "chicken",
+      "steak",
+      "wheat berry",
+      "olive oil",
+      "lime",
+      "broccoli"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1563823359.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1563823359.png",
+    "sha256": "0c1c2030efd99d2c30b2d6f68a8286141498c6b03e910a7d0d9f3d915e6ae698",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1562689601",
+    "split": "train",
+    "labels": [
+      "broccoli"
+    ],
+    "ingredients": [
+      "broccoli",
+      "olive oil"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1562689601.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1562689601.png",
+    "sha256": "819c64ff82187993deb81d834b75fe39e728d3ff26a21a20a874dd69d205a9bc",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1562615153",
+    "split": "train",
+    "labels": [
+      "rice",
+      "chicken"
+    ],
+    "ingredients": [
+      "goat cheese",
+      "thyme",
+      "garlic",
+      "parsley",
+      "lemon juice",
+      "jalapenos",
+      "vinegar",
+      "white rice",
+      "apple",
+      "radishes",
+      "salt",
+      "cilantro",
+      "chicken thighs",
+      "arugula",
+      "onions",
+      "olive oil",
+      "mustard greens",
+      "steak",
+      "kale",
+      "squash",
+      "brown rice",
+      "basil",
+      "pineapple",
+      "figs"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1562615153.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1562615153.png",
+    "sha256": "2fd36f9d86be046b1d485afb1c88f3892dac3a3262cff8e7c5c4d4de72dac027",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1562945186",
+    "split": "train",
+    "labels": [
+      "broccoli"
+    ],
+    "ingredients": [
+      "broccoli",
+      "greek yogurt",
+      "chia seeds",
+      "milk",
+      "olive oil"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1562945186.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1562945186.png",
+    "sha256": "532a18479d3b41f62f73a3c8bff483215dcc42b0828fe399a968efcb5aee65a6",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1566333324",
+    "split": "train",
+    "labels": [
+      "rice",
+      "chicken"
+    ],
+    "ingredients": [
+      "cheese pizza",
+      "spinach (cooked)",
+      "pepper",
+      "olive oil",
+      "onions",
+      "cauliflower",
+      "caesar salad",
+      "garlic",
+      "bok choy",
+      "chicken",
+      "beef",
+      "shallots",
+      "tomatoes",
+      "bell peppers",
+      "brussels sprouts",
+      "vinegar",
+      "spinach (raw)",
+      "jalapenos",
+      "millet",
+      "fried rice",
+      "salt"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1566333324.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1566333324.png",
+    "sha256": "6d98977b71f5c063444d346b2660bd872f8918202d732a0a0f6fc58c59e0a43a",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1559846034",
+    "split": "train",
+    "labels": [
+      "broccoli"
+    ],
+    "ingredients": [
+      "broccoli"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1559846034.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1559846034.png",
+    "sha256": "54bea147a01a4e9e7f30bad8d327e0a0100e7408e7782b2fa29cbcba476596a6",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1561665422",
+    "split": "train",
+    "labels": [
+      "rice",
+      "chicken"
+    ],
+    "ingredients": [
+      "carrot",
+      "lemon juice",
+      "parsley",
+      "brown rice",
+      "olive oil",
+      "rosemary",
+      "corn on the cob",
+      "chard",
+      "basil",
+      "garlic",
+      "chicken",
+      "salt",
+      "chive"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1561665422.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1561665422.png",
+    "sha256": "fc469de6971173eda15504777298fb01946c9862ace2bdd3964f0332f4810eba",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1566931548",
+    "split": "train",
+    "labels": [
+      "broccoli"
+    ],
+    "ingredients": [
+      "mixed greens",
+      "olives",
+      "broccoli"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1566931548.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1566931548.png",
+    "sha256": "64d8fcc144873675ab3398dc92ffcca0fbc48d07d0288f6d4ac592aaf34c11f1",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1565724588",
+    "split": "train",
+    "labels": [
+      "broccoli"
+    ],
+    "ingredients": [
+      "zucchini",
+      "broccoli",
+      "olive oil",
+      "roasted potatoes",
+      "chayote squash"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1565724588.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1565724588.png",
+    "sha256": "b592afa7206b231a3d3fa62cd250b4dc813f8b98dd1e425d34e21c0c1bf786a3",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1560888893",
+    "split": "train",
+    "labels": [
+      "rice",
+      "chicken"
+    ],
+    "ingredients": [
+      "garlic",
+      "shallots",
+      "roasted potatoes",
+      "thyme",
+      "olive oil",
+      "lemon juice",
+      "parsley",
+      "spinach (raw)",
+      "wheat berry",
+      "chicken",
+      "white rice",
+      "salt"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1560888893.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1560888893.png",
+    "sha256": "866cdf1b326371d53474e4a49970342672dc10896cfa722b185153013a8d9720",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1565204891",
+    "split": "train",
+    "labels": [
+      "rice",
+      "chicken"
+    ],
+    "ingredients": [
+      "olive oil",
+      "onions",
+      "brussels sprouts",
+      "chicken thighs",
+      "lemon juice",
+      "salt",
+      "garlic",
+      "pineapple",
+      "white rice",
+      "cilantro",
+      "pepper",
+      "vinegar",
+      "kale"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1565204891.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1565204891.png",
+    "sha256": "336fd7c3eedddf9651e34a48c900db6adfaaf9fc914e8ec96c9f7c462995381b",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1558462228",
+    "split": "train",
+    "labels": [
+      "rice"
+    ],
+    "ingredients": [
+      "white rice"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1558462228.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1558462228.png",
+    "sha256": "3877954b34d68c0c6d250de3033f3498a47ad9d622b710885be8bfbce478cb51",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1565987142",
+    "split": "train",
+    "labels": [
+      "chicken"
+    ],
+    "ingredients": [
+      "spinach (raw)",
+      "cucumbers",
+      "parmesan cheese",
+      "chicken",
+      "olives"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1565987142.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1565987142.png",
+    "sha256": "2ec894a8dbbb1c4f5e0f630fc2ae25e5a517d4ce00bf45139f33a842204b4510",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1561739649",
+    "split": "train",
+    "labels": [
+      "broccoli"
+    ],
+    "ingredients": [
+      "sweet potato",
+      "broccoli",
+      "raspberries",
+      "granola",
+      "blackberries",
+      "mixed greens",
+      "vinaigrette"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1561739649.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1561739649.png",
+    "sha256": "c63e0c5ab64cd938c3ba56dd168fe05aabe5c97179d80c1d7a818590ec31e8b4",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1561392410",
+    "split": "train",
+    "labels": [
+      "broccoli"
+    ],
+    "ingredients": [
+      "sausage",
+      "broccoli"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1561392410.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1561392410.png",
+    "sha256": "fbd8e2ff814ee84fc6f9418885a5430c2313c3d575bb561d49b86247a52c73cd",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1561665065",
+    "split": "train",
+    "labels": [
+      "rice",
+      "chicken"
+    ],
+    "ingredients": [
+      "millet",
+      "green beans",
+      "vinegar",
+      "brown rice",
+      "rosemary",
+      "salt",
+      "basil",
+      "mixed greens",
+      "carrot",
+      "apple",
+      "chicken",
+      "chard",
+      "olive oil",
+      "lemon juice",
+      "parsley",
+      "onions",
+      "chive",
+      "garlic"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1561665065.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1561665065.png",
+    "sha256": "7563f936217cd05796b987e5ef57225e062c081a611978c8ffae1065dcba8f62",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1560456814",
+    "split": "train",
+    "labels": [
+      "rice"
+    ],
+    "ingredients": [
+      "olive oil",
+      "chive",
+      "lime",
+      "fish",
+      "corn",
+      "jicama",
+      "sour cream",
+      "parsley",
+      "nopales",
+      "carrot",
+      "garlic",
+      "salt",
+      "pepper",
+      "wild rice",
+      "arugula"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1560456814.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1560456814.png",
+    "sha256": "6019ce708701246a83cac8d2d7ca48af67edd54ebace5a5ba54c1eeb3b1986fc",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1561663914",
+    "split": "train",
+    "labels": [
+      "rice",
+      "chicken"
+    ],
+    "ingredients": [
+      "chicken",
+      "chive",
+      "garlic",
+      "vinegar",
+      "corn on the cob",
+      "soy sauce",
+      "pork",
+      "pepper",
+      "olive oil",
+      "white rice",
+      "carrot",
+      "apple",
+      "bok choy",
+      "chard",
+      "brown rice",
+      "green beans",
+      "basil",
+      "rosemary",
+      "salt",
+      "lemon juice",
+      "parsley",
+      "onions",
+      "sugar",
+      "mixed greens",
+      "millet"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1561663914.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1561663914.png",
+    "sha256": "1e8ded456e54a205dc72307a133bc6e738607b174e6f626f049fe04da6f06da8",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1563307488",
+    "split": "train",
+    "labels": [
+      "rice",
+      "broccoli"
+    ],
+    "ingredients": [
+      "orange juice",
+      "olive oil",
+      "salt",
+      "beef",
+      "vinegar",
+      "soy sauce",
+      "chili",
+      "onions",
+      "kale",
+      "green onions",
+      "broccoli",
+      "garlic",
+      "white rice"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1563307488.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1563307488.png",
+    "sha256": "5a01fe1939d9107bc9293bd6c753b7cd49f43fdd2a34fc56ea35a42179b9af7b",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1563566810",
+    "split": "train",
+    "labels": [
+      "rice"
+    ],
+    "ingredients": [
+      "mustard",
+      "olive oil",
+      "cucumbers",
+      "cherry tomatoes",
+      "figs",
+      "salt",
+      "vinegar",
+      "wild rice",
+      "olives",
+      "wheat berry",
+      "chard",
+      "spinach (raw)"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1563566810.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1563566810.png",
+    "sha256": "558b6198f1d38e08ffc491f421ca38fe267a009de9caa88e9570cfb1d19c6070",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1562094730",
+    "split": "train",
+    "labels": [
+      "chicken"
+    ],
+    "ingredients": [
+      "mixed greens",
+      "parsley",
+      "squash",
+      "chicken thighs",
+      "green beans",
+      "mushroom",
+      "vinegar",
+      "eggplant",
+      "spinach (cooked)",
+      "garlic",
+      "shallots",
+      "cherry tomatoes",
+      "wine",
+      "lemon juice",
+      "cucumbers",
+      "olive oil",
+      "quinoa",
+      "carrot",
+      "salt"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1562094730.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1562094730.png",
+    "sha256": "1dbffeaa5cb44e1711a0b61d70e1b28c6fa094f56a692237ab732acb55bdb242",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1562613974",
+    "split": "train",
+    "labels": [
+      "rice",
+      "broccoli",
+      "chicken"
+    ],
+    "ingredients": [
+      "thyme",
+      "brown rice",
+      "arugula",
+      "basil",
+      "olive oil",
+      "mustard greens",
+      "cranberries",
+      "chicken thighs",
+      "vinegar",
+      "salt",
+      "apple",
+      "garlic",
+      "shallots",
+      "radishes",
+      "squash",
+      "parsley",
+      "lemon juice",
+      "bulgur",
+      "broccoli"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1562613974.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1562613974.png",
+    "sha256": "06114a26514d6537c8fa66e9e676526d0022c089fd5f2b3c171277cddc9034e7",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1565203015",
+    "split": "train",
+    "labels": [
+      "rice",
+      "chicken"
+    ],
+    "ingredients": [
+      "parsley",
+      "chard",
+      "lemon juice",
+      "garlic",
+      "chicken",
+      "chive",
+      "salt",
+      "brown rice",
+      "olive oil",
+      "basil",
+      "rosemary"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1565203015.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1565203015.png",
+    "sha256": "b93dc77375f9a118c2b3d626c2010effd581587ff207cf64b07cc6ba893008d8",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1564083534",
+    "split": "train",
+    "labels": [
+      "chicken"
+    ],
+    "ingredients": [
+      "cherry tomatoes",
+      "grilled chicken",
+      "olives",
+      "bell peppers"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1564083534.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1564083534.png",
+    "sha256": "55d4717584b461412136037e60e0f9140e4240f9de8c66a5b93662948ec81eca",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1561492703",
+    "split": "train",
+    "labels": [
+      "rice"
+    ],
+    "ingredients": [
+      "caesar salad",
+      "green onions",
+      "fried rice",
+      "country rice",
+      "olive oil",
+      "onions",
+      "squash",
+      "fish",
+      "salt",
+      "garlic"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1561492703.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1561492703.png",
+    "sha256": "2c8adbf41608f87b96134fc8368864cbd7ce2cbeef2eb80fc3c7e3775d855b22",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1558548666",
+    "split": "train",
+    "labels": [
+      "rice"
+    ],
+    "ingredients": [
+      "white rice"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1558548666.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1558548666.png",
+    "sha256": "a5bc39b2c34f78fcb47c35a13f9553151b7c3b1c476343eec50fd27900eb9b90",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1562875273",
+    "split": "train",
+    "labels": [
+      "chicken"
+    ],
+    "ingredients": [
+      "caesar salad",
+      "pepper",
+      "spinach (raw)",
+      "squash",
+      "wheat berry",
+      "rosemary",
+      "lemon juice",
+      "pizza",
+      "parsley",
+      "garlic",
+      "green beans",
+      "thyme",
+      "olive oil",
+      "basil",
+      "zucchini",
+      "salt",
+      "chicken"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1562875273.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1562875273.png",
+    "sha256": "9c688720d7a351bc39234e60617920fc3df97c298be3106666aaa965d432665f",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1559172356",
+    "split": "train",
+    "labels": [
+      "rice"
+    ],
+    "ingredients": [
+      "salt",
+      "brown rice",
+      "arugula",
+      "pepper",
+      "salmon",
+      "thyme",
+      "olive oil"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1559172356.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1559172356.png",
+    "sha256": "fcc000bdeee37d83b6cce15d29c151a8fec02886f9bd7f8ad8f3e5569e0682b0",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1566938088",
+    "split": "train",
+    "labels": [
+      "chicken"
+    ],
+    "ingredients": [
+      "salt",
+      "spinach (cooked)",
+      "chicken thighs",
+      "wine",
+      "bok choy",
+      "quinoa",
+      "garlic",
+      "shallots",
+      "olive oil",
+      "mushroom",
+      "lemon juice",
+      "eggplant",
+      "squash",
+      "cauliflower",
+      "cheese pizza"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1566938088.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1566938088.png",
+    "sha256": "b16d50171b668b0e9059663695e9fc1a46c2bf653f608ed6bdbad342fb618552",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1562691674",
+    "split": "train",
+    "labels": [
+      "broccoli"
+    ],
+    "ingredients": [
+      "sweet potato",
+      "olive oil",
+      "broccoli",
+      "egg whites",
+      "yam",
+      "greek yogurt",
+      "chia seeds",
+      "chicken apple sausage",
+      "milk"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1562691674.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1562691674.png",
+    "sha256": "2407a0d44e70a26ca6e2b242c43c0f8d0db5e72949e7d6318e908dfa73d24c37",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1561492182",
+    "split": "train",
+    "labels": [
+      "rice"
+    ],
+    "ingredients": [
+      "spinach (raw)",
+      "vinegar",
+      "radishes",
+      "fried rice",
+      "garlic",
+      "salt",
+      "mustard",
+      "olive oil",
+      "blueberries"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1561492182.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1561492182.png",
+    "sha256": "ae41beb77ebcd3b4e9d290f4a7216ac8c3b0f9157f79cbc7d963248c5763d8eb",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1562181217",
+    "split": "train",
+    "labels": [
+      "chicken"
+    ],
+    "ingredients": [
+      "salt",
+      "buttermilk",
+      "chicken",
+      "flour",
+      "parsley",
+      "lemon juice",
+      "vegetable oil",
+      "thyme",
+      "garlic"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1562181217.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1562181217.png",
+    "sha256": "e3ed05fc14c2d89db308a73beccdc9116e2fe2accc56432539ae4d8a9e158a72",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1565987298",
+    "split": "train",
+    "labels": [
+      "rice"
+    ],
+    "ingredients": [
+      "white rice",
+      "mushroom",
+      "celery",
+      "onions",
+      "kale",
+      "olive oil",
+      "chive",
+      "salt",
+      "cream",
+      "ground turkey",
+      "thyme",
+      "carrot",
+      "garlic",
+      "cheese pizza",
+      "eggs"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1565987298.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1565987298.png",
+    "sha256": "c22e9918d0906c5eaebfede8b03cb7d25188d9fb04b729cf9e600eb4bdabad9c",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1561739760",
+    "split": "train",
+    "labels": [
+      "broccoli"
+    ],
+    "ingredients": [
+      "vinaigrette",
+      "granola",
+      "blackberries",
+      "berries",
+      "mixed greens",
+      "broccoli",
+      "raspberries",
+      "cantaloupe",
+      "sweet potato"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1561739760.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1561739760.png",
+    "sha256": "ac34654ebd7960edf74be7f2e71ab92af8d3196d4614fbb570a796937a9ab5dc",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1562614952",
+    "split": "train",
+    "labels": [
+      "rice",
+      "broccoli",
+      "chicken"
+    ],
+    "ingredients": [
+      "radishes",
+      "pineapple",
+      "vinegar",
+      "lemon juice",
+      "parsley",
+      "kale",
+      "garlic",
+      "broccoli",
+      "white rice",
+      "jalapenos",
+      "chicken thighs",
+      "brown rice",
+      "steak",
+      "arugula",
+      "basil",
+      "olive oil",
+      "thyme",
+      "onions",
+      "cilantro",
+      "salt"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1562614952.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1562614952.png",
+    "sha256": "ded471f86bbf20d13f2fb36bccc67cd4b2f2ffcc464080eaecf164d89fb83d8f",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1560887480",
+    "split": "train",
+    "labels": [
+      "rice",
+      "broccoli"
+    ],
+    "ingredients": [
+      "onions",
+      "caesar dressing",
+      "pizza",
+      "kale",
+      "broccoli",
+      "beef",
+      "vinegar",
+      "parmesan cheese",
+      "eggplant",
+      "olive oil",
+      "orange juice",
+      "salt",
+      "chili",
+      "garlic",
+      "soy sauce",
+      "white rice",
+      "croutons",
+      "green onions"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1560887480.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1560887480.png",
+    "sha256": "a388ed81fc90feed7833c2343828fbd9c4d5b1390830d60d154ff49fc356d2ea",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1568401018",
+    "split": "train",
+    "labels": [
+      "broccoli",
+      "chicken"
+    ],
+    "ingredients": [
+      "broccoli",
+      "chicken",
+      "mixed greens"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1568401018.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1568401018.png",
+    "sha256": "b7610d3b991f463178342a75594f0f468bec691d668c6fb7a830f5d31169d641",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1563305982",
+    "split": "train",
+    "labels": [
+      "chicken"
+    ],
+    "ingredients": [
+      "apple",
+      "croutons",
+      "garlic",
+      "shallots",
+      "vinegar",
+      "parmesan cheese",
+      "caesar dressing",
+      "olive oil",
+      "mustard",
+      "thyme",
+      "lemon juice",
+      "salt",
+      "parsley",
+      "spinach (raw)",
+      "mushroom",
+      "wheat berry",
+      "cranberries",
+      "kale",
+      "onions",
+      "roasted potatoes",
+      "chicken"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1563305982.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1563305982.png",
+    "sha256": "fc5192614677c04ebc737e0c9c36e1610c6d59b63b5a9413eae5c7b7aed5e0f5",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1566501153",
+    "split": "train",
+    "labels": [
+      "chicken"
+    ],
+    "ingredients": [
+      "olives",
+      "carrot",
+      "spinach (raw)",
+      "parmesan cheese",
+      "chicken",
+      "avocado",
+      "olive oil"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1566501153.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1566501153.png",
+    "sha256": "d2158774d2d72a00bfb7f63c121ac8885c733c0d0c94fb72350aec1849981929",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1566331868",
+    "split": "train",
+    "labels": [
+      "rice",
+      "chicken"
+    ],
+    "ingredients": [
+      "brussels sprouts",
+      "onions",
+      "salt",
+      "tomatoes",
+      "bell peppers",
+      "garlic",
+      "pepper",
+      "millet",
+      "chicken",
+      "fried rice",
+      "jalapenos",
+      "spinach (raw)",
+      "olive oil"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1566331868.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1566331868.png",
+    "sha256": "f3ee52f0b841faf0e23398292cf9a71710b612ee3cd443c70f8ee5e9101fa8e9",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1563395510",
+    "split": "train",
+    "labels": [
+      "broccoli",
+      "chicken"
+    ],
+    "ingredients": [
+      "broccoli",
+      "carrot",
+      "salt",
+      "lime",
+      "olive oil",
+      "parsley",
+      "zucchini",
+      "corn",
+      "pepper",
+      "quinoa",
+      "cilantro",
+      "hominy",
+      "garlic",
+      "sour cream",
+      "jalapenos",
+      "spinach (raw)",
+      "black beans",
+      "arugula",
+      "cheese",
+      "tortilla chips",
+      "chicken thighs",
+      "squash",
+      "tomatillo",
+      "cheese pizza",
+      "fish",
+      "cherry tomatoes",
+      "chili",
+      "bell peppers",
+      "lemon juice",
+      "cabbage",
+      "onions",
+      "tomatoes"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1563395510.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1563395510.png",
+    "sha256": "4ab976ae139217f5b5077f7827c3f6b7764f41e073c08bfc61244183ec0b5531",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1565728684",
+    "split": "train",
+    "labels": [
+      "broccoli",
+      "chicken"
+    ],
+    "ingredients": [
+      "shallots",
+      "salt",
+      "cheese pizza",
+      "lemon juice",
+      "celery root",
+      "onions",
+      "vinegar",
+      "beef",
+      "garlic",
+      "bok choy",
+      "millet",
+      "chicken",
+      "spinach (cooked)",
+      "roasted potatoes",
+      "broccoli",
+      "mixed greens",
+      "parsley",
+      "olive oil",
+      "thyme",
+      "wheat berry",
+      "squash",
+      "spinach (raw)",
+      "mustard",
+      "cherry tomatoes",
+      "pineapple"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1565728684.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1565728684.png",
+    "sha256": "b9270f7c94d218b60d4f99e83490994d826e0bf854d9be54ef1108662ff3088c",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1566590946",
+    "split": "train",
+    "labels": [
+      "rice"
+    ],
+    "ingredients": [
+      "thyme",
+      "olive oil",
+      "salt",
+      "brown rice",
+      "arugula",
+      "pepper",
+      "salmon"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1566590946.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1566590946.png",
+    "sha256": "764b47f714cce48a33aa94093bb73965c1fbe2a989991dcf1644c24b9d4b7b58",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1561667430",
+    "split": "train",
+    "labels": [
+      "rice"
+    ],
+    "ingredients": [
+      "soy sauce",
+      "white rice",
+      "sugar",
+      "salt",
+      "pork",
+      "pepper",
+      "bok choy",
+      "garlic"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1561667430.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1561667430.png",
+    "sha256": "b8023e4cd519ebabf303d6a594ac45a8b4c9e400ff8caffc3c3452222008244d",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1563823423",
+    "split": "train",
+    "labels": [
+      "rice",
+      "broccoli",
+      "chicken"
+    ],
+    "ingredients": [
+      "white rice",
+      "cauliflower",
+      "soy sauce",
+      "caesar salad",
+      "steak",
+      "spinach (raw)",
+      "tofu",
+      "garlic",
+      "green onions",
+      "broccoli",
+      "salt",
+      "chicken",
+      "ginger",
+      "green beans",
+      "wheat berry",
+      "vinegar",
+      "olive oil",
+      "lime"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1563823423.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1563823423.png",
+    "sha256": "e563efae54ddb1902cc1678a9f40250dec601ace028c84fc18223e12fbdd83d1",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1561661449",
+    "split": "train",
+    "labels": [
+      "rice"
+    ],
+    "ingredients": [
+      "sugar",
+      "salt",
+      "soy sauce",
+      "garlic",
+      "white rice",
+      "pepper",
+      "bok choy",
+      "pork"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1561661449.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1561661449.png",
+    "sha256": "3014748f4c37ecc432d23eef531a6435e7e80c88e17423697e0b229a908cf65f",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1568319838",
+    "split": "train",
+    "labels": [
+      "rice"
+    ],
+    "ingredients": [
+      "onions",
+      "pizza",
+      "mustard",
+      "bell peppers",
+      "lemon juice",
+      "cilantro",
+      "salt",
+      "salmon",
+      "vinegar",
+      "spinach (raw)",
+      "jalapenos",
+      "cucumbers",
+      "olive oil",
+      "ginger",
+      "lime",
+      "garlic",
+      "shallots",
+      "chili",
+      "radishes",
+      "brown rice"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1568319838.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1568319838.png",
+    "sha256": "a6ec03e38ff42b86676be82aa81133a5b334c11dc9702b9d2f2e1c03e7a9eb5e",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1567024224",
+    "split": "train",
+    "labels": [
+      "chicken"
+    ],
+    "ingredients": [
+      "quinoa",
+      "chicken thighs",
+      "eggplant",
+      "squash",
+      "chayote squash",
+      "cheese pizza",
+      "wine",
+      "cauliflower",
+      "zucchini",
+      "lemon juice",
+      "mushroom",
+      "olive oil",
+      "salt",
+      "spinach (cooked)",
+      "roasted potatoes",
+      "shallots",
+      "garlic"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1567024224.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1567024224.png",
+    "sha256": "39bcea7d9fddf418bc82703c16e880bda34cc4e907976881d6180c67db8e29ff",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1558638216",
+    "split": "train",
+    "labels": [
+      "rice"
+    ],
+    "ingredients": [
+      "white rice"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1558638216.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1558638216.png",
+    "sha256": "9d98e1fd7b530eb568d3430ee53b55516efb0ca3b63d1c7b2f937047cb3b8f1e",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1563217939",
+    "split": "train",
+    "labels": [
+      "rice"
+    ],
+    "ingredients": [
+      "white rice",
+      "arugula",
+      "cherry tomatoes",
+      "garlic",
+      "onions",
+      "olive oil",
+      "cucumbers",
+      "tomatoes",
+      "lemon juice",
+      "lime",
+      "salt",
+      "mustard greens",
+      "zucchini",
+      "parsley",
+      "mangos",
+      "jalapenos",
+      "pork",
+      "rosemary",
+      "cilantro"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1563217939.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1563217939.png",
+    "sha256": "51b3ba651505872fdd38cd5eba516df1d188850d7d4b1e81d4f79ac1c803ad89",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1566849327",
+    "split": "train",
+    "labels": [
+      "chicken"
+    ],
+    "ingredients": [
+      "parmesan cheese",
+      "mixed greens",
+      "avocado",
+      "olives",
+      "chicken"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1566849327.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1566849327.png",
+    "sha256": "ae2ecbb5e5274c7ee18d8d4307d218dcd87a271d67dc22484b8a4878b2eda5d8",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1568665052",
+    "split": "train",
+    "labels": [
+      "chicken"
+    ],
+    "ingredients": [
+      "jalapenos",
+      "spinach (raw)",
+      "squash",
+      "brussels sprouts",
+      "onions",
+      "cucumbers",
+      "mustard",
+      "garlic",
+      "salt",
+      "bell peppers",
+      "millet",
+      "pepper",
+      "vinegar",
+      "mustard greens",
+      "olive oil",
+      "tomatoes",
+      "chicken"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1568665052.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1568665052.png",
+    "sha256": "1789f5c65bfb368c7a817a4ca484cc48e9cd0682b88216006e52b3dfb56996e0",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1568048018",
+    "split": "train",
+    "labels": [
+      "broccoli"
+    ],
+    "ingredients": [
+      "turkey bacon",
+      "olive oil",
+      "scrambled eggs",
+      "broccoli"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1568048018.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1568048018.png",
+    "sha256": "32e0e56c65a5e9400ac6f2d8f2390b47a51dfe08ffb53cfea92f0966d4a019c3",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1563477701",
+    "split": "train",
+    "labels": [
+      "rice"
+    ],
+    "ingredients": [
+      "cilantro",
+      "olive oil",
+      "onions",
+      "brussels sprouts",
+      "jalapenos",
+      "garlic",
+      "shallots",
+      "chili",
+      "salt",
+      "lime",
+      "lemon juice",
+      "spinach (raw)",
+      "ginger",
+      "brown rice",
+      "pepper",
+      "salmon"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1563477701.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1563477701.png",
+    "sha256": "1122e522e4ab6eeb2f65d0286781f59be712a2669f2ae10fa812edc282ad7c34",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1566333228",
+    "split": "train",
+    "labels": [
+      "chicken"
+    ],
+    "ingredients": [
+      "jalapenos",
+      "vinegar",
+      "beef",
+      "bok choy",
+      "millet",
+      "bell peppers",
+      "shallots",
+      "caesar salad",
+      "spinach (raw)",
+      "pepper",
+      "chicken",
+      "garlic",
+      "spinach (cooked)",
+      "tomatoes",
+      "salt",
+      "cheese pizza",
+      "onions",
+      "olive oil"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1566333228.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1566333228.png",
+    "sha256": "9afa3b0723c387f1777953a3605755638555af9f88987fed8648b72f3d1a0fac",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1563898688",
+    "split": "train",
+    "labels": [
+      "broccoli"
+    ],
+    "ingredients": [
+      "broccoli"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1563898688.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1563898688.png",
+    "sha256": "822a02140d94495ce6c423f480d901e8cf0abaca2e0f2ebd55082849310b5cbe",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1568318480",
+    "split": "train",
+    "labels": [
+      "broccoli",
+      "chicken"
+    ],
+    "ingredients": [
+      "mixed greens",
+      "chicken",
+      "olive oil",
+      "steak",
+      "broccoli"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1568318480.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1568318480.png",
+    "sha256": "e0611c5b119916c711ed41c2951a5b4a2dbf1604edd76c02305482f5b51e59a7",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1560453412",
+    "split": "train",
+    "labels": [
+      "rice",
+      "chicken"
+    ],
+    "ingredients": [
+      "salmon",
+      "kimchi",
+      "olive oil",
+      "spinach (raw)",
+      "squash",
+      "wheat berry",
+      "thyme",
+      "basil",
+      "rosemary",
+      "zucchini",
+      "tomatoes",
+      "chicken",
+      "garlic",
+      "green beans",
+      "pepper",
+      "arugula",
+      "brown rice",
+      "wild rice",
+      "parsley",
+      "lemon juice",
+      "salt"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1560453412.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1560453412.png",
+    "sha256": "0815b03f31c8546e47a89011a2e158aae10953628b6b6a341d20b0dc84ce1f30",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1561752509",
+    "split": "train",
+    "labels": [
+      "chicken"
+    ],
+    "ingredients": [
+      "tortilla",
+      "onions",
+      "chicken thighs",
+      "squash",
+      "cheese",
+      "tomatoes",
+      "salt",
+      "chili",
+      "garlic",
+      "cilantro",
+      "olive oil",
+      "turnips"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1561752509.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1561752509.png",
+    "sha256": "6dbac6162d737bf1d4d067b69cc5fbf08f3c3969c4b02b9a841e7d26a072d697",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1565898659",
+    "split": "train",
+    "labels": [
+      "rice"
+    ],
+    "ingredients": [
+      "cherry tomatoes",
+      "tuna",
+      "olives",
+      "salmon",
+      "spinach (raw)",
+      "onions",
+      "chili",
+      "cilantro",
+      "lime",
+      "salt",
+      "ginger",
+      "brown rice",
+      "jalapenos",
+      "lemon juice",
+      "olive oil",
+      "carrot",
+      "shallots",
+      "garlic"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1565898659.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1565898659.png",
+    "sha256": "ae4b7e90c8ded0633c5f65a9246d966a227ed332abfdd80077fee2a8f8359f09",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1564686791",
+    "split": "train",
+    "labels": [
+      "chicken"
+    ],
+    "ingredients": [
+      "lettuce",
+      "lime",
+      "pepper",
+      "mixed greens",
+      "onions",
+      "cucumbers",
+      "olive oil",
+      "chicken breast",
+      "vinegar",
+      "salt",
+      "olives",
+      "cherry tomatoes",
+      "cheese pizza"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1564686791.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1564686791.png",
+    "sha256": "392dae5036931696a1cb3b8b70c7a1eeb41d30e2c8d59451ab1863927b815e33",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1565638323",
+    "split": "train",
+    "labels": [
+      "rice"
+    ],
+    "ingredients": [
+      "salt",
+      "garlic",
+      "parsley",
+      "onions",
+      "zucchini",
+      "rosemary",
+      "olive oil",
+      "arugula",
+      "pork",
+      "brown rice",
+      "white rice"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1565638323.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1565638323.png",
+    "sha256": "6006dbf959c00f3f048917b4e6733cf880ec06109067a41e3fc2933a443bc10d",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1566934120",
+    "split": "train",
+    "labels": [
+      "rice"
+    ],
+    "ingredients": [
+      "bok choy",
+      "salt",
+      "pepper",
+      "olive oil",
+      "thyme",
+      "arugula",
+      "brown rice",
+      "salmon",
+      "cauliflower"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1566934120.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1566934120.png",
+    "sha256": "f00adf863f02b82c60bc6f5fffaf72e1bacd5335b0563d441fc004f9afe24f46",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1565203094",
+    "split": "train",
+    "labels": [
+      "rice",
+      "chicken"
+    ],
+    "ingredients": [
+      "rosemary",
+      "parsley",
+      "garlic",
+      "chicken",
+      "pizza",
+      "salt",
+      "chive",
+      "lemon juice",
+      "chard",
+      "basil",
+      "olive oil",
+      "brown rice"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1565203094.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1565203094.png",
+    "sha256": "90d5c8617603d3280a1cc3b51c14b03e5008459661b676a4036b52c3d516187a",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1563306039",
+    "split": "train",
+    "labels": [
+      "rice",
+      "broccoli",
+      "chicken"
+    ],
+    "ingredients": [
+      "chicken",
+      "orange juice",
+      "green onions",
+      "white rice",
+      "mushroom",
+      "shallots",
+      "lemon juice",
+      "garlic",
+      "cranberries",
+      "caesar dressing",
+      "olive oil",
+      "thyme",
+      "salt",
+      "parsley",
+      "roasted potatoes",
+      "croutons",
+      "apple",
+      "wheat berry",
+      "spinach (raw)",
+      "parmesan cheese",
+      "vinegar",
+      "kale",
+      "mustard",
+      "onions",
+      "beef",
+      "broccoli",
+      "soy sauce",
+      "chili"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1563306039.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1563306039.png",
+    "sha256": "83e0f3eb13e48463f056bbd3d40bed6380adde05cb226ead13f47dd240fe9e83",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1562615388",
+    "split": "train",
+    "labels": [
+      "rice",
+      "broccoli"
+    ],
+    "ingredients": [
+      "apple",
+      "steak",
+      "vinegar",
+      "arugula",
+      "onions",
+      "kale",
+      "lemon juice",
+      "mustard greens",
+      "garlic",
+      "roasted potatoes",
+      "salt",
+      "figs",
+      "goat cheese",
+      "pineapple",
+      "white rice",
+      "jalapenos",
+      "olive oil",
+      "cilantro",
+      "broccoli"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1562615388.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1562615388.png",
+    "sha256": "b4f9a92446087381f6d89123b32d0d82e6f391599d7de846abc44efe23d425de",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1561405934",
+    "split": "train",
+    "labels": [
+      "rice",
+      "broccoli",
+      "chicken"
+    ],
+    "ingredients": [
+      "cucumbers",
+      "olive oil",
+      "soy sauce",
+      "green onions",
+      "salt",
+      "carrot",
+      "cheese pizza",
+      "pepper",
+      "chicken",
+      "lettuce",
+      "cherry tomatoes",
+      "green beans",
+      "spinach (raw)",
+      "ginger",
+      "lime",
+      "onions",
+      "mixed greens",
+      "garlic",
+      "broccoli",
+      "white rice",
+      "vinegar"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1561405934.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1561405934.png",
+    "sha256": "d58dd655ae5586f37e7d1ce4762a39c2f24661fb59efda943967ac9b4ca566bf",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1561060642",
+    "split": "train",
+    "labels": [
+      "rice",
+      "pasta"
+    ],
+    "ingredients": [
+      "jalapenos",
+      "brown rice",
+      "salt",
+      "bok choy",
+      "lemon juice",
+      "shallots",
+      "garlic",
+      "chili",
+      "onions",
+      "thyme",
+      "olive oil",
+      "mushroom",
+      "pasta",
+      "beef",
+      "ginger",
+      "tofu",
+      "spinach (raw)",
+      "cream",
+      "pineapple",
+      "cilantro",
+      "salmon",
+      "cheese pizza",
+      "lime",
+      "sour cream",
+      "brussels sprouts",
+      "wine"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1561060642.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1561060642.png",
+    "sha256": "fe9794cc47266313cff818b549b44f2b48db4d8999cac119d3369e5a9e2ea643",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1561576051",
+    "split": "train",
+    "labels": [
+      "chicken"
+    ],
+    "ingredients": [
+      "chicken",
+      "beef",
+      "garlic",
+      "butter",
+      "arugula",
+      "wheat berry",
+      "cream",
+      "olive oil",
+      "thyme",
+      "rosemary",
+      "salt",
+      "white wine",
+      "roasted potatoes",
+      "pepper",
+      "olives",
+      "millet",
+      "parmesan cheese",
+      "vinegar",
+      "mushroom",
+      "oregano",
+      "basil",
+      "lemon juice",
+      "bok choy",
+      "onions",
+      "cheese pizza",
+      "spinach (cooked)",
+      "shallots"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1561576051.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1561576051.png",
+    "sha256": "500c0f62e6c7319a2985c413c7fd8fc7aa194f0426ecd442b8617ed219304ed4",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1565033139",
+    "split": "train",
+    "labels": [
+      "broccoli"
+    ],
+    "ingredients": [
+      "mixed greens",
+      "broccoli",
+      "olives"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1565033139.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1565033139.png",
+    "sha256": "78fb1444bb10548dc4f07986a0c99db8b937d00ecd253bebb553131373b101f9",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1562785369",
+    "split": "train",
+    "labels": [
+      "rice",
+      "broccoli"
+    ],
+    "ingredients": [
+      "bulgur",
+      "salt",
+      "mustard greens",
+      "vinegar",
+      "lemon juice",
+      "basil",
+      "apple",
+      "cherry tomatoes",
+      "broccoli",
+      "shallots",
+      "olive oil",
+      "cranberries",
+      "parsley",
+      "pork",
+      "brown rice",
+      "arugula",
+      "onions",
+      "pepper",
+      "garlic"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1562785369.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1562785369.png",
+    "sha256": "4683b9f0222c13f841187d6d1482dfcf60da40e8fb900e06ad959973fd3c5a8e",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1561579902",
+    "split": "train",
+    "labels": [
+      "chicken"
+    ],
+    "ingredients": [
+      "olive oil",
+      "rosemary",
+      "lemon juice",
+      "butter",
+      "pepper",
+      "chard",
+      "spinach (cooked)",
+      "shallots",
+      "chicken",
+      "millet",
+      "bok choy",
+      "walnuts",
+      "mushroom",
+      "wheat berry",
+      "thyme",
+      "onions",
+      "basil",
+      "olives",
+      "salt",
+      "garlic",
+      "white wine",
+      "mustard",
+      "blueberries",
+      "beef",
+      "arugula",
+      "vinegar",
+      "oregano",
+      "cream"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1561579902.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1561579902.png",
+    "sha256": "a9bbd4d276695db9acd055159b65a0ac694e44cdeff7d4d0bc27869a17ae7174",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1561737223",
+    "split": "train",
+    "labels": [
+      "broccoli"
+    ],
+    "ingredients": [
+      "sausage",
+      "broccoli",
+      "egg whites"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1561737223.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1561737223.png",
+    "sha256": "e75d737c343eedbc7a8914040ab6d29c6e33f1a23c71260d763811edb02f9a51",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1563480505",
+    "split": "train",
+    "labels": [
+      "rice",
+      "pasta"
+    ],
+    "ingredients": [
+      "salmon",
+      "mushroom",
+      "spinach (raw)",
+      "brown rice",
+      "cream",
+      "olive oil",
+      "shallots",
+      "chili",
+      "lime",
+      "wine",
+      "sour cream",
+      "jalapenos",
+      "ginger",
+      "lemon juice",
+      "thyme",
+      "onions",
+      "pasta",
+      "cilantro",
+      "garlic",
+      "salt",
+      "beef"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1563480505.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1563480505.png",
+    "sha256": "8664604965c4535e457bb4e8bc8c2d64fbddcc3681ef4237ff26a60ead9d631e",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1563389719",
+    "split": "train",
+    "labels": [
+      "chicken"
+    ],
+    "ingredients": [
+      "cherry tomatoes",
+      "carrot",
+      "grilled chicken",
+      "onions"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1563389719.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1563389719.png",
+    "sha256": "fadb3beb1b7626a67083c86ab335c9e62c57f6b231926208df1c35c269693676",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1565031283",
+    "split": "train",
+    "labels": [
+      "rice",
+      "broccoli"
+    ],
+    "ingredients": [
+      "kale",
+      "onions",
+      "olive oil",
+      "green onions",
+      "broccoli",
+      "garlic",
+      "chili",
+      "beef",
+      "white rice",
+      "soy sauce",
+      "salt",
+      "orange juice",
+      "vinegar"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1565031283.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1565031283.png",
+    "sha256": "15fc4378853e0979433d4cd41eb9278d72c0686bda2fff27dc699768366ec668",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1562180089",
+    "split": "train",
+    "labels": [
+      "chicken"
+    ],
+    "ingredients": [
+      "vegetable oil",
+      "olive oil",
+      "buttermilk",
+      "flour",
+      "chicken",
+      "bacon",
+      "garlic",
+      "squash",
+      "salt",
+      "lemon juice",
+      "thyme",
+      "parsley"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1562180089.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1562180089.png",
+    "sha256": "cf45a3a1f5a9227aeaa0cabdced6cc27ab27b642f4f486d5266471df4c56c7e8",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1559846099",
+    "split": "train",
+    "labels": [
+      "broccoli"
+    ],
+    "ingredients": [
+      "mandarin oranges",
+      "almonds",
+      "broccoli"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1559846099.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1559846099.png",
+    "sha256": "14051b33a451c2ec0331dabe069d2602bb3cd3423d39a1401a88b20775017a70",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1564516454",
+    "split": "train",
+    "labels": [
+      "chicken"
+    ],
+    "ingredients": [
+      "snow peas",
+      "parsley",
+      "olive oil",
+      "chive",
+      "lime",
+      "salt",
+      "fish",
+      "pepper",
+      "chicken breast",
+      "white beans",
+      "arugula",
+      "onions",
+      "artichokes",
+      "garlic",
+      "bell peppers",
+      "cherry tomatoes",
+      "olives"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1564516454.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1564516454.png",
+    "sha256": "6548739f3bb578467971cca6d2fd296baef32d09db56cab587f1dc4d768b442e",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1561576680",
+    "split": "train",
+    "labels": [
+      "chicken"
+    ],
+    "ingredients": [
+      "salt",
+      "cauliflower",
+      "chicken",
+      "squash",
+      "eggplant",
+      "white wine",
+      "mushroom",
+      "rosemary",
+      "arugula",
+      "thyme",
+      "butter",
+      "oregano",
+      "wheat berry",
+      "basil",
+      "pepper",
+      "lemon juice",
+      "garlic",
+      "shallots",
+      "olive oil",
+      "cream"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1561576680.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1561576680.png",
+    "sha256": "d0dc743a46d5aff8c37a4367ff75b8cb7369c976364ca3ae543033fb09e6d122",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1560369146",
+    "split": "train",
+    "labels": [
+      "rice",
+      "broccoli"
+    ],
+    "ingredients": [
+      "cherry tomatoes",
+      "shallots",
+      "lemon juice",
+      "basil",
+      "onions",
+      "brown rice",
+      "pepper",
+      "radishes",
+      "garlic",
+      "honeydew melons",
+      "olive oil",
+      "vinegar",
+      "mustard",
+      "spinach (raw)",
+      "parsley",
+      "blueberries",
+      "pork",
+      "asparagus",
+      "salt",
+      "broccoli"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1560369146.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1560369146.png",
+    "sha256": "4650eb4198cc26b86ba7b05de89109673c905a42867c3a76fdcbc148a361f722",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1562691613",
+    "split": "train",
+    "labels": [
+      "broccoli"
+    ],
+    "ingredients": [
+      "olive oil",
+      "egg whites",
+      "broccoli",
+      "yam",
+      "sweet potato"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1562691613.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1562691613.png",
+    "sha256": "27488521aedb9433b719c36bba560748c468c355a18ad738e9f1989c8bb8f3b8",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1568318361",
+    "split": "train",
+    "labels": [
+      "broccoli"
+    ],
+    "ingredients": [
+      "steak",
+      "mixed greens",
+      "broccoli"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1568318361.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1568318361.png",
+    "sha256": "bab5bc7139435828528138baf28d8fba74fe8e61fd7ecb7cf0d0ce0aaf52bf7c",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1562788845",
+    "split": "train",
+    "labels": [
+      "rice",
+      "broccoli"
+    ],
+    "ingredients": [
+      "green onions",
+      "cherry tomatoes",
+      "white rice",
+      "corn on the cob",
+      "onions",
+      "parsley",
+      "basil",
+      "lemon juice",
+      "shallots",
+      "pepper",
+      "fish",
+      "salt",
+      "broccoli",
+      "pork",
+      "brown rice",
+      "country rice",
+      "vinegar",
+      "olive oil",
+      "garlic",
+      "caesar salad"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1562788845.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1562788845.png",
+    "sha256": "aceba58e4576c2f4a8a5ca8a294ad87b584c85c7ec997fc27c17dc500e175012",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1563824377",
+    "split": "train",
+    "labels": [
+      "chicken"
+    ],
+    "ingredients": [
+      "cherry tomatoes",
+      "onions",
+      "olives",
+      "bell peppers",
+      "grilled chicken"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1563824377.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1563824377.png",
+    "sha256": "21d7141785231ea30db107075044ae4dc8a39781e7e59e73ad5fa57a3ac4e883",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1559678104",
+    "split": "train",
+    "labels": [
+      "broccoli"
+    ],
+    "ingredients": [
+      "cucumbers",
+      "olive oil",
+      "parsley",
+      "garlic",
+      "carrot",
+      "mixed greens",
+      "salt",
+      "cherry tomatoes",
+      "broccoli",
+      "vinegar"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1559678104.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1559678104.png",
+    "sha256": "eb858d3b698c6734fe8dcc50ceabc2f4414c9443e064b01ac7d3c79a8e912d28",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1563307519",
+    "split": "train",
+    "labels": [
+      "rice",
+      "broccoli"
+    ],
+    "ingredients": [
+      "olive oil",
+      "salt",
+      "vinegar",
+      "soy sauce",
+      "beef",
+      "white rice",
+      "chili",
+      "broccoli",
+      "garlic",
+      "green onions",
+      "onions",
+      "carrot",
+      "kale",
+      "orange juice"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1563307519.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1563307519.png",
+    "sha256": "c03be2b03294e469d852f56c83cac2e449821fa87a40a2e8661c2f814c3c3560",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1561405887",
+    "split": "train",
+    "labels": [
+      "rice",
+      "broccoli",
+      "chicken"
+    ],
+    "ingredients": [
+      "olive oil",
+      "soy sauce",
+      "salt",
+      "cheese pizza",
+      "chicken",
+      "white rice",
+      "vinegar",
+      "spinach (raw)",
+      "ginger",
+      "carrot",
+      "garlic",
+      "broccoli",
+      "green onions",
+      "pepper",
+      "green beans"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1561405887.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1561405887.png",
+    "sha256": "7f2878f223530059015d2a86267090b56907e753644fd9671d85715b6214f173",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1568666357",
+    "split": "train",
+    "labels": [
+      "broccoli",
+      "chicken"
+    ],
+    "ingredients": [
+      "chicken",
+      "artichokes",
+      "lettuce",
+      "broccoli",
+      "",
+      "olive oil"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1568666357.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1568666357.png",
+    "sha256": "69c2b24d131f0ba14f7728f97a812d48e5b98160c090c784d75d586bfc436b55",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1562691566",
+    "split": "train",
+    "labels": [
+      "broccoli"
+    ],
+    "ingredients": [
+      "broccoli",
+      "olive oil",
+      "egg whites"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1562691566.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1562691566.png",
+    "sha256": "0186d79463fc924344912d8151350400f462abc94c99c2fdb392b856488a3476",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1562611878",
+    "split": "train",
+    "labels": [
+      "broccoli"
+    ],
+    "ingredients": [
+      "chickpeas",
+      "parsley",
+      "salt",
+      "broccoli",
+      "olive oil",
+      "mustard greens",
+      "squash",
+      "arugula",
+      "vinegar",
+      "pepper"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1562611878.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1562611878.png",
+    "sha256": "4c1bac36ac378cd9fae59c4347af7f1366b2306f67f28d200c9d90049a53986b",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1564086709",
+    "split": "train",
+    "labels": [
+      "pasta"
+    ],
+    "ingredients": [
+      "pesto",
+      "cheese pizza",
+      "caesar salad",
+      "cherry tomatoes",
+      "pasta",
+      "cheese",
+      "spinach (raw)",
+      "corn on the cob",
+      "onions"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1564086709.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1564086709.png",
+    "sha256": "d1ecef45a5c2260170cb4d614be07c1139e16d09addc493ceaee27203fb38663",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1563476408",
+    "split": "train",
+    "labels": [
+      "rice",
+      "pasta"
+    ],
+    "ingredients": [
+      "salmon",
+      "garlic",
+      "shallots",
+      "chili",
+      "lemon juice",
+      "onions",
+      "olive oil",
+      "cream",
+      "jalapenos",
+      "brown rice",
+      "wine",
+      "pasta",
+      "cilantro",
+      "lime",
+      "brownies",
+      "salt",
+      "mushroom",
+      "ginger",
+      "spinach (raw)",
+      "beef",
+      "sour cream",
+      "thyme"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1563476408.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1563476408.png",
+    "sha256": "db1aee38963a40df804f0d96fc55579bc66aa54cfc254228fc433bf0d1c28d09",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1561062320",
+    "split": "train",
+    "labels": [
+      "rice",
+      "pasta"
+    ],
+    "ingredients": [
+      "wine",
+      "shallots",
+      "cranberries",
+      "mushroom",
+      "spinach (raw)",
+      "jalapenos",
+      "cream",
+      "thyme",
+      "lemon juice",
+      "sour cream",
+      "parsley",
+      "white rice",
+      "salmon",
+      "cilantro",
+      "ginger",
+      "beef",
+      "pasta",
+      "brown rice",
+      "arugula",
+      "mustard greens",
+      "olive oil",
+      "apple",
+      "bulgur",
+      "lime",
+      "salt",
+      "onions",
+      "chili",
+      "garlic"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1561062320.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1561062320.png",
+    "sha256": "cb686921f0d9304a6d08cb6aeb053f0e009c7f4f703376e2b46bad5d4525a833",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1561580370",
+    "split": "train",
+    "labels": [
+      "pasta"
+    ],
+    "ingredients": [
+      "spinach (raw)",
+      "wheat berry",
+      "cheese",
+      "cherry tomatoes",
+      "pasta",
+      "pesto",
+      "caesar salad",
+      "onions"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1561580370.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1561580370.png",
+    "sha256": "e9809aee10b014c8e304895c9674b502d8ddf9c02830c86675bcc4d124092705",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1564086778",
+    "split": "train",
+    "labels": [
+      "rice",
+      "pasta",
+      "chicken"
+    ],
+    "ingredients": [
+      "salt",
+      "bok choy",
+      "chard",
+      "spinach (raw)",
+      "pork",
+      "olive oil",
+      "parsley",
+      "lemon juice",
+      "cheese pizza",
+      "chive",
+      "carrot",
+      "chicken",
+      "cheese",
+      "white rice",
+      "pasta",
+      "corn on the cob",
+      "cherry tomatoes",
+      "brown rice",
+      "pepper",
+      "sugar",
+      "soy sauce",
+      "onions",
+      "rosemary",
+      "basil",
+      "garlic",
+      "pesto",
+      "caesar salad"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1564086778.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1564086778.png",
+    "sha256": "18a12e2a0dd0a73599bc24137e7f6e1bf5d4a0d0786b4e9c72e1c08ef33e6af6",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1563475953",
+    "split": "train",
+    "labels": [
+      "rice",
+      "pasta"
+    ],
+    "ingredients": [
+      "garlic",
+      "wine",
+      "pasta",
+      "spinach (raw)",
+      "cream",
+      "sour cream",
+      "cauliflower",
+      "shallots",
+      "salmon",
+      "pineapple",
+      "ginger",
+      "jalapenos",
+      "brown rice",
+      "beef",
+      "mushroom",
+      "thyme",
+      "salt",
+      "olive oil",
+      "lemon juice",
+      "onions",
+      "lime",
+      "cilantro",
+      "chili",
+      "honeydew melons"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1563475953.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1563475953.png",
+    "sha256": "cbdcabc03b68a98faf8f7df0e94dfd8432acaaa5390c2437b3605555d6e45402",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1563476551",
+    "split": "train",
+    "labels": [
+      "rice",
+      "pasta",
+      "broccoli"
+    ],
+    "ingredients": [
+      "shallots",
+      "salmon",
+      "mushroom",
+      "ginger",
+      "squash",
+      "brownies",
+      "lemon juice",
+      "sour cream",
+      "lime",
+      "garlic",
+      "cheese pizza",
+      "wine",
+      "cream",
+      "brown rice",
+      "jalapenos",
+      "spinach (raw)",
+      "beef",
+      "pasta",
+      "thyme",
+      "olive oil",
+      "broccoli",
+      "onions",
+      "zucchini",
+      "salt",
+      "cilantro",
+      "chili"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1563476551.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1563476551.png",
+    "sha256": "7bf9d7a14bbb97a186b6686dbb42b781bbd127fb9a47d4a6e20cb80eabb3de75",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1561062237",
+    "split": "train",
+    "labels": [
+      "rice",
+      "pasta"
+    ],
+    "ingredients": [
+      "beef",
+      "wine",
+      "mushroom",
+      "onions",
+      "spinach (raw)",
+      "jalapenos",
+      "ginger",
+      "thyme",
+      "shallots",
+      "cilantro",
+      "chili",
+      "pasta",
+      "salmon",
+      "cream",
+      "brown rice",
+      "sour cream",
+      "lemon juice",
+      "olive oil",
+      "lime",
+      "garlic",
+      "salt"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1561062237.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1561062237.png",
+    "sha256": "b529801b0bacc7bbe060eaa81b7ba612e08b89548ad28fdc9a0e006b5a7532e5",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1564082462",
+    "split": "train",
+    "labels": [
+      "rice",
+      "pasta",
+      "chicken"
+    ],
+    "ingredients": [
+      "soy sauce",
+      "pesto",
+      "cherry tomatoes",
+      "brown rice",
+      "chard",
+      "spinach (raw)",
+      "pork",
+      "cheese",
+      "caesar salad",
+      "parsley",
+      "white rice",
+      "sugar",
+      "garlic",
+      "carrot",
+      "salt",
+      "pepper",
+      "bok choy",
+      "pasta",
+      "olive oil",
+      "basil",
+      "rosemary",
+      "lemon juice",
+      "onions",
+      "chive",
+      "chicken"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1564082462.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1564082462.png",
+    "sha256": "4f55aa9c53b48866450949409369ff7f8927c0d7d98d1c533fab5dc9d77c3d48",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1564086748",
+    "split": "train",
+    "labels": [
+      "rice",
+      "pasta",
+      "chicken"
+    ],
+    "ingredients": [
+      "chicken",
+      "salt",
+      "cherry tomatoes",
+      "pasta",
+      "chard",
+      "corn on the cob",
+      "basil",
+      "olive oil",
+      "rosemary",
+      "onions",
+      "cheese pizza",
+      "carrot",
+      "cheese",
+      "brown rice",
+      "spinach (raw)",
+      "garlic",
+      "parsley",
+      "chive",
+      "lemon juice",
+      "pesto",
+      "caesar salad"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1564086748.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1564086748.png",
+    "sha256": "788106c111b15a41e06f7dec9508e6e36c8b3163e2b4c728c1d0b45ab86b1fc2",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1563476463",
+    "split": "train",
+    "labels": [
+      "rice",
+      "pasta"
+    ],
+    "ingredients": [
+      "garlic",
+      "lime",
+      "chili",
+      "lemon juice",
+      "brownies",
+      "olive oil",
+      "wine",
+      "cream",
+      "brown rice",
+      "mushroom",
+      "beef",
+      "salmon",
+      "pasta",
+      "shallots",
+      "salt",
+      "cheese pizza",
+      "onions",
+      "sour cream",
+      "thyme",
+      "spinach (raw)",
+      "ginger",
+      "jalapenos",
+      "cilantro"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1563476463.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1563476463.png",
+    "sha256": "1e73187e097455d4ffd09a51a328ea81d06a48e34a5a061d5d5cbd9fcb339bd7",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1561060703",
+    "split": "train",
+    "labels": [
+      "rice",
+      "pasta"
+    ],
+    "ingredients": [
+      "chili",
+      "ginger",
+      "onions",
+      "sour cream",
+      "thyme",
+      "wine",
+      "cucumbers",
+      "jalapenos",
+      "brown rice",
+      "spinach (raw)",
+      "mushroom",
+      "olive oil",
+      "brussels sprouts",
+      "cilantro",
+      "salt",
+      "lime",
+      "pasta",
+      "bok choy",
+      "pineapple",
+      "cream",
+      "lemon juice",
+      "garlic",
+      "figs",
+      "cherry tomatoes",
+      "salmon",
+      "mustard",
+      "tofu",
+      "chard",
+      "vinegar",
+      "cheese pizza",
+      "shallots",
+      "beef"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1561060703.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1561060703.png",
+    "sha256": "6f90f96cee77dcd52de4983523edff55518761e90e7b97ca895b02d7b726f6d9",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1561580406",
+    "split": "train",
+    "labels": [
+      "pasta",
+      "chicken"
+    ],
+    "ingredients": [
+      "wheat berry",
+      "lemon juice",
+      "onions",
+      "white wine",
+      "salt",
+      "pepper",
+      "cheese",
+      "caesar salad",
+      "pesto",
+      "cherry tomatoes",
+      "shallots",
+      "spinach (raw)",
+      "cream",
+      "butter",
+      "thyme",
+      "olive oil",
+      "rosemary",
+      "basil",
+      "garlic",
+      "chicken",
+      "mushroom",
+      "pasta",
+      "arugula",
+      "oregano"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1561580406.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1561580406.png",
+    "sha256": "759e92cda242649968aa9f30ce4a341c7a90109a56b86d908bfcb5e33fb3e25d",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1565637162",
+    "split": "train",
+    "labels": [
+      "rice",
+      "pasta"
+    ],
+    "ingredients": [
+      "garlic",
+      "salt",
+      "pasta salad",
+      "rosemary",
+      "zucchini",
+      "onions",
+      "parsley",
+      "olive oil",
+      "pork",
+      "arugula",
+      "white rice"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1565637162.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1565637162.png",
+    "sha256": "85b3b6e65a6117740e7e7d1d11db1b207e91d23ff1bdddf7c24f0a74aedd3436",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1563476646",
+    "split": "train",
+    "labels": [
+      "pasta"
+    ],
+    "ingredients": [
+      "garlic",
+      "sour cream",
+      "onions",
+      "salt",
+      "thyme",
+      "cream",
+      "olive oil",
+      "mushroom",
+      "spinach (raw)",
+      "wine",
+      "pasta",
+      "beef"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1563476646.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1563476646.png",
+    "sha256": "ae34e5b3b4d1a5529ced46992027fb79b1ff437bcc2e016ebead279a4432be0d",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1563479655",
+    "split": "train",
+    "labels": [
+      "rice",
+      "pasta",
+      "broccoli"
+    ],
+    "ingredients": [
+      "lime",
+      "cilantro",
+      "thyme",
+      "olive oil",
+      "jalapenos",
+      "cauliflower",
+      "beef",
+      "pepper",
+      "salt",
+      "broccoli",
+      "wine",
+      "brussels sprouts",
+      "sour cream",
+      "brown rice",
+      "ginger",
+      "spinach (raw)",
+      "mushroom",
+      "figs",
+      "garlic",
+      "arugula",
+      "cream",
+      "apple",
+      "salmon",
+      "pasta",
+      "goat cheese",
+      "chili",
+      "shallots",
+      "mustard greens",
+      "lemon juice",
+      "onions"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1563479655.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1563479655.png",
+    "sha256": "5ac31936f375587a3c187a6b5c31cbab39c2d86ba27752f562f9961a4be6002e",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1563480534",
+    "split": "train",
+    "labels": [
+      "rice",
+      "pasta",
+      "broccoli"
+    ],
+    "ingredients": [
+      "garlic",
+      "wine",
+      "lemon juice",
+      "onions",
+      "jalapenos",
+      "brown rice",
+      "mushroom",
+      "beef",
+      "pasta",
+      "cauliflower",
+      "shallots",
+      "chili",
+      "cilantro",
+      "lime",
+      "salt",
+      "broccoli",
+      "sour cream",
+      "olive oil",
+      "thyme",
+      "cream",
+      "spinach (raw)",
+      "ginger",
+      "salmon"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1563480534.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1563480534.png",
+    "sha256": "3476e01006b6351922e02dc0ef68a6a93a0392a753abdf88837dbac7d193e47a",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1561062286",
+    "split": "train",
+    "labels": [
+      "rice",
+      "pasta"
+    ],
+    "ingredients": [
+      "wine",
+      "ginger",
+      "jalapenos",
+      "brown rice",
+      "mushroom",
+      "cream",
+      "lemon juice",
+      "sour cream",
+      "onions",
+      "lime",
+      "salt",
+      "cilantro",
+      "beef",
+      "pasta",
+      "spinach (raw)",
+      "thyme",
+      "olive oil",
+      "white rice",
+      "chili",
+      "shallots",
+      "salmon",
+      "garlic"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1561062286.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1561062286.png",
+    "sha256": "3d37b287facbf407ef6fe32155ad9a96d58538f19fdf940b69133efcc7cbca96",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1561062171",
+    "split": "train",
+    "labels": [
+      "pasta"
+    ],
+    "ingredients": [
+      "salt",
+      "garlic",
+      "thyme",
+      "sour cream",
+      "onions",
+      "olive oil",
+      "spinach (raw)",
+      "mushroom",
+      "cream",
+      "wine",
+      "pasta",
+      "beef"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1561062171.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1561062171.png",
+    "sha256": "f5026ae5671c6cef27a4e93f32a74ad564e8de4501c36c6db8d5eebd1fa4b09f",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1561580431",
+    "split": "train",
+    "labels": [
+      "pasta",
+      "chicken"
+    ],
+    "ingredients": [
+      "rosemary",
+      "basil",
+      "spinach (raw)",
+      "vinegar",
+      "cheese",
+      "chicken",
+      "pepper",
+      "beef",
+      "shallots",
+      "spinach (cooked)",
+      "onions",
+      "cream",
+      "wheat berry",
+      "white wine",
+      "caesar salad",
+      "garlic",
+      "pesto",
+      "lemon juice",
+      "butter",
+      "mushroom",
+      "arugula",
+      "millet",
+      "cherry tomatoes",
+      "pasta",
+      "salt",
+      "thyme",
+      "olive oil",
+      "oregano",
+      "bok choy"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1561580431.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1561580431.png",
+    "sha256": "fd1c7535b619c14d4b72167c4bef1997ad880c01499140734aed89bdd9b3c34c",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1563476577",
+    "split": "train",
+    "labels": [
+      "rice",
+      "pasta",
+      "broccoli"
+    ],
+    "ingredients": [
+      "beef",
+      "broccoli",
+      "shallots",
+      "thyme",
+      "onions",
+      "ginger",
+      "spinach (raw)",
+      "brown rice",
+      "lime",
+      "salt",
+      "cilantro",
+      "olive oil",
+      "cranberries",
+      "sour cream",
+      "zucchini",
+      "jalapenos",
+      "mushroom",
+      "wine",
+      "apple",
+      "pasta",
+      "cheese pizza",
+      "garlic",
+      "cream",
+      "salmon",
+      "mustard",
+      "lemon juice",
+      "brownies",
+      "squash",
+      "vinegar",
+      "chili"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1563476577.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1563476577.png",
+    "sha256": "bd496b73722fc7afe148f4f9ed775901b6ffc2d9dee86f4cdef853b649e1508a",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1563481061",
+    "split": "train",
+    "labels": [
+      "pasta"
+    ],
+    "ingredients": [
+      "wine",
+      "cream",
+      "mushroom",
+      "onions",
+      "olive oil",
+      "garlic",
+      "thyme",
+      "salt",
+      "cherry tomatoes",
+      "pasta",
+      "sour cream",
+      "chard",
+      "spinach (raw)",
+      "vinegar",
+      "mustard",
+      "cucumbers",
+      "beef",
+      "figs"
+    ],
+    "path": "data/datasets/nutrition5k/images/train/dish_1563481061.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1563481061.png",
+    "sha256": "4f1a46b390305cd6764c55d8b7cc5ff7a9f0573e8f3c24b5e94c8c39eff6003b",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1558641287",
+    "split": "test",
+    "labels": [],
+    "ingredients": [
+      "cherry tomatoes"
+    ],
+    "path": "data/datasets/nutrition5k/images/test/dish_1558641287.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1558641287.png",
+    "sha256": "6f28d3aa26d340c8805af42930c149385deb975b5d078dc44e2da87be7f822fe",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1558549413",
+    "split": "test",
+    "labels": [],
+    "ingredients": [
+      "almonds"
+    ],
+    "path": "data/datasets/nutrition5k/images/test/dish_1558549413.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1558549413.png",
+    "sha256": "1117f6753af328342c8020f19f3caec52b7b6fe02bf280da32d759e038767331",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1565034635",
+    "split": "test",
+    "labels": [],
+    "ingredients": [
+      "cherry tomatoes",
+      "vinegar",
+      "chard",
+      "blueberries",
+      "cucumbers",
+      "salt",
+      "lettuce",
+      "walnuts",
+      "lime",
+      "pepper",
+      "arugula",
+      "olive oil",
+      "mustard",
+      "onions",
+      "mixed greens"
+    ],
+    "path": "data/datasets/nutrition5k/images/test/dish_1565034635.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1565034635.png",
+    "sha256": "574e4fde66c58624d565c8bcd153ea6494fe22cd4fec9457061f46657c30a53f",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1562168648",
+    "split": "test",
+    "labels": [],
+    "ingredients": [
+      "vinaigrette",
+      "raspberries",
+      "mixed greens",
+      "granola",
+      "blackberries"
+    ],
+    "path": "data/datasets/nutrition5k/images/test/dish_1562168648.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1562168648.png",
+    "sha256": "d4b1894b55e40774c0d0480db5a73c7d9139714e29080b4a2caad6b0d1d91567",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1557937715",
+    "split": "test",
+    "labels": [],
+    "ingredients": [
+      "raspberries"
+    ],
+    "path": "data/datasets/nutrition5k/images/test/dish_1557937715.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1557937715.png",
+    "sha256": "3f70ffd2162eed88aed417333c45669e6d4148e17ac9cb900cd8930d7b13c304",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1558549806",
+    "split": "test",
+    "labels": [
+      "rice"
+    ],
+    "ingredients": [
+      "almonds",
+      "white rice",
+      "spinach (raw)"
+    ],
+    "path": "data/datasets/nutrition5k/images/test/dish_1558549806.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1558549806.png",
+    "sha256": "95c008edb3dad0340d4fd2ab85af16bd344affa1b847f55b236a8c14bfcbd2bc",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1563984199",
+    "split": "test",
+    "labels": [],
+    "ingredients": [
+      "egg whites",
+      "cantaloupe",
+      "pineapple"
+    ],
+    "path": "data/datasets/nutrition5k/images/test/dish_1563984199.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1563984199.png",
+    "sha256": "7a1efdf5f78956ceb4e5c13aceceefd2a52d9237b4e15d98426f383a71af4915",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1560975572",
+    "split": "test",
+    "labels": [
+      "broccoli"
+    ],
+    "ingredients": [
+      "caesar salad",
+      "wheat berry",
+      "broccoli"
+    ],
+    "path": "data/datasets/nutrition5k/images/test/dish_1560975572.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1560975572.png",
+    "sha256": "16af1460a1bfd33c92450e7170cd6b5c2969b2cc61533894d1bf0e9b72ba23e8",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1566851616",
+    "split": "test",
+    "labels": [
+      "broccoli"
+    ],
+    "ingredients": [
+      "caesar salad",
+      "broccoli",
+      "cheese pizza",
+      "olive oil"
+    ],
+    "path": "data/datasets/nutrition5k/images/test/dish_1566851616.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1566851616.png",
+    "sha256": "be5b7c3b46114401e37309f0a524c53bd32318592d0532ab769b86afece4259c",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1563551105",
+    "split": "test",
+    "labels": [],
+    "ingredients": [
+      "cream cheese",
+      "bagels"
+    ],
+    "path": "data/datasets/nutrition5k/images/test/dish_1563551105.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1563551105.png",
+    "sha256": "d65fb7ba1db218780b9e31e63f0cb45ba38d3e93e34c88721468449787cd6215",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1561574479",
+    "split": "test",
+    "labels": [],
+    "ingredients": [
+      "beef",
+      "walnuts",
+      "salt",
+      "onions",
+      "bok choy",
+      "olive oil",
+      "mustard",
+      "arugula",
+      "vinegar",
+      "blueberries",
+      "chard",
+      "millet",
+      "cauliflower",
+      "cheese pizza",
+      "spinach (cooked)",
+      "caesar salad",
+      "shallots",
+      "pepper"
+    ],
+    "path": "data/datasets/nutrition5k/images/test/dish_1561574479.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1561574479.png",
+    "sha256": "be7b1ebe10448162106991fd6f05edb8d8df746a3c3e4f92eee7f2d05aaf790d",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1559850283",
+    "split": "test",
+    "labels": [],
+    "ingredients": [
+      "almonds"
+    ],
+    "path": "data/datasets/nutrition5k/images/test/dish_1559850283.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1559850283.png",
+    "sha256": "df294ee7326058959ecfc1d3092f6f99668d0193d7fa47098132ea623bd7f1d7",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1561741090",
+    "split": "test",
+    "labels": [],
+    "ingredients": [
+      "cottage cheese",
+      "cantaloupe"
+    ],
+    "path": "data/datasets/nutrition5k/images/test/dish_1561741090.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1561741090.png",
+    "sha256": "d856cb12c9c22565598b0e68a324dac22ad1baffba6fe5ac3a794008e3404ed5",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1558376483",
+    "split": "test",
+    "labels": [],
+    "ingredients": [
+      "cantaloupe",
+      "almonds",
+      "grapes",
+      "sausage"
+    ],
+    "path": "data/datasets/nutrition5k/images/test/dish_1558376483.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1558376483.png",
+    "sha256": "9a0211d8bc2d20552ccd25af1b364f3ef72f7cadd245bed4110b784fc6d89404",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1561662842",
+    "split": "test",
+    "labels": [
+      "rice",
+      "chicken"
+    ],
+    "ingredients": [
+      "apple",
+      "vinegar",
+      "parsley",
+      "onions",
+      "carrot",
+      "salt",
+      "chive",
+      "chicken",
+      "millet",
+      "garlic",
+      "chard",
+      "brown rice",
+      "lemon juice",
+      "rosemary",
+      "olive oil",
+      "basil",
+      "mixed greens"
+    ],
+    "path": "data/datasets/nutrition5k/images/test/dish_1561662842.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1561662842.png",
+    "sha256": "8b89f539d31873d21c3931e333d2d774298b39e36cecf4ac8cf60f11fd281ce0",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1565811000",
+    "split": "test",
+    "labels": [
+      "chicken"
+    ],
+    "ingredients": [
+      "chicken",
+      "spinach (raw)"
+    ],
+    "path": "data/datasets/nutrition5k/images/test/dish_1565811000.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1565811000.png",
+    "sha256": "c02acabdf3f9cc6ac0a3ea2e8b19cdfd4a0da8a2fabefeaceaf9cd8656910ebb",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1566328805",
+    "split": "test",
+    "labels": [
+      "chicken"
+    ],
+    "ingredients": [
+      "cherry tomatoes",
+      "pizza",
+      "chicken",
+      "pineapple"
+    ],
+    "path": "data/datasets/nutrition5k/images/test/dish_1566328805.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1566328805.png",
+    "sha256": "e8a65e64e76e0bfa08a1630a929ce259702beda1dcf99a5e5a178773a9502e31",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1565896701",
+    "split": "test",
+    "labels": [],
+    "ingredients": [
+      "chard",
+      "olive oil",
+      "kale",
+      "salt",
+      "lime",
+      "garlic",
+      "cauliflower",
+      "steak",
+      "wheat berry"
+    ],
+    "path": "data/datasets/nutrition5k/images/test/dish_1565896701.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1565896701.png",
+    "sha256": "9b78d00087b2b8036767bd3bd3d61d613e8ce5c5e7c3be313e19822ece14fd4d",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1564773876",
+    "split": "test",
+    "labels": [
+      "broccoli"
+    ],
+    "ingredients": [
+      "cherry tomatoes",
+      "pepper",
+      "salmon",
+      "lentils",
+      "lemon juice",
+      "parsley",
+      "chive",
+      "broccoli",
+      "pickles",
+      "mayonnaise",
+      "kale",
+      "arugula",
+      "olive oil",
+      "salt",
+      "garlic",
+      "shallots"
+    ],
+    "path": "data/datasets/nutrition5k/images/test/dish_1564773876.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1564773876.png",
+    "sha256": "a9b803a3902057fe5955cf2f7e8ec8cb70d198a211aaad41c05dc81ada85da61",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1566502573",
+    "split": "test",
+    "labels": [
+      "rice",
+      "chicken"
+    ],
+    "ingredients": [
+      "chive",
+      "bok choy",
+      "chicken",
+      "white rice",
+      "pork",
+      "arugula",
+      "spinach (raw)",
+      "brown rice",
+      "chard",
+      "mustard",
+      "olive oil",
+      "garlic",
+      "cucumbers",
+      "sugar",
+      "rosemary",
+      "pepper",
+      "sun dried tomatoes",
+      "lemon juice",
+      "mustard greens",
+      "parsley",
+      "vinegar",
+      "corn on the cob",
+      "basil",
+      "onions",
+      "carrot",
+      "soy sauce",
+      "salt",
+      "chickpeas"
+    ],
+    "path": "data/datasets/nutrition5k/images/test/dish_1566502573.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1566502573.png",
+    "sha256": "8a4c84ffb340e44794d0f9af35a037c8e477f7e2f39c36f6e6d6c2d2964b613c",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1565986733",
+    "split": "test",
+    "labels": [
+      "rice"
+    ],
+    "ingredients": [
+      "white rice",
+      "mushroom",
+      "ground turkey",
+      "chard",
+      "celery",
+      "wheat berry",
+      "onions",
+      "olive oil",
+      "cream",
+      "chive",
+      "garlic",
+      "salt",
+      "shallots",
+      "carrot",
+      "cherry tomatoes",
+      "fish",
+      "eggs",
+      "thyme",
+      "kale",
+      "parsley",
+      "lemon juice"
+    ],
+    "path": "data/datasets/nutrition5k/images/test/dish_1565986733.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1565986733.png",
+    "sha256": "99aab4b83954b76cf9ca294f4308eda7b63d59e64d1d2e2cc57ec7e45c83da81",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1562690917",
+    "split": "test",
+    "labels": [
+      "broccoli"
+    ],
+    "ingredients": [
+      "broccoli",
+      "olive oil",
+      "berries"
+    ],
+    "path": "data/datasets/nutrition5k/images/test/dish_1562690917.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1562690917.png",
+    "sha256": "afb631fb72bec077453b61cd4277383cf63fb5dab31ebf454d48bccae2491263",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1559841950",
+    "split": "test",
+    "labels": [
+      "broccoli"
+    ],
+    "ingredients": [
+      "broccoli"
+    ],
+    "path": "data/datasets/nutrition5k/images/test/dish_1559841950.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1559841950.png",
+    "sha256": "bd43b2ad0d6332230a837aa9c230499d43c643a66217d1232720b3aab26dfcfa",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1566587102",
+    "split": "test",
+    "labels": [
+      "chicken"
+    ],
+    "ingredients": [
+      "chicken",
+      "millet",
+      "pepper",
+      "spinach (raw)",
+      "jalapenos",
+      "olive oil",
+      "garlic",
+      "onions",
+      "salt",
+      "tomatoes",
+      "bell peppers"
+    ],
+    "path": "data/datasets/nutrition5k/images/test/dish_1566587102.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1566587102.png",
+    "sha256": "fab073dd23770c5a6730c425fa5c2890e5203effed0ce5ef22e43405f770939d",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1562790855",
+    "split": "test",
+    "labels": [
+      "rice",
+      "broccoli"
+    ],
+    "ingredients": [
+      "radishes",
+      "fish",
+      "cherry tomatoes",
+      "shallots",
+      "onions",
+      "mustard",
+      "parsley",
+      "garlic",
+      "basil",
+      "salt",
+      "pepper",
+      "pork",
+      "lemon juice",
+      "brown rice",
+      "country rice",
+      "cucumbers",
+      "olive oil",
+      "vinegar",
+      "bell peppers",
+      "broccoli",
+      "green onions"
+    ],
+    "path": "data/datasets/nutrition5k/images/test/dish_1562790855.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1562790855.png",
+    "sha256": "75bfb058523918424f558f557b263804c2a294293881fa728b11082d6b390dd4",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1562691032",
+    "split": "test",
+    "labels": [
+      "broccoli"
+    ],
+    "ingredients": [
+      "berries",
+      "olive oil",
+      "pineapple",
+      "scrambled eggs",
+      "roasted potatoes",
+      "broccoli"
+    ],
+    "path": "data/datasets/nutrition5k/images/test/dish_1562691032.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1562691032.png",
+    "sha256": "3db9f973fb79d36d060a9c218bd83d3f91c9ab7f55dda87f6ec21faf34f91970",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1561667238",
+    "split": "test",
+    "labels": [
+      "rice"
+    ],
+    "ingredients": [
+      "caesar salad",
+      "salt",
+      "sugar",
+      "garlic",
+      "soy sauce",
+      "bok choy",
+      "white rice",
+      "pork",
+      "pepper"
+    ],
+    "path": "data/datasets/nutrition5k/images/test/dish_1561667238.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1561667238.png",
+    "sha256": "3daffc57eb56b5dae0daba956e65aac82c6c449c93205bcb9ebeacd0299ce641",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1562788568",
+    "split": "test",
+    "labels": [
+      "rice"
+    ],
+    "ingredients": [
+      "garlic",
+      "pilaf",
+      "green onions",
+      "onions",
+      "country rice",
+      "olive oil",
+      "salt",
+      "corn on the cob",
+      "fish"
+    ],
+    "path": "data/datasets/nutrition5k/images/test/dish_1562788568.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1562788568.png",
+    "sha256": "f86f343d8a7d22e13fe752ab5466dc18e5fbf5572fed2daec922eae7b13da686",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1560975517",
+    "split": "test",
+    "labels": [
+      "broccoli"
+    ],
+    "ingredients": [
+      "broccoli",
+      "caesar salad"
+    ],
+    "path": "data/datasets/nutrition5k/images/test/dish_1560975517.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1560975517.png",
+    "sha256": "c34ce8ec625930f8bf7f1e73cc56157ed9bc52835fb5c8b2d87349459bd93c17",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1561405356",
+    "split": "test",
+    "labels": [
+      "rice",
+      "broccoli",
+      "chicken"
+    ],
+    "ingredients": [
+      "ginger",
+      "vinegar",
+      "olive oil",
+      "garlic",
+      "soy sauce",
+      "broccoli",
+      "green onions",
+      "salt",
+      "chicken",
+      "white rice",
+      "spinach (raw)",
+      "green beans"
+    ],
+    "path": "data/datasets/nutrition5k/images/test/dish_1561405356.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1561405356.png",
+    "sha256": "e455626beaa3eede73108e4266c3452286221519c9567940a55877abf532de47",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1564773976",
+    "split": "test",
+    "labels": [
+      "broccoli",
+      "chicken"
+    ],
+    "ingredients": [
+      "cherry tomatoes",
+      "chicken breast",
+      "shallots",
+      "olive oil",
+      "mayonnaise",
+      "arugula",
+      "salmon",
+      "pepper",
+      "pickles",
+      "chive",
+      "olives",
+      "salt",
+      "garlic",
+      "broccoli",
+      "parsley",
+      "kale",
+      "lemon juice",
+      "lentils",
+      "pineapple"
+    ],
+    "path": "data/datasets/nutrition5k/images/test/dish_1564773976.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1564773976.png",
+    "sha256": "caf58950addc1c10178302134878f9cbd37c7fe20c691582d2897409db3ad9e4",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1563565354",
+    "split": "test",
+    "labels": [
+      "rice"
+    ],
+    "ingredients": [
+      "shallots",
+      "fish",
+      "corn on the cob",
+      "mushroom",
+      "ground turkey",
+      "cream",
+      "olive oil",
+      "thyme",
+      "onions",
+      "lemon juice",
+      "salt",
+      "parsley",
+      "carrot",
+      "white rice",
+      "cherry tomatoes",
+      "eggs",
+      "chard",
+      "wheat berry",
+      "kale",
+      "celery",
+      "chive",
+      "garlic"
+    ],
+    "path": "data/datasets/nutrition5k/images/test/dish_1563565354.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1563565354.png",
+    "sha256": "d5a94faa5bf7a14afcb14f832add4dd054891c9b574c84f8a1ee3b19288d7f3a",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1562876531",
+    "split": "test",
+    "labels": [
+      "chicken"
+    ],
+    "ingredients": [
+      "pepper",
+      "chicken",
+      "wheat berry",
+      "lemon juice",
+      "basil",
+      "parsley",
+      "garlic",
+      "squash",
+      "spinach (raw)",
+      "zucchini",
+      "rosemary",
+      "olive oil",
+      "thyme",
+      "caesar salad",
+      "salt"
+    ],
+    "path": "data/datasets/nutrition5k/images/test/dish_1562876531.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1562876531.png",
+    "sha256": "56998d5f1d4440d44caae82d9c3e745af19e6c1ba41e6e8614cded7cffdbe44e",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1562009894",
+    "split": "test",
+    "labels": [
+      "rice"
+    ],
+    "ingredients": [
+      "goat cheese",
+      "olives",
+      "garlic",
+      "vinegar",
+      "brown rice",
+      "olive oil",
+      "mustard",
+      "salt",
+      "pears",
+      "mixed greens"
+    ],
+    "path": "data/datasets/nutrition5k/images/test/dish_1562009894.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1562009894.png",
+    "sha256": "c1de8032d97cd371dbd18b0f0f46690e53dbd5b2eb6616f957967d013d629e90",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1565811091",
+    "split": "test",
+    "labels": [
+      "broccoli",
+      "chicken"
+    ],
+    "ingredients": [
+      "broccoli",
+      "spinach (raw)",
+      "carrot",
+      "chicken",
+      "goat cheese"
+    ],
+    "path": "data/datasets/nutrition5k/images/test/dish_1565811091.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1565811091.png",
+    "sha256": "d4ec2eaa5c374b1029e2e2221e73dbe60ef00b60e6dbeb35946d2aa37861349b",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1562099134",
+    "split": "test",
+    "labels": [
+      "chicken"
+    ],
+    "ingredients": [
+      "eggplant",
+      "chicken thighs",
+      "mushroom",
+      "vinegar",
+      "cherry tomatoes",
+      "lime",
+      "mixed greens",
+      "spinach (cooked)",
+      "garlic",
+      "shallots",
+      "lemon juice",
+      "onions",
+      "olive oil",
+      "pepper",
+      "quinoa",
+      "wine",
+      "carrot",
+      "cheese pizza",
+      "salt",
+      "lettuce",
+      "cucumbers",
+      "squash"
+    ],
+    "path": "data/datasets/nutrition5k/images/test/dish_1562099134.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1562099134.png",
+    "sha256": "69670efd2a7461bba6aa194420192e8b9f9c31e1a81dd2f14622a63edb448e2c",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1561578865",
+    "split": "test",
+    "labels": [
+      "pasta",
+      "broccoli"
+    ],
+    "ingredients": [
+      "cheese",
+      "pasta",
+      "spinach (raw)",
+      "olive oil",
+      "blueberries",
+      "salt",
+      "broccoli",
+      "pesto",
+      "vinegar",
+      "cherry tomatoes",
+      "pepper",
+      "arugula",
+      "chard",
+      "onions",
+      "mustard",
+      "cheese pizza",
+      "walnuts"
+    ],
+    "path": "data/datasets/nutrition5k/images/test/dish_1561578865.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1561578865.png",
+    "sha256": "116508964c2284761256bc9435622c027c92bafc4067ae05d2bd473f41eff732",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  },
+  {
+    "id": "dish_1563478751",
+    "split": "test",
+    "labels": [
+      "pasta"
+    ],
+    "ingredients": [
+      "cream",
+      "mushroom",
+      "spinach (raw)",
+      "olive oil",
+      "pasta",
+      "beef",
+      "wine",
+      "garlic",
+      "sour cream",
+      "onions",
+      "thyme",
+      "salt"
+    ],
+    "path": "data/datasets/nutrition5k/images/test/dish_1563478751.jpg",
+    "url": "https://huggingface.co/datasets/mmathys/food-nutrients/resolve/main/test/dish_1563478751.png",
+    "sha256": "0366e274bbd7c135a371b27c36a83f0819b472f15680fb3daa63867ba3608138",
+    "license": "CC-BY-4.0",
+    "mass_used": false
+  }
+]

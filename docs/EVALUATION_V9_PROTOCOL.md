@@ -1,0 +1,15 @@
+# V9 spatial decoder protocol
+
+Start from Local semantic v4's DINOv2 backbone and dense head. Freeze both; train a residual decoder with a 64-channel projection, 3×3 spatial convolutions, bilinear 2× feature upsampling, and a 32-channel refinement block. Zero-initialize the last residual layer so the initial logits match interpolated v4 logits. Training uses only the existing 1,732 FoodSeg training images and selects a checkpoint on 197 validation images.
+
+Mine hard-negative images only in the training split: images with no chicken/duck annotation but mean top-5% v4 chicken patch probability above 0.2. Oversample these 2.5× and chicken images 1.8×. These are additional training exposures, not newly acquired images. No new source/license or paid annotations are introduced. Use the existing licensed FoodSeg data and cached DINO features, verified against the manifest identity.
+
+Twenty CPU epochs, seed 191, AdamW 0.0003 with cosine decay, paired horizontal flips, weighted CE/recall-weighted Tversky plus 0.1 hard-pixel CE and 0.1 KL distillation to v4. Select minimum validation loss. The frozen head's training-time dropout remains active as feature-level regularization, and is disabled for evaluation.
+
+Calibrate native-resolution chicken masks against unchanged v6 on FoodSeg validation and Nutrition5k validation. Require at least v6 presence recall and pixel recall, no additional false-positive images on either dataset, and improved chicken IoU. Otherwise retain v6. Non-chicken masks remain unchanged. Freeze policy and checkpoint before evaluating the four FoodSeg and two Nutrition regression sets. Require no IoU/recall regression or extra false-positive images on any set before replacing v6. Repeatedly inspected sets are regression evidence, not fresh tests.
+
+Extend the shared 12-mask / 38-presence pilot graph with the new candidate using cached cloud responses. If rejected, label it explicitly and score the validation-selected diagnostic, rather than present the unchanged-v6 fallback as a new trained-model result. No test-based threshold tuning. No API calls; total ledger remains under $5. Unknown weights remain unknown.
+
+## Validation-only follow-up: fixed-area redistribution
+
+The initial threshold calibration failed before any v9 regression evaluation: best IoU sacrificed pixel recall and two Nutrition validation detections. A second validation-only policy keeps the exact v6 mask area on each image. It ranks pixels by v9 probability plus an optional v6-mask prior, within a dilated v6 support. Search prior {0, .05, .1, .2} and dilation radius fractions {.01, .025, .05} of the smaller image dimension. Stable sorting gives deterministic ties. This cannot add or remove a positive image and cannot reduce predicted area; it can only improve IoU by moving false-positive pixels to true-positive locations. It cannot reduce false-positive image count. Require validation pixel recall and IoU gains, then freeze and evaluate existing regression sets. Preserve the initial threshold results in calibration-thresholds.json.

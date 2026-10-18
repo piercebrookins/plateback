@@ -1,0 +1,13 @@
+import React,{useEffect,useState} from 'react';
+export default function ScanGallery({scans,onOpen}:{scans:any[],onOpen:(scan:any)=>void}){
+ const[limit,setLimit]=useState(24),[query,setQuery]=useState(''),[selected,setSelected]=useState<any>(null);
+ useEffect(()=>{setLimit(24);setSelected(null)},[scans]);
+ useEffect(()=>{if(!selected)return;const escape=(e:KeyboardEvent)=>{if(e.key==='Escape')setSelected(null)};window.addEventListener('keydown',escape);return()=>window.removeEventListener('keydown',escape)},[selected]);
+ const foods=(s:any):string[]=>s.sample_foods||[...new Set<string>(s.regions.map((r:any)=>r.food_name||r.label))];
+ const filtered=scans.filter(s=>[s.id,s.meal_name||'',...foods(s)].join(' ').toLowerCase().includes(query.toLowerCase()));
+ return <section className="card scan-collection"><div className="card-head"><div><h2>Saved plates</h2><p className="muted">{filtered.length.toLocaleString()} records</p></div><input aria-label="Search saved plates" placeholder="Search food or plate…" value={query} onChange={e=>{setQuery(e.target.value);setLimit(24)}}/></div>
+ {!filtered.length?<p className="empty-small">No plates here yet. Capture a plate to start your collection.</p>:<div className="history-grid">{filtered.slice(0,limit).map(s=><button className="history-card" key={s.id} onClick={()=>s.sample?setSelected(s):onOpen(s)}><img loading="lazy" src={s.image_url} alt={s.sample?'Illustrative sample plate':'Saved plate'}/><div><strong>{s.meal_name||s.status}</strong><p>{foods(s).join(', ')||'No target food recorded'}</p><small>{s.id} · {new Date(s.created_at).toLocaleDateString()}</small><small>{s.net_grams===null?'Weight not measured':s.net_grams+' g measured'}</small></div></button>)}</div>}
+ <div className="gallery-bottom"><span>Showing {Math.min(limit,filtered.length)} of {filtered.length.toLocaleString()}</span>{limit<filtered.length&&<button onClick={()=>setLimit(n=>n+24)}>Load 24 more plates</button>}</div>
+ {selected&&<div className="modal-backdrop" onClick={()=>setSelected(null)}><section className="plate-dialog card" role="dialog" aria-modal="true" aria-label="Sample plate record" onClick={e=>e.stopPropagation()}><button autoFocus className="modal-close" onClick={()=>setSelected(null)}>Close ×</button><img src={selected.image_url} alt="Illustrative sample plate"/><h2>{selected.meal_name}</h2><p>{selected.id} · {new Date(selected.created_at).toLocaleString()}</p><p>{foods(selected).join(', ')||'No target food recorded'}</p><p>Weight: unknown</p><p className="muted">Read-only sample record. Data sources and sample controls are in Settings.</p></section></div>}
+ </section>
+}

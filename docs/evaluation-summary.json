@@ -1,0 +1,61 @@
+{
+  "images": 88,
+  "confidence": 0.2,
+  "per_class": {
+    "rice": {
+      "intersection": 417798,
+      "union": 1196268,
+      "tp": 15,
+      "fp": 18,
+      "fn": 4,
+      "reference_plates": 19,
+      "predicted_plates": 33,
+      "iou": 0.3492511711422524,
+      "precision": 0.45454545454545453,
+      "recall": 0.7894736842105263
+    },
+    "pasta": {
+      "intersection": 818810,
+      "union": 1306719,
+      "tp": 17,
+      "fp": 6,
+      "fn": 3,
+      "reference_plates": 20,
+      "predicted_plates": 23,
+      "iou": 0.6266152095439035,
+      "precision": 0.7391304347826086,
+      "recall": 0.85
+    },
+    "broccoli": {
+      "intersection": 769403,
+      "union": 1017443,
+      "tp": 30,
+      "fp": 11,
+      "fn": 1,
+      "reference_plates": 31,
+      "predicted_plates": 41,
+      "iou": 0.7562123873278405,
+      "precision": 0.7317073170731707,
+      "recall": 0.967741935483871
+    },
+    "chicken_duck_proxy": {
+      "intersection": 1319305,
+      "union": 3448608,
+      "tp": 25,
+      "fp": 25,
+      "fn": 7,
+      "reference_plates": 32,
+      "predicted_plates": 50,
+      "iou": 0.3825616016665275,
+      "precision": 0.5,
+      "recall": 0.78125
+    }
+  },
+  "macro_iou": 0.528660092420131,
+  "latency_median_seconds": 0.01162902099895291,
+  "latency_p95_seconds": 0.01458193969010608,
+  "failed_requests": 0,
+  "negative_food_images": 20,
+  "negative_food_false_positive_images": 12,
+  "empty_plate_evaluation": "Not measured: negative-food images contain other foods, not verified empty plates."
+}

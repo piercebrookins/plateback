@@ -1,0 +1,6 @@
+{
+  "test_images": 32,
+  "prior_images": 2662,
+  "phash_max_distance": 6,
+  "cross_dataset_or_within_test_matches": []
+}

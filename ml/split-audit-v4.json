@@ -1,0 +1,33 @@
+{
+  "train": {
+    "images": 1732,
+    "classes": [
+      388,
+      72,
+      604,
+      748
+    ],
+    "negative": 400
+  },
+  "val": {
+    "images": 197,
+    "classes": [
+      55,
+      22,
+      70,
+      68
+    ],
+    "negative": 50
+  },
+  "test": {
+    "images": 110,
+    "classes": [
+      20,
+      20,
+      27,
+      31
+    ],
+    "negative": 40
+  },
+  "protocol": "Seed141, new test selected from previously unused third publisher TRAIN shard. All previous validation and test images protected by pHash distance <=6. Same original 197-image validation. No test access for training or selection."
+}

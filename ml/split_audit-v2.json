@@ -1,0 +1,11 @@
+{
+  "images": 1098,
+  "splits": {
+    "train": 713,
+    "val": 197,
+    "test": 188
+  },
+  "exact_or_near_cross_split_collisions_after_saved_JPEG_resize": [],
+  "old_test_IDs_excluded": true,
+  "method": "63-bit DCT perceptual hash; Hamming <=6. This heuristic does not prove independent source groups."
+}

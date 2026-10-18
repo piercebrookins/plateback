@@ -1,0 +1,544 @@
+[
+  {
+    "id": "test_1129",
+    "split": "test",
+    "group": "hard-negative",
+    "classes": [],
+    "source_labels": [
+      0,
+      46,
+      58,
+      59
+    ],
+    "sha256": "46037c0be46b4513c3ea2a0145cd66118e4ffbc875906778b5c1df6175469e80",
+    "license": "Apache-2.0",
+    "publisher_split": "test"
+  },
+  {
+    "id": "test_252",
+    "split": "test",
+    "group": "chicken",
+    "classes": [
+      3
+    ],
+    "source_labels": [
+      0,
+      48,
+      57,
+      84,
+      88
+    ],
+    "sha256": "f34c52c85bd9ebbfab9a7cb4fd78e316320a5c9d8635e5f90c100ba5f737559c",
+    "license": "Apache-2.0",
+    "publisher_split": "test"
+  },
+  {
+    "id": "test_1222",
+    "split": "test",
+    "group": "hard-negative",
+    "classes": [],
+    "source_labels": [
+      0,
+      46,
+      52,
+      76,
+      84
+    ],
+    "sha256": "0911492be3ba3db06c725b4af71a51be5e39e8304609ae7d331cad278bff92b8",
+    "license": "Apache-2.0",
+    "publisher_split": "test"
+  },
+  {
+    "id": "test_1913",
+    "split": "test",
+    "group": "hard-negative",
+    "classes": [],
+    "source_labels": [
+      0,
+      49,
+      70,
+      76,
+      89
+    ],
+    "sha256": "ee11c098e56e7cd84b714ddb9feb343ebc1f3b30611ebeff1b3983ffee9ec71f",
+    "license": "Apache-2.0",
+    "publisher_split": "test"
+  },
+  {
+    "id": "test_1291",
+    "split": "test",
+    "group": "hard-negative",
+    "classes": [],
+    "source_labels": [
+      0,
+      46,
+      52,
+      103
+    ],
+    "sha256": "be1921c97fe325b2e46c1534f44d1c4c1ef1bb50ed53d39041248c2867c5e163",
+    "license": "Apache-2.0",
+    "publisher_split": "test"
+  },
+  {
+    "id": "test_1248",
+    "split": "test",
+    "group": "chicken",
+    "classes": [
+      3
+    ],
+    "source_labels": [
+      0,
+      37,
+      48,
+      52,
+      89
+    ],
+    "sha256": "835e97b66b34036f668abbd2bbe2bf9f77c0a97b16f1e9aa4432a5246b479500",
+    "license": "Apache-2.0",
+    "publisher_split": "test"
+  },
+  {
+    "id": "test_573",
+    "split": "test",
+    "group": "chicken",
+    "classes": [
+      3
+    ],
+    "source_labels": [
+      0,
+      48,
+      52
+    ],
+    "sha256": "90b849321f55ea4c9d7414012cb7c35842f8365a900684e2ba91db7c0183e429",
+    "license": "Apache-2.0",
+    "publisher_split": "test"
+  },
+  {
+    "id": "test_120",
+    "split": "test",
+    "group": "hard-negative",
+    "classes": [],
+    "source_labels": [
+      0,
+      46,
+      59,
+      65,
+      84,
+      96
+    ],
+    "sha256": "f2d57f9eb77e1883e9a5f845f5cdc0d869f8a88e5596e562c86afe4c4acd2797",
+    "license": "Apache-2.0",
+    "publisher_split": "test"
+  },
+  {
+    "id": "test_1461",
+    "split": "test",
+    "group": "hard-negative",
+    "classes": [],
+    "source_labels": [
+      0,
+      46,
+      59
+    ],
+    "sha256": "e54eb24b2bb81b4c8dce4b955050089ecf498a3ee67de47ecb24829f5a3bdbaa",
+    "license": "Apache-2.0",
+    "publisher_split": "test"
+  },
+  {
+    "id": "test_591",
+    "split": "test",
+    "group": "hard-negative",
+    "classes": [],
+    "source_labels": [
+      0,
+      49,
+      52,
+      70,
+      73,
+      82
+    ],
+    "sha256": "d2af1afd77f47de4231c63993aa61e6845468142cfb933863a887109b03804e7",
+    "license": "Apache-2.0",
+    "publisher_split": "test"
+  },
+  {
+    "id": "test_121",
+    "split": "test",
+    "group": "hard-negative",
+    "classes": [],
+    "source_labels": [
+      0,
+      8,
+      9,
+      46,
+      67,
+      73,
+      80
+    ],
+    "sha256": "6fa0d8ac4f0ec7d01f7551b196b5eb566907f6d5b42fcc27f850778083e6dbe9",
+    "license": "Apache-2.0",
+    "publisher_split": "test"
+  },
+  {
+    "id": "test_1195",
+    "split": "test",
+    "group": "chicken",
+    "classes": [
+      3,
+      0
+    ],
+    "source_labels": [
+      0,
+      48,
+      66,
+      85
+    ],
+    "sha256": "464005418ed6f4d7b2fe27931cc324044b5af05fe60d026d2bd6d51318b540ca",
+    "license": "Apache-2.0",
+    "publisher_split": "test"
+  },
+  {
+    "id": "test_11",
+    "split": "test",
+    "group": "hard-negative",
+    "classes": [],
+    "source_labels": [
+      0,
+      11,
+      49,
+      67,
+      89
+    ],
+    "sha256": "263c6bb9cfda7352d60ed2a9a785441bbb5bd8d4592ae367a8fec5b6631bc8a4",
+    "license": "Apache-2.0",
+    "publisher_split": "test"
+  },
+  {
+    "id": "test_19",
+    "split": "test",
+    "group": "hard-negative",
+    "classes": [],
+    "source_labels": [
+      0,
+      24,
+      46,
+      52,
+      85,
+      101
+    ],
+    "sha256": "830d6a2d7632c2efb570a381e3ab4e0516ef5dc17de1e60bfdff9187190e96e4",
+    "license": "Apache-2.0",
+    "publisher_split": "test"
+  },
+  {
+    "id": "test_1251",
+    "split": "test",
+    "group": "hard-negative",
+    "classes": [],
+    "source_labels": [
+      0,
+      46,
+      70,
+      84
+    ],
+    "sha256": "487949e89f6bfc436ffe50ff57267c97b78cc4452217e58766d5d7f504f880ed",
+    "license": "Apache-2.0",
+    "publisher_split": "test"
+  },
+  {
+    "id": "test_524",
+    "split": "test",
+    "group": "hard-negative",
+    "classes": [],
+    "source_labels": [
+      0,
+      47,
+      59,
+      80,
+      91
+    ],
+    "sha256": "114b305fdb0642df8e9afa8ae919e2164c75f8700b32c41c0f30e7481fcc673f",
+    "license": "Apache-2.0",
+    "publisher_split": "test"
+  },
+  {
+    "id": "test_1136",
+    "split": "test",
+    "group": "hard-negative",
+    "classes": [],
+    "source_labels": [
+      0,
+      46,
+      93
+    ],
+    "sha256": "57fe84a7d9813272434b0d403b5318de1fbff305bdb1b007e99da349cbfa4bd3",
+    "license": "Apache-2.0",
+    "publisher_split": "test"
+  },
+  {
+    "id": "test_1243",
+    "split": "test",
+    "group": "hard-negative",
+    "classes": [],
+    "source_labels": [
+      0,
+      46,
+      58
+    ],
+    "sha256": "ebb80ae0877458f49dcf176e8d69538e10f7d7ad37987c8caf89a4d658cbb4c7",
+    "license": "Apache-2.0",
+    "publisher_split": "test"
+  },
+  {
+    "id": "test_1792",
+    "split": "test",
+    "group": "chicken",
+    "classes": [
+      3
+    ],
+    "source_labels": [
+      0,
+      37,
+      48,
+      76
+    ],
+    "sha256": "3cc28f4e5cae3639d4eab4e7bb0bddaad0d36c6a27c273642d3d666862d9466c",
+    "license": "Apache-2.0",
+    "publisher_split": "test"
+  },
+  {
+    "id": "test_183",
+    "split": "test",
+    "group": "hard-negative",
+    "classes": [],
+    "source_labels": [
+      0,
+      9,
+      46,
+      58,
+      73,
+      80
+    ],
+    "sha256": "1e54221d292a8e518e651b99adc8505354f47b64a13faff1151890e941ab14cc",
+    "license": "Apache-2.0",
+    "publisher_split": "test"
+  },
+  {
+    "id": "test_674",
+    "split": "test",
+    "group": "hard-negative",
+    "classes": [],
+    "source_labels": [
+      0,
+      9,
+      46,
+      58,
+      73,
+      93,
+      98
+    ],
+    "sha256": "a767ee383c5e66a8e709eeafbc9b319b3c06df7d2d5ca0ed545708aa802c11ca",
+    "license": "Apache-2.0",
+    "publisher_split": "test"
+  },
+  {
+    "id": "test_525",
+    "split": "test",
+    "group": "chicken",
+    "classes": [
+      3
+    ],
+    "source_labels": [
+      0,
+      48,
+      59,
+      70
+    ],
+    "sha256": "d37821c62014bcaa9b8cc40e5295d8d98ec60244629977d0cac1c58b1aa227fe",
+    "license": "Apache-2.0",
+    "publisher_split": "test"
+  },
+  {
+    "id": "test_1212",
+    "split": "test",
+    "group": "chicken",
+    "classes": [
+      3,
+      0
+    ],
+    "source_labels": [
+      0,
+      48,
+      66,
+      84,
+      89,
+      96
+    ],
+    "sha256": "db6e7d1f025cf84707ade78c5bafb0deb9138515863e75eca846aa0888594555",
+    "license": "Apache-2.0",
+    "publisher_split": "test"
+  },
+  {
+    "id": "test_1617",
+    "split": "test",
+    "group": "chicken",
+    "classes": [
+      3
+    ],
+    "source_labels": [
+      0,
+      48,
+      73,
+      80
+    ],
+    "sha256": "474bf86350d9f8e6f05bb2ab66eff435fc0510ebd5f2869841c3885624a9cab4",
+    "license": "Apache-2.0",
+    "publisher_split": "test"
+  },
+  {
+    "id": "test_1670",
+    "split": "test",
+    "group": "chicken",
+    "classes": [
+      3
+    ],
+    "source_labels": [
+      0,
+      48,
+      73,
+      82
+    ],
+    "sha256": "d3405ae05392c3eb7a6bab604601b8a0dbbbfb8df927ecfd01c499da42eff837",
+    "license": "Apache-2.0",
+    "publisher_split": "test"
+  },
+  {
+    "id": "test_616",
+    "split": "test",
+    "group": "chicken",
+    "classes": [
+      3,
+      2
+    ],
+    "source_labels": [
+      0,
+      48,
+      70,
+      72,
+      81,
+      87
+    ],
+    "sha256": "af1064883e354cdbdad6af5ed8c38ee6324abf39199d847219154ef98c131efe",
+    "license": "Apache-2.0",
+    "publisher_split": "test"
+  },
+  {
+    "id": "test_715",
+    "split": "test",
+    "group": "chicken",
+    "classes": [
+      3
+    ],
+    "source_labels": [
+      0,
+      48,
+      58,
+      73,
+      89
+    ],
+    "sha256": "f51e8d7a4fc4151574ac447d0a2405f02aafc08ae05f45848bc89e58f9c9676b",
+    "license": "Apache-2.0",
+    "publisher_split": "test"
+  },
+  {
+    "id": "test_1261",
+    "split": "test",
+    "group": "chicken",
+    "classes": [
+      3
+    ],
+    "source_labels": [
+      0,
+      46,
+      48,
+      70,
+      84
+    ],
+    "sha256": "b2a1e656cb63468a45a8ea1b6b78ed0e2fa32595a2fe06ddad10ca267a39fbbd",
+    "license": "Apache-2.0",
+    "publisher_split": "test"
+  },
+  {
+    "id": "test_1332",
+    "split": "test",
+    "group": "chicken",
+    "classes": [
+      3
+    ],
+    "source_labels": [
+      0,
+      8,
+      47,
+      48,
+      96
+    ],
+    "sha256": "b668186cfddcb66f1ed90427f04b24df6b0580653ac9c51c99acf3dbf8c52efc",
+    "license": "Apache-2.0",
+    "publisher_split": "test"
+  },
+  {
+    "id": "test_1021",
+    "split": "test",
+    "group": "chicken",
+    "classes": [
+      3
+    ],
+    "source_labels": [
+      0,
+      48,
+      84
+    ],
+    "sha256": "524b9a776b6c3a1bf0f68159b5d91d33efee48d79692f4e9c6b962f7398de1de",
+    "license": "Apache-2.0",
+    "publisher_split": "test"
+  },
+  {
+    "id": "test_1802",
+    "split": "test",
+    "group": "chicken",
+    "classes": [
+      3,
+      2
+    ],
+    "source_labels": [
+      0,
+      48,
+      70,
+      73,
+      87,
+      89
+    ],
+    "sha256": "c09a8385f5f493c67e37d466d548a883a40def7263ac6fad1efed15f4a4c46e5",
+    "license": "Apache-2.0",
+    "publisher_split": "test"
+  },
+  {
+    "id": "test_974",
+    "split": "test",
+    "group": "chicken",
+    "classes": [
+      3
+    ],
+    "source_labels": [
+      0,
+      8,
+      48,
+      58,
+      59,
+      84
+    ],
+    "sha256": "5f642a1abe5415b1b6bb44e1a2795637ea04ccc991b25e189dc0a47410635d4f",
+    "license": "Apache-2.0",
+    "publisher_split": "test"
+  }
+]

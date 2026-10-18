@@ -1,0 +1,26 @@
+{
+  "confidence": 0.2,
+  "selection": "Maximum validation category-union macro IoU",
+  "validation_candidates": [
+    {
+      "confidence": 0.1,
+      "macro_iou": 0.44658883701849844
+    },
+    {
+      "confidence": 0.2,
+      "macro_iou": 0.5200069870908135
+    },
+    {
+      "confidence": 0.3,
+      "macro_iou": 0.5055106991119167
+    },
+    {
+      "confidence": 0.4,
+      "macro_iou": 0.5059571467298556
+    },
+    {
+      "confidence": 0.5,
+      "macro_iou": 0.4877609422938579
+    }
+  ]
+}

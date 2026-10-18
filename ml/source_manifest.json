@@ -1,0 +1,28 @@
+{
+  "retrieved": "2026-10-17",
+  "dataset": "FoodSeg103",
+  "mirror": "EduardoPacheco/FoodSeg103",
+  "license_declared": "Apache-2.0",
+  "files": [
+    {
+      "path": "data/source/train.parquet",
+      "url": "https://huggingface.co/datasets/EduardoPacheco/FoodSeg103/resolve/main/data/train-00000-of-00003.parquet",
+      "sha256": "7288a62861c06f1c0f677674fd9564aae277a727a146bf31688cf86befa452b7"
+    },
+    {
+      "path": "data/source/test.parquet",
+      "url": "https://huggingface.co/datasets/EduardoPacheco/FoodSeg103/resolve/main/data/validation-00000-of-00001.parquet",
+      "sha256": "73d4d49abc2ef135dfccbce86f395d8e39215cf656d2954b516a88572f24b0e6"
+    },
+    {
+      "path": "data/source/train-extra.parquet",
+      "url": "https://huggingface.co/datasets/EduardoPacheco/FoodSeg103/resolve/main/data/train-00001-of-00003.parquet",
+      "sha256": "814ef4e25036a9073a4017e8d05bad80b213df74cc9cd60e972136b5ae2e0ab9"
+    },
+    {
+      "path": "data/source/train-third.parquet",
+      "url": "https://huggingface.co/datasets/EduardoPacheco/FoodSeg103/resolve/main/data/train-00002-of-00003.parquet",
+      "sha256": "7b16b566c273e049a10d651caf6d28951f6cdf730fba6596e832b451230d6ac1"
+    }
+  ]
+}

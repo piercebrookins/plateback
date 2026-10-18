@@ -1,0 +1,7 @@
+{
+  "training_images": 1732,
+  "heldout_references": 666,
+  "phash_max_distance": 6,
+  "cross_split_matches": [],
+  "new_test_near_duplicates": []
+}

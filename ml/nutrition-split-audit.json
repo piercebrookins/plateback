@@ -1,0 +1,7 @@
+{
+  "training_reference_images": 1136,
+  "external_test_images": 38,
+  "cross_split_near_matches": [],
+  "within_test_near_matches": [],
+  "method": "63-bit DCT pHash, Hamming <=6. Heuristic; not proof of independent physical plates."
+}

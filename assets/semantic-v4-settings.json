@@ -1,0 +1,28 @@
+{
+  "version": "v4",
+  "confidence": 0.05,
+  "imgsz": 448,
+  "per_class": {
+    "rice": {
+      "source": "semantic",
+      "confidence": 0.6,
+      "min_area_fraction": 0.005
+    },
+    "pasta": {
+      "source": "semantic",
+      "confidence": 0.15,
+      "min_area_fraction": 0.0005
+    },
+    "broccoli": {
+      "source": "semantic",
+      "confidence": 0.5,
+      "min_area_fraction": 0.005
+    },
+    "chicken": {
+      "source": "semantic",
+      "confidence": 0.7,
+      "min_area_fraction": 0.05
+    }
+  },
+  "selection": "Validation only, maximize pooled class IoU subject to no loss of either v1 or deployed v3 presence recall or pixel recall and no increase in false-positive images versus v1 (also versus v3 for chicken). Explicit baseline fallback if no candidate improves under ALL constraints."
+}

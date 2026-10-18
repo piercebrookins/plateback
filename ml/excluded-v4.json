@@ -1,0 +1,37 @@
+[
+  {
+    "id": "train_1015",
+    "near": [
+      "test_1862"
+    ],
+    "proposed_split": "train"
+  },
+  {
+    "id": "train_2854",
+    "near": [
+      "test_371"
+    ],
+    "proposed_split": "train"
+  },
+  {
+    "id": "train_3276",
+    "near": [
+      "train_1195"
+    ],
+    "proposed_split": "train"
+  },
+  {
+    "id": "train_3273",
+    "near": [
+      "test_1283"
+    ],
+    "proposed_split": "train"
+  },
+  {
+    "id": "train_4170",
+    "near": [
+      "train_257"
+    ],
+    "proposed_split": "train"
+  }
+]

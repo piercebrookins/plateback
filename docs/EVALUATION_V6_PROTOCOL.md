@@ -1,0 +1,15 @@
+# V5 follow-up protocol (v6 candidates)
+
+Frozen before new Nutrition5k evaluation, 2026-10-17.
+
+Training stays local. No paid requests are needed for this round: reuse cached Gemini responses. The accounted ledger starts at $1.62107589 / $5, including unknown-outcome reservations.
+
+Expand original CC-BY-4.0 Nutrition5k ingredient supervision from the already downloaded public mirror. Deterministic seed 161; official train/test assignment; decoded perceptual-distance <=6 exclusions against prior FoodSeg/Nutrition images and newly accepted images. Reserve up to 30 positives + 30 negatives for each new validation and test split before training; add up to 150 positives + 150 negatives from official train. Old Nutrition test is regression evidence, never new training data. Ingredient labels are weak image-presence labels, not segmentation truth or measured leftover weights.
+
+Experiments: (1) linear chicken presence classifier on frozen DINO mean/max patch features; (2) nonlinear MLP classifier on the same data, with balanced positive/negative loss. Both mix native FoodSeg train labels and expanded Nutrition train labels. (3) weak-label MIL refinement of the dense head with FoodSeg pixel-supervised replay. Backbone remains frozen; these are alternative local transfer-learning methods, not a full backbone fine-tune.
+
+Selection only on FoodSeg validation and new Nutrition validation. Presence rescue may add chicken regions to the v5 mask but must never remove v5 pixels. Rescue masks use the existing semantic probabilities at a smaller seed area, gated by the separately trained classifier. This guarantees v5 pixel/presence recall is not reduced, but does not guarantee agreement with v3 or prevent false positives. Measure those separately. Keep other three foods unchanged. Compare candidates on validation pooled IoU subject to no reduced v5 chicken recall and no increased v3 validation false-positive images, and new Nutrition validation recall >=80%. If no policy passes, preserve a clearly marked research-only candidate.
+
+Freeze policy and checkpoint hashes before inspecting new test predictions. Evaluate old Nutrition38, old FoodSeg110 and chicken32, and cached Gemini paired32/16 as regression evidence. New Nutrition test measures presence only; it cannot establish a segmentation win. No new claim of beating Gemini without a fresh, independent pixel-ground-truth comparison. Active v3 remains unchanged unless all cross-dataset recall/false-positive gates pass and segmentation improves against Gemini on a suitable independent set. All unmeasured food weights remain unknown.
+
+Classifier checkpoints use validation BCE (equal weight per source); MIL uses validation pixel loss plus 0.2 weak-presence BCE. Calibration tries fixed seed thresholds [.25,.5,.75], minimum areas [.0005,.002,.005], growth .1, and classifier gates [.2,.35,.5,.65,.8,.9,.95]. Nutrition validation false positives must also be <=6/30. If no policy qualifies, retain a research-only fallback ranked by meeting false-positive limits, then Nutrition recall, then FoodSeg IoU; never silently label the fallback eligible or deploy it.

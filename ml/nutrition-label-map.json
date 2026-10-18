@@ -1,0 +1,23 @@
+{
+  "rice": [
+    "brown rice",
+    "country rice",
+    "fried rice",
+    "white rice",
+    "wild rice"
+  ],
+  "pasta": [
+    "pasta",
+    "pasta salad"
+  ],
+  "broccoli": [
+    "broccoli"
+  ],
+  "chicken": [
+    "chicken",
+    "chicken breast",
+    "chicken salad",
+    "chicken thighs",
+    "grilled chicken"
+  ]
+}

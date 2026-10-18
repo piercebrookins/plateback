@@ -1,0 +1,218 @@
+{
+  "active_model": "v3 retained",
+  "regression_caveat": "On the earlier 110-image regression set, v5 chicken pixel recall is 74.0% versus v3 77.3%. Nutrition5k chicken presence recall is also 30% versus v3 40% on ten positive images. V3 remains active to honor the no-recall-loss requirement. V5 is experimental.",
+  "status": "completed",
+  "full_images": 32,
+  "positive_images": 16,
+  "hard_negative_images": 16,
+  "paired_images": 16,
+  "full_evaluation": {
+    "Original YOLO v1": {
+      "images": 32,
+      "chicken": {
+        "intersection": 559985,
+        "union": 1667677,
+        "truth_pixels": 830639,
+        "predicted_pixels": 1397023,
+        "tp": 12,
+        "fp": 10,
+        "fn": 4,
+        "iou": 0.3357874456504467,
+        "precision": 0.5454545454545454,
+        "recall": 0.75,
+        "pixel_recall": 0.6741616996071699,
+        "pixel_precision": 0.4008416468447549
+      },
+      "latency_median_seconds": null
+    },
+    "Previous ensemble v3": {
+      "images": 32,
+      "chicken": {
+        "intersection": 540207,
+        "union": 1356045,
+        "truth_pixels": 830639,
+        "predicted_pixels": 1065613,
+        "tp": 9,
+        "fp": 5,
+        "fn": 7,
+        "iou": 0.39836952313529417,
+        "precision": 0.6428571428571429,
+        "recall": 0.5625,
+        "pixel_recall": 0.6503511152257478,
+        "pixel_precision": 0.5069448289388362
+      },
+      "latency_median_seconds": 0.08745339600136504
+    },
+    "Semantic v4 candidate": {
+      "images": 32,
+      "chicken": {
+        "intersection": 758297,
+        "union": 976600,
+        "truth_pixels": 830639,
+        "predicted_pixels": 904258,
+        "tp": 15,
+        "fp": 3,
+        "fn": 1,
+        "iou": 0.776466311693631,
+        "precision": 0.8333333333333334,
+        "recall": 0.9375,
+        "pixel_recall": 0.9129080141914839,
+        "pixel_precision": 0.838584784430992
+      },
+      "latency_median_seconds": 0.07527633348945528
+    },
+    "Boundary-refined v5": {
+      "images": 32,
+      "chicken": {
+        "intersection": 805555,
+        "union": 1175689,
+        "truth_pixels": 830639,
+        "predicted_pixels": 1150605,
+        "tp": 15,
+        "fp": 3,
+        "fn": 1,
+        "iou": 0.685176947304942,
+        "precision": 0.8333333333333334,
+        "recall": 0.9375,
+        "pixel_recall": 0.9698015624115891,
+        "pixel_precision": 0.7001142877008183
+      },
+      "latency_median_seconds": 0.07665925000037532
+    }
+  },
+  "paired_evaluation": {
+    "Original YOLO v1": {
+      "images": 16,
+      "chicken": {
+        "intersection": 451690,
+        "union": 1102882,
+        "truth_pixels": 515601,
+        "predicted_pixels": 1038971,
+        "tp": 7,
+        "fp": 7,
+        "fn": 1,
+        "iou": 0.4095542406168566,
+        "precision": 0.5,
+        "recall": 0.875,
+        "pixel_recall": 0.87604562442664,
+        "pixel_precision": 0.4347474568587574
+      },
+      "latency_median_seconds": null
+    },
+    "Previous ensemble v3": {
+      "images": 16,
+      "chicken": {
+        "intersection": 360886,
+        "union": 905074,
+        "truth_pixels": 515601,
+        "predicted_pixels": 750359,
+        "tp": 5,
+        "fp": 4,
+        "fn": 3,
+        "iou": 0.3987364569084959,
+        "precision": 0.5555555555555556,
+        "recall": 0.625,
+        "pixel_recall": 0.6999326998977892,
+        "pixel_precision": 0.48095111806481966
+      },
+      "latency_median_seconds": null
+    },
+    "Semantic v4 candidate": {
+      "images": 16,
+      "chicken": {
+        "intersection": 493308,
+        "union": 573354,
+        "truth_pixels": 515601,
+        "predicted_pixels": 551061,
+        "tp": 8,
+        "fp": 1,
+        "fn": 0,
+        "iou": 0.8603899161774401,
+        "precision": 0.8888888888888888,
+        "recall": 1.0,
+        "pixel_recall": 0.9567630784269231,
+        "pixel_precision": 0.8951967205082559
+      },
+      "latency_median_seconds": null
+    },
+    "Boundary-refined v5": {
+      "images": 16,
+      "chicken": {
+        "intersection": 512040,
+        "union": 653736,
+        "truth_pixels": 515601,
+        "predicted_pixels": 650175,
+        "tp": 8,
+        "fp": 1,
+        "fn": 0,
+        "iou": 0.7832519549175814,
+        "precision": 0.8888888888888888,
+        "recall": 1.0,
+        "pixel_recall": 0.9930934967154835,
+        "pixel_precision": 0.7875418156650132
+      },
+      "latency_median_seconds": null
+    },
+    "Gemini 4 Argon": {
+      "images": 16,
+      "chicken": {
+        "intersection": 484302,
+        "union": 537405,
+        "truth_pixels": 515601,
+        "predicted_pixels": 506106,
+        "tp": 7,
+        "fp": 0,
+        "fn": 1,
+        "iou": 0.9011862561755101,
+        "precision": 1.0,
+        "recall": 0.875,
+        "pixel_recall": 0.9392960835995275,
+        "pixel_precision": 0.9569181159678012
+      },
+      "latency_median_seconds": null
+    }
+  },
+  "gemini_difference": {
+    "iou_difference_95_percentile_interval": [
+      -0.29064333096839307,
+      -0.0025816608822622437
+    ],
+    "recall_difference_95_percentile_interval": [
+      0.0,
+      0.4285714285714286
+    ],
+    "pixel_recall_difference_95_percentile_interval": [
+      0.017517188705271435,
+      0.13266135004798318
+    ]
+  },
+  "v3_difference": {
+    "iou_difference_95_percentile_interval": [
+      0.09325906585380037,
+      0.47576693571953554
+    ],
+    "recall_difference_95_percentile_interval": [
+      0.15384615384615385,
+      0.6251644736842096
+    ],
+    "pixel_recall_difference_95_percentile_interval": [
+      0.15683527282067578,
+      0.6208577243415322
+    ]
+  },
+  "gemini_valid_outputs": 16,
+  "gemini_cost_usd": 0.10564599999999998,
+  "accounted_total_usd": 1.621075890000001,
+  "deployment_gate": {
+    "presence_recall_preserved": true,
+    "pixel_recall_preserved": true,
+    "false_positives_not_increased": true,
+    "iou_not_decreased": true,
+    "regression_presence_recall_preserved": true,
+    "regression_pixel_recall_preserved": false,
+    "regression_false_positives_not_increased": true,
+    "nutrition_presence_recall_preserved": false,
+    "promotion_eligible": false
+  },
+  "note": "New unused publisher-test images; chicken/duck proxy. Other foods lack balanced coverage, so this does not establish overall four-food superiority. Earlier 110/32-image sets are regression evidence for v5. Public pretraining overlap and real leftover performance remain unknown."
+}

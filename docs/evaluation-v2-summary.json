@@ -1,0 +1,407 @@
+{
+  "baseline-validation": {
+    "images": 197,
+    "settings": {
+      "confidence": 0.2,
+      "imgsz": 320
+    },
+    "per_class": {
+      "rice": {
+        "intersection": 1386308,
+        "union": 2985450,
+        "tp": 45,
+        "fp": 31,
+        "fn": 10,
+        "iou": 0.4643547873854863,
+        "precision": 0.5921052631578947,
+        "recall": 0.8181818181818182,
+        "f0_5": 0.6267409470752089
+      },
+      "pasta": {
+        "intersection": 465464,
+        "union": 1711593,
+        "tp": 16,
+        "fp": 20,
+        "fn": 6,
+        "iou": 0.27194782871862644,
+        "precision": 0.4444444444444444,
+        "recall": 0.7272727272727273,
+        "f0_5": 0.4819277108433735
+      },
+      "broccoli": {
+        "intersection": 1591583,
+        "union": 2133135,
+        "tp": 67,
+        "fp": 10,
+        "fn": 3,
+        "iou": 0.7461238974560916,
+        "precision": 0.8701298701298701,
+        "recall": 0.9571428571428572,
+        "f0_5": 0.8862433862433863
+      },
+      "chicken": {
+        "intersection": 1538311,
+        "union": 5927671,
+        "tp": 42,
+        "fp": 59,
+        "fn": 26,
+        "iou": 0.259513559372644,
+        "precision": 0.4158415841584158,
+        "recall": 0.6176470588235294,
+        "f0_5": 0.4449152542372881
+      }
+    },
+    "macro_iou": 0.43548501823321206,
+    "negative_food_images": 50,
+    "negative_food_false_positive_images": 32,
+    "latency_median_seconds": 0.02932833301019855,
+    "latency_p95_seconds": 0.07383932499215001
+  },
+  "candidate-validation": {
+    "images": 197,
+    "settings": {
+      "imgsz": 416,
+      "confidence": 0.05,
+      "per_class": {
+        "rice": {
+          "confidence": 0.5,
+          "min_area_fraction": 0.01
+        },
+        "pasta": {
+          "confidence": 0.5,
+          "min_area_fraction": 0
+        },
+        "broccoli": {
+          "confidence": 0.6,
+          "min_area_fraction": 0
+        },
+        "chicken": {
+          "confidence": 0.3,
+          "min_area_fraction": 0
+        }
+      },
+      "selection": "Validation only: maximize .55 category pooled IoU + .45 presence F0.5; prefer recall >= .50 when feasible in the search, otherwise maximize the objective. Class-specific thresholds; frozen before test."
+    },
+    "per_class": {
+      "rice": {
+        "intersection": 1293988,
+        "union": 2090360,
+        "tp": 40,
+        "fp": 8,
+        "fn": 15,
+        "iou": 0.6190263877992308,
+        "precision": 0.8333333333333334,
+        "recall": 0.7272727272727273,
+        "f0_5": 0.8097165991902834
+      },
+      "pasta": {
+        "intersection": 389644,
+        "union": 951118,
+        "tp": 11,
+        "fp": 4,
+        "fn": 11,
+        "iou": 0.4096694626744526,
+        "precision": 0.7333333333333333,
+        "recall": 0.5,
+        "f0_5": 0.6707317073170732
+      },
+      "broccoli": {
+        "intersection": 1488796,
+        "union": 1861963,
+        "tp": 62,
+        "fp": 2,
+        "fn": 8,
+        "iou": 0.7995840948504347,
+        "precision": 0.96875,
+        "recall": 0.8857142857142857,
+        "f0_5": 0.950920245398773
+      },
+      "chicken": {
+        "intersection": 785105,
+        "union": 3755169,
+        "tp": 26,
+        "fp": 19,
+        "fn": 42,
+        "iou": 0.20907314690763584,
+        "precision": 0.5777777777777777,
+        "recall": 0.38235294117647056,
+        "f0_5": 0.5241935483870968
+      }
+    },
+    "macro_iou": 0.5093382730579384,
+    "negative_food_images": 50,
+    "negative_food_false_positive_images": 9,
+    "latency_median_seconds": 0.016248833009740338,
+    "latency_p95_seconds": 0.02111584978410974
+  },
+  "baseline-fresh": {
+    "images": 188,
+    "settings": {
+      "confidence": 0.2,
+      "imgsz": 320
+    },
+    "per_class": {
+      "rice": {
+        "intersection": 920239,
+        "union": 2699374,
+        "tp": 34,
+        "fp": 35,
+        "fn": 7,
+        "iou": 0.34090829947980533,
+        "precision": 0.4927536231884058,
+        "recall": 0.8292682926829268,
+        "f0_5": 0.5362776025236593
+      },
+      "pasta": {
+        "intersection": 1016241,
+        "union": 2306939,
+        "tp": 18,
+        "fp": 24,
+        "fn": 8,
+        "iou": 0.4405148987467809,
+        "precision": 0.42857142857142855,
+        "recall": 0.6923076923076923,
+        "f0_5": 0.4639175257731959
+      },
+      "broccoli": {
+        "intersection": 1015337,
+        "union": 1637377,
+        "tp": 45,
+        "fp": 18,
+        "fn": 3,
+        "iou": 0.6200997082528947,
+        "precision": 0.7142857142857143,
+        "recall": 0.9375,
+        "f0_5": 0.75
+      },
+      "chicken": {
+        "intersection": 1428567,
+        "union": 5933515,
+        "tp": 43,
+        "fp": 62,
+        "fn": 15,
+        "iou": 0.2407623474449799,
+        "precision": 0.4095238095238095,
+        "recall": 0.7413793103448276,
+        "f0_5": 0.4497907949790795
+      }
+    },
+    "macro_iou": 0.4105713134811152,
+    "negative_food_images": 70,
+    "negative_food_false_positive_images": 43,
+    "latency_median_seconds": 0.014968875504564494,
+    "latency_p95_seconds": 0.017250514603802003
+  },
+  "candidate-fresh": {
+    "images": 188,
+    "settings": {
+      "imgsz": 416,
+      "confidence": 0.05,
+      "per_class": {
+        "rice": {
+          "confidence": 0.5,
+          "min_area_fraction": 0.01
+        },
+        "pasta": {
+          "confidence": 0.5,
+          "min_area_fraction": 0
+        },
+        "broccoli": {
+          "confidence": 0.6,
+          "min_area_fraction": 0
+        },
+        "chicken": {
+          "confidence": 0.3,
+          "min_area_fraction": 0
+        }
+      },
+      "selection": "Validation only: maximize .55 category pooled IoU + .45 presence F0.5; prefer recall >= .50 when feasible in the search, otherwise maximize the objective. Class-specific thresholds; frozen before test."
+    },
+    "per_class": {
+      "rice": {
+        "intersection": 886388,
+        "union": 1862883,
+        "tp": 28,
+        "fp": 6,
+        "fn": 13,
+        "iou": 0.47581517465133344,
+        "precision": 0.8235294117647058,
+        "recall": 0.6829268292682927,
+        "f0_5": 0.7909604519774012
+      },
+      "pasta": {
+        "intersection": 536638,
+        "union": 1401650,
+        "tp": 10,
+        "fp": 0,
+        "fn": 16,
+        "iou": 0.38286162736774515,
+        "precision": 1.0,
+        "recall": 0.38461538461538464,
+        "f0_5": 0.7575757575757576
+      },
+      "broccoli": {
+        "intersection": 996961,
+        "union": 1356696,
+        "tp": 43,
+        "fp": 5,
+        "fn": 5,
+        "iou": 0.7348447994244842,
+        "precision": 0.8958333333333334,
+        "recall": 0.8958333333333334,
+        "f0_5": 0.8958333333333334
+      },
+      "chicken": {
+        "intersection": 775379,
+        "union": 3409606,
+        "tp": 23,
+        "fp": 25,
+        "fn": 35,
+        "iou": 0.2274101465095967,
+        "precision": 0.4791666666666667,
+        "recall": 0.39655172413793105,
+        "f0_5": 0.46
+      }
+    },
+    "macro_iou": 0.4552329369882899,
+    "negative_food_images": 70,
+    "negative_food_false_positive_images": 12,
+    "latency_median_seconds": 0.02081120849470608,
+    "latency_p95_seconds": 0.027249076643784065
+  },
+  "baseline-regression": {
+    "images": 88,
+    "settings": {
+      "confidence": 0.2,
+      "imgsz": 320
+    },
+    "per_class": {
+      "rice": {
+        "intersection": 417798,
+        "union": 1196268,
+        "tp": 15,
+        "fp": 18,
+        "fn": 4,
+        "iou": 0.3492511711422524,
+        "precision": 0.45454545454545453,
+        "recall": 0.7894736842105263,
+        "f0_5": 0.4966887417218543
+      },
+      "pasta": {
+        "intersection": 818810,
+        "union": 1306719,
+        "tp": 17,
+        "fp": 6,
+        "fn": 3,
+        "iou": 0.6266152095439035,
+        "precision": 0.7391304347826086,
+        "recall": 0.85,
+        "f0_5": 0.7589285714285714
+      },
+      "broccoli": {
+        "intersection": 769403,
+        "union": 1017443,
+        "tp": 30,
+        "fp": 11,
+        "fn": 1,
+        "iou": 0.7562123873278405,
+        "precision": 0.7317073170731707,
+        "recall": 0.967741935483871,
+        "f0_5": 0.7692307692307693
+      },
+      "chicken": {
+        "intersection": 1319305,
+        "union": 3448608,
+        "tp": 25,
+        "fp": 25,
+        "fn": 7,
+        "iou": 0.3825616016665275,
+        "precision": 0.5,
+        "recall": 0.78125,
+        "f0_5": 0.5387931034482759
+      }
+    },
+    "macro_iou": 0.528660092420131,
+    "negative_food_images": 20,
+    "negative_food_false_positive_images": 12,
+    "latency_median_seconds": 0.016908187506487593,
+    "latency_p95_seconds": 0.01973202665540157
+  },
+  "candidate-regression": {
+    "images": 88,
+    "settings": {
+      "imgsz": 416,
+      "confidence": 0.05,
+      "per_class": {
+        "rice": {
+          "confidence": 0.5,
+          "min_area_fraction": 0.01
+        },
+        "pasta": {
+          "confidence": 0.5,
+          "min_area_fraction": 0
+        },
+        "broccoli": {
+          "confidence": 0.6,
+          "min_area_fraction": 0
+        },
+        "chicken": {
+          "confidence": 0.3,
+          "min_area_fraction": 0
+        }
+      },
+      "selection": "Validation only: maximize .55 category pooled IoU + .45 presence F0.5; prefer recall >= .50 when feasible in the search, otherwise maximize the objective. Class-specific thresholds; frozen before test."
+    },
+    "per_class": {
+      "rice": {
+        "intersection": 432279,
+        "union": 668443,
+        "tp": 15,
+        "fp": 4,
+        "fn": 4,
+        "iou": 0.6466953801595648,
+        "precision": 0.7894736842105263,
+        "recall": 0.7894736842105263,
+        "f0_5": 0.7894736842105263
+      },
+      "pasta": {
+        "intersection": 819242,
+        "union": 1074353,
+        "tp": 13,
+        "fp": 2,
+        "fn": 7,
+        "iou": 0.7625445267989199,
+        "precision": 0.8666666666666667,
+        "recall": 0.65,
+        "f0_5": 0.8125
+      },
+      "broccoli": {
+        "intersection": 743937,
+        "union": 909331,
+        "tp": 27,
+        "fp": 1,
+        "fn": 4,
+        "iou": 0.8181146359246523,
+        "precision": 0.9642857142857143,
+        "recall": 0.8709677419354839,
+        "f0_5": 0.9440559440559441
+      },
+      "chicken": {
+        "intersection": 512110,
+        "union": 2350271,
+        "tp": 13,
+        "fp": 9,
+        "fn": 19,
+        "iou": 0.21789402158304297,
+        "precision": 0.5909090909090909,
+        "recall": 0.40625,
+        "f0_5": 0.5416666666666666
+      }
+    },
+    "macro_iou": 0.611312141116545,
+    "negative_food_images": 20,
+    "negative_food_false_positive_images": 2,
+    "latency_median_seconds": 0.02301018699654378,
+    "latency_p95_seconds": 0.030559657994308508
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "prior_images": 2694,
+  "excluded": [
+    {
+      "id": "dish_1559233627",
+      "reason": "decoded phash <=6 from prior or selected image"
+    },
+    {
+      "id": "dish_1560801020",
+      "reason": "decoded phash <=6 from prior or selected image"
+    },
+    {
+      "id": "dish_1565811061",
+      "reason": "decoded phash <=6 from prior or selected image"
+    },
+    {
+      "id": "dish_1562959059",
+      "reason": "decoded phash <=6 from prior or selected image"
+    },
+    {
+      "id": "dish_1565033110",
+      "reason": "decoded phash <=6 from prior or selected image"
+    },
+    {
+      "id": "dish_1558637351",
+      "reason": "decoded phash <=6 from prior or selected image"
+    },
+    {
+      "id": "dish_1558463362",
+      "reason": "decoded phash <=6 from prior or selected image"
+    },
+    {
+      "id": "dish_1558719401",
+      "reason": "decoded phash <=6 from prior or selected image"
+    },
+    {
+      "id": "dish_1558722871",
+      "reason": "decoded phash <=6 from prior or selected image"
+    },
+    {
+      "id": "dish_1558029842",
+      "reason": "decoded phash <=6 from prior or selected image"
+    },
+    {
+      "id": "dish_1559846450",
+      "reason": "decoded phash <=6 from prior or selected image"
+    },
+    {
+      "id": "dish_1566316558",
+      "reason": "decoded phash <=6 from prior or selected image"
+    },
+    {
+      "id": "dish_1561580322",
+      "reason": "decoded phash <=6 from prior or selected image"
+    },
+    {
+      "id": "dish_1558630038",
+      "reason": "decoded phash <=6 from prior or selected image"
+    },
+    {
+      "id": "dish_1558640604",
+      "reason": "decoded phash <=6 from prior or selected image"
+    },
+    {
+      "id": "dish_1565118096",
+      "reason": "decoded phash <=6 from prior or selected image"
+    },
+    {
+      "id": "dish_1566333255",
+      "reason": "decoded phash <=6 from prior or selected image"
+    },
+    {
+      "id": "dish_1560802092",
+      "reason": "decoded phash <=6 from prior or selected image"
+    },
+    {
+      "id": "dish_1559934708",
+      "reason": "decoded phash <=6 from prior or selected image"
+    },
+    {
+      "id": "dish_1563563378",
+      "reason": "decoded phash <=6 from prior or selected image"
+    },
+    {
+      "id": "dish_1568401090",
+      "reason": "decoded phash <=6 from prior or selected image"
+    },
+    {
+      "id": "dish_1563395480",
+      "reason": "decoded phash <=6 from prior or selected image"
+    },
+    {
+      "id": "dish_1561663891",
+      "reason": "decoded phash <=6 from prior or selected image"
+    },
+    {
+      "id": "dish_1561576074",
+      "reason": "decoded phash <=6 from prior or selected image"
+    },
+    {
+      "id": "dish_1565210009",
+      "reason": "decoded phash <=6 from prior or selected image"
+    },
+    {
+      "id": "dish_1560543729",
+      "reason": "decoded phash <=6 from prior or selected image"
+    },
+    {
+      "id": "dish_1565987081",
+      "reason": "decoded phash <=6 from prior or selected image"
+    },
+    {
+      "id": "dish_1568666329",
+      "reason": "decoded phash <=6 from prior or selected image"
+    },
+    {
+      "id": "dish_1566931586",
+      "reason": "decoded phash <=6 from prior or selected image"
+    },
+    {
+      "id": "dish_1559244546",
+      "reason": "decoded phash <=6 from prior or selected image"
+    },
+    {
+      "id": "dish_1565727851",
+      "reason": "decoded phash <=6 from prior or selected image"
+    },
+    {
+      "id": "dish_1563305948",
+      "reason": "decoded phash <=6 from prior or selected image"
+    },
+    {
+      "id": "dish_1567022338",
+      "reason": "decoded phash <=6 from prior or selected image"
+    },
+    {
+      "id": "dish_1566413419",
+      "reason": "decoded phash <=6 from prior or selected image"
+    },
+    {
+      "id": "dish_1560802730",
+      "reason": "decoded phash <=6 from prior or selected image"
+    }
+  ],
+  "phash_distance": 6,
+  "new_images": 420,
+  "counts": {
+    "train": {
+      "images": 526,
+      "chicken": 217
+    },
+    "val": {
+      "images": 60,
+      "chicken": 30
+    },
+    "test": {
+      "images": 60,
+      "chicken": 30
+    }
+  },
+  "label_limitation": "Ingredients do not guarantee visible chicken; no pixel masks"
+}

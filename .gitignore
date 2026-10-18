@@ -1,0 +1,36 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Dependencies and build output
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+dist/
+.DS_Store
+
+# Local data and trained weights (publish deliberately, separately)
+data/
+artifacts/
+runs/
+*.pt
+*.onnx
+
+# Browser verification artifacts can contain source images
+.playwright-cli/
+output/
+
+# Personal media and editor files
+*.m4a
+*.mp4
+*.wav
+*.zip
+*.log
+*.db
+*.db-shm
+*.db-wal
+.vscode/
+.idea/

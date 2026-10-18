@@ -1,0 +1,632 @@
+{
+  "valid_geometry_diagnostic": {
+    "images": 32,
+    "local": {
+      "images": 32,
+      "per_class": {
+        "rice": {
+          "intersection": 167816,
+          "union": 238663,
+          "truth_pixels": 213709,
+          "predicted_pixels": 192770,
+          "tp": 5,
+          "fp": 1,
+          "fn": 1,
+          "iou": 0.7031504673954488,
+          "precision": 0.8333333333333334,
+          "recall": 0.8333333333333334,
+          "pixel_recall": 0.7852547155243813,
+          "pixel_precision": 0.8705503968459822
+        },
+        "pasta": {
+          "intersection": 300834,
+          "union": 448995,
+          "truth_pixels": 424014,
+          "predicted_pixels": 325815,
+          "tp": 8,
+          "fp": 0,
+          "fn": 1,
+          "iou": 0.6700163698927605,
+          "precision": 1.0,
+          "recall": 0.8888888888888888,
+          "pixel_recall": 0.7094907243628749,
+          "pixel_precision": 0.9233276552644906
+        },
+        "broccoli": {
+          "intersection": 254449,
+          "union": 289558,
+          "truth_pixels": 266717,
+          "predicted_pixels": 277290,
+          "tp": 9,
+          "fp": 0,
+          "fn": 0,
+          "iou": 0.8787496805475933,
+          "precision": 1.0,
+          "recall": 1.0,
+          "pixel_recall": 0.9540036818050593,
+          "pixel_precision": 0.9176277543366151
+        },
+        "chicken": {
+          "intersection": 338316,
+          "union": 740799,
+          "truth_pixels": 544883,
+          "predicted_pixels": 534232,
+          "tp": 8,
+          "fp": 3,
+          "fn": 3,
+          "iou": 0.4566906812779175,
+          "precision": 0.7272727272727273,
+          "recall": 0.7272727272727273,
+          "pixel_recall": 0.6208965961499991,
+          "pixel_precision": 0.6332754308989353
+        }
+      },
+      "macro_iou": 0.6771517997784301,
+      "negative_images": 8,
+      "negative_false_positives": 1
+    },
+    "gemini": {
+      "images": 32,
+      "per_class": {
+        "rice": {
+          "intersection": 176127,
+          "union": 231570,
+          "truth_pixels": 213709,
+          "predicted_pixels": 193988,
+          "tp": 5,
+          "fp": 0,
+          "fn": 1,
+          "iou": 0.7605777950511724,
+          "precision": 1.0,
+          "recall": 0.8333333333333334,
+          "pixel_recall": 0.8241440463433922,
+          "pixel_precision": 0.907927294471823
+        },
+        "pasta": {
+          "intersection": 390648,
+          "union": 580014,
+          "truth_pixels": 424014,
+          "predicted_pixels": 546648,
+          "tp": 9,
+          "fp": 2,
+          "fn": 0,
+          "iou": 0.6735147772295151,
+          "precision": 0.8181818181818182,
+          "recall": 1.0,
+          "pixel_recall": 0.9213092020546492,
+          "pixel_precision": 0.7146244018088422
+        },
+        "broccoli": {
+          "intersection": 256911,
+          "union": 294691,
+          "truth_pixels": 266717,
+          "predicted_pixels": 284885,
+          "tp": 9,
+          "fp": 0,
+          "fn": 0,
+          "iou": 0.8717979171403266,
+          "precision": 1.0,
+          "recall": 1.0,
+          "pixel_recall": 0.9632344394995445,
+          "pixel_precision": 0.9018059918914649
+        },
+        "chicken": {
+          "intersection": 441816,
+          "union": 783442,
+          "truth_pixels": 544883,
+          "predicted_pixels": 680375,
+          "tp": 8,
+          "fp": 4,
+          "fn": 3,
+          "iou": 0.5639421935510223,
+          "precision": 0.6666666666666666,
+          "recall": 0.7272727272727273,
+          "pixel_recall": 0.8108456310804337,
+          "pixel_precision": 0.6493713025904831
+        }
+      },
+      "macro_iou": 0.7174581707430091,
+      "negative_images": 8,
+      "negative_false_positives": 2
+    },
+    "difference": {
+      "macro_iou_difference_95_percentile_interval": [
+        -0.12239935772776055,
+        0.04062334536021561
+      ],
+      "chicken_presence_recall_difference_95_percentile_interval": [
+        -0.27272727272727276,
+        0.2727272727272727
+      ],
+      "resamples": 2000,
+      "seed": 141
+    }
+  },
+  "validation_constraints_satisfied": true,
+  "status": "completed",
+  "title": "Local segmentation with recall constraints",
+  "training_images": 1732,
+  "full_evaluation_images": 110,
+  "paired_images": 32,
+  "gemini_parsed_outputs": 32,
+  "gemini_cost_usd": 0.2565320000000001,
+  "accounted_total_usd": 1.5154298900000014,
+  "full_evaluation": {
+    "Original YOLO v1": {
+      "images": 110,
+      "per_class": {
+        "rice": {
+          "intersection": 311161,
+          "union": 1517518,
+          "truth_pixels": 581132,
+          "predicted_pixels": 1247547,
+          "tp": 13,
+          "fp": 29,
+          "fn": 7,
+          "iou": 0.20504600274922605,
+          "precision": 0.30952380952380953,
+          "recall": 0.65,
+          "pixel_recall": 0.5354394526544743,
+          "pixel_precision": 0.24941825839026505
+        },
+        "pasta": {
+          "intersection": 517124,
+          "union": 1092759,
+          "truth_pixels": 734492,
+          "predicted_pixels": 875391,
+          "tp": 15,
+          "fp": 10,
+          "fn": 5,
+          "iou": 0.4732278571944958,
+          "precision": 0.6,
+          "recall": 0.75,
+          "pixel_recall": 0.7040566813525538,
+          "pixel_precision": 0.5907348830408354
+        },
+        "broccoli": {
+          "intersection": 576799,
+          "union": 829802,
+          "truth_pixels": 601042,
+          "predicted_pixels": 805559,
+          "tp": 27,
+          "fp": 9,
+          "fn": 0,
+          "iou": 0.695104374296519,
+          "precision": 0.75,
+          "recall": 1.0,
+          "pixel_recall": 0.9596650483660044,
+          "pixel_precision": 0.716023283210789
+        },
+        "chicken": {
+          "intersection": 672110,
+          "union": 3398268,
+          "truth_pixels": 1373125,
+          "predicted_pixels": 2697253,
+          "tp": 14,
+          "fp": 34,
+          "fn": 17,
+          "iou": 0.19778016330671977,
+          "precision": 0.2916666666666667,
+          "recall": 0.45161290322580644,
+          "pixel_recall": 0.489474738279472,
+          "pixel_precision": 0.2491831504126606
+        }
+      },
+      "macro_iou": 0.39278959938674013,
+      "negative_images": 40,
+      "negative_false_positives": 23
+    },
+    "Previous ensemble v3": {
+      "images": 110,
+      "per_class": {
+        "rice": {
+          "intersection": 309190,
+          "union": 669651,
+          "truth_pixels": 581132,
+          "predicted_pixels": 397709,
+          "tp": 11,
+          "fp": 3,
+          "fn": 9,
+          "iou": 0.4617181188410082,
+          "precision": 0.7857142857142857,
+          "recall": 0.55,
+          "pixel_recall": 0.5320477963698437,
+          "pixel_precision": 0.7774277172505525
+        },
+        "pasta": {
+          "intersection": 366884,
+          "union": 965574,
+          "truth_pixels": 734492,
+          "predicted_pixels": 597966,
+          "tp": 12,
+          "fp": 6,
+          "fn": 8,
+          "iou": 0.37996466350585245,
+          "precision": 0.6666666666666666,
+          "recall": 0.6,
+          "pixel_recall": 0.49950714235144833,
+          "pixel_precision": 0.6135532789489704
+        },
+        "broccoli": {
+          "intersection": 523024,
+          "union": 671932,
+          "truth_pixels": 601042,
+          "predicted_pixels": 593914,
+          "tp": 24,
+          "fp": 2,
+          "fn": 3,
+          "iou": 0.7783882892911783,
+          "precision": 0.9230769230769231,
+          "recall": 0.8888888888888888,
+          "pixel_recall": 0.8701954272746331,
+          "pixel_precision": 0.8806392844755301
+        },
+        "chicken": {
+          "intersection": 1061345,
+          "union": 3182334,
+          "truth_pixels": 1373125,
+          "predicted_pixels": 2870554,
+          "tp": 20,
+          "fp": 21,
+          "fn": 11,
+          "iou": 0.33351150444925015,
+          "precision": 0.4878048780487805,
+          "recall": 0.6451612903225806,
+          "pixel_recall": 0.7729412835685026,
+          "pixel_precision": 0.3697352497113798
+        }
+      },
+      "macro_iou": 0.48839564402182223,
+      "negative_images": 40,
+      "negative_false_positives": 11
+    },
+    "Semantic v4": {
+      "images": 110,
+      "per_class": {
+        "rice": {
+          "intersection": 492398,
+          "union": 693903,
+          "truth_pixels": 581132,
+          "predicted_pixels": 605169,
+          "tp": 18,
+          "fp": 5,
+          "fn": 2,
+          "iou": 0.7096063859069639,
+          "precision": 0.782608695652174,
+          "recall": 0.9,
+          "pixel_recall": 0.8473083567932931,
+          "pixel_precision": 0.8136537066505389
+        },
+        "pasta": {
+          "intersection": 545466,
+          "union": 806166,
+          "truth_pixels": 734492,
+          "predicted_pixels": 617140,
+          "tp": 18,
+          "fp": 0,
+          "fn": 2,
+          "iou": 0.6766174708434739,
+          "precision": 1.0,
+          "recall": 0.9,
+          "pixel_recall": 0.742643895372584,
+          "pixel_precision": 0.883861036393687
+        },
+        "broccoli": {
+          "intersection": 570781,
+          "union": 647611,
+          "truth_pixels": 601042,
+          "predicted_pixels": 617350,
+          "tp": 27,
+          "fp": 0,
+          "fn": 0,
+          "iou": 0.8813639669492952,
+          "precision": 1.0,
+          "recall": 1.0,
+          "pixel_recall": 0.9496524369345237,
+          "pixel_precision": 0.9245662914068195
+        },
+        "chicken": {
+          "intersection": 911854,
+          "union": 1981533,
+          "truth_pixels": 1373125,
+          "predicted_pixels": 1520262,
+          "tp": 21,
+          "fp": 16,
+          "fn": 10,
+          "iou": 0.460176035423079,
+          "precision": 0.5675675675675675,
+          "recall": 0.6774193548387096,
+          "pixel_recall": 0.6640720983158853,
+          "pixel_precision": 0.5998005606928279
+        }
+      },
+      "macro_iou": 0.681940964780703,
+      "negative_images": 40,
+      "negative_false_positives": 9,
+      "latency_median_seconds": 0.07783002049836796
+    }
+  },
+  "paired_evaluation": {
+    "Original YOLO v1": {
+      "images": 32,
+      "per_class": {
+        "rice": {
+          "intersection": 44408,
+          "union": 490932,
+          "truth_pixels": 213709,
+          "predicted_pixels": 321631,
+          "tp": 2,
+          "fp": 8,
+          "fn": 4,
+          "iou": 0.09045651943650038,
+          "precision": 0.2,
+          "recall": 0.3333333333333333,
+          "pixel_recall": 0.20779658320426375,
+          "pixel_precision": 0.1380712680058825
+        },
+        "pasta": {
+          "intersection": 272626,
+          "union": 604125,
+          "truth_pixels": 424014,
+          "predicted_pixels": 452737,
+          "tp": 7,
+          "fp": 4,
+          "fn": 2,
+          "iou": 0.45127415683840266,
+          "precision": 0.6363636363636364,
+          "recall": 0.7777777777777778,
+          "pixel_recall": 0.6429646190927658,
+          "pixel_precision": 0.6021730055197609
+        },
+        "broccoli": {
+          "intersection": 256511,
+          "union": 370783,
+          "truth_pixels": 266717,
+          "predicted_pixels": 360577,
+          "tp": 9,
+          "fp": 4,
+          "fn": 0,
+          "iou": 0.6918089556425187,
+          "precision": 0.6923076923076923,
+          "recall": 1.0,
+          "pixel_recall": 0.9617347225711147,
+          "pixel_precision": 0.711390354903391
+        },
+        "chicken": {
+          "intersection": 184532,
+          "union": 1050511,
+          "truth_pixels": 544883,
+          "predicted_pixels": 690160,
+          "tp": 4,
+          "fp": 8,
+          "fn": 7,
+          "iou": 0.17565927439122483,
+          "precision": 0.3333333333333333,
+          "recall": 0.36363636363636365,
+          "pixel_recall": 0.3386635296017677,
+          "pixel_precision": 0.2673756810015069
+        }
+      },
+      "macro_iou": 0.35229972657716163,
+      "negative_images": 8,
+      "negative_false_positives": 5
+    },
+    "Previous ensemble v3": {
+      "images": 32,
+      "per_class": {
+        "rice": {
+          "intersection": 104228,
+          "union": 219137,
+          "truth_pixels": 213709,
+          "predicted_pixels": 109656,
+          "tp": 4,
+          "fp": 0,
+          "fn": 2,
+          "iou": 0.4756294007858098,
+          "precision": 1.0,
+          "recall": 0.6666666666666666,
+          "pixel_recall": 0.4877099233069267,
+          "pixel_precision": 0.9504997446560152
+        },
+        "pasta": {
+          "intersection": 169803,
+          "union": 516006,
+          "truth_pixels": 424014,
+          "predicted_pixels": 261795,
+          "tp": 5,
+          "fp": 2,
+          "fn": 4,
+          "iou": 0.32907175497959323,
+          "precision": 0.7142857142857143,
+          "recall": 0.5555555555555556,
+          "pixel_recall": 0.4004655506657799,
+          "pixel_precision": 0.648610554059474
+        },
+        "broccoli": {
+          "intersection": 249631,
+          "union": 314854,
+          "truth_pixels": 266717,
+          "predicted_pixels": 297768,
+          "tp": 9,
+          "fp": 1,
+          "fn": 0,
+          "iou": 0.7928468432987988,
+          "precision": 0.9,
+          "recall": 1.0,
+          "pixel_recall": 0.9359395914021228,
+          "pixel_precision": 0.8383405873028666
+        },
+        "chicken": {
+          "intersection": 436701,
+          "union": 1014895,
+          "truth_pixels": 544883,
+          "predicted_pixels": 906713,
+          "tp": 8,
+          "fp": 4,
+          "fn": 3,
+          "iou": 0.4302918035855926,
+          "precision": 0.6666666666666666,
+          "recall": 0.7272727272727273,
+          "pixel_recall": 0.8014582947164804,
+          "pixel_precision": 0.4816309019502312
+        }
+      },
+      "macro_iou": 0.5069599506624486,
+      "negative_images": 8,
+      "negative_false_positives": 3
+    },
+    "Semantic v4": {
+      "images": 32,
+      "per_class": {
+        "rice": {
+          "intersection": 167816,
+          "union": 238663,
+          "truth_pixels": 213709,
+          "predicted_pixels": 192770,
+          "tp": 5,
+          "fp": 1,
+          "fn": 1,
+          "iou": 0.7031504673954488,
+          "precision": 0.8333333333333334,
+          "recall": 0.8333333333333334,
+          "pixel_recall": 0.7852547155243813,
+          "pixel_precision": 0.8705503968459822
+        },
+        "pasta": {
+          "intersection": 300834,
+          "union": 448995,
+          "truth_pixels": 424014,
+          "predicted_pixels": 325815,
+          "tp": 8,
+          "fp": 0,
+          "fn": 1,
+          "iou": 0.6700163698927605,
+          "precision": 1.0,
+          "recall": 0.8888888888888888,
+          "pixel_recall": 0.7094907243628749,
+          "pixel_precision": 0.9233276552644906
+        },
+        "broccoli": {
+          "intersection": 254449,
+          "union": 289558,
+          "truth_pixels": 266717,
+          "predicted_pixels": 277290,
+          "tp": 9,
+          "fp": 0,
+          "fn": 0,
+          "iou": 0.8787496805475933,
+          "precision": 1.0,
+          "recall": 1.0,
+          "pixel_recall": 0.9540036818050593,
+          "pixel_precision": 0.9176277543366151
+        },
+        "chicken": {
+          "intersection": 338316,
+          "union": 740799,
+          "truth_pixels": 544883,
+          "predicted_pixels": 534232,
+          "tp": 8,
+          "fp": 3,
+          "fn": 3,
+          "iou": 0.4566906812779175,
+          "precision": 0.7272727272727273,
+          "recall": 0.7272727272727273,
+          "pixel_recall": 0.6208965961499991,
+          "pixel_precision": 0.6332754308989353
+        }
+      },
+      "macro_iou": 0.6771517997784301,
+      "negative_images": 8,
+      "negative_false_positives": 1
+    },
+    "Gemini 4 Argon": {
+      "images": 32,
+      "per_class": {
+        "rice": {
+          "intersection": 176127,
+          "union": 231570,
+          "truth_pixels": 213709,
+          "predicted_pixels": 193988,
+          "tp": 5,
+          "fp": 0,
+          "fn": 1,
+          "iou": 0.7605777950511724,
+          "precision": 1.0,
+          "recall": 0.8333333333333334,
+          "pixel_recall": 0.8241440463433922,
+          "pixel_precision": 0.907927294471823
+        },
+        "pasta": {
+          "intersection": 390648,
+          "union": 580014,
+          "truth_pixels": 424014,
+          "predicted_pixels": 546648,
+          "tp": 9,
+          "fp": 2,
+          "fn": 0,
+          "iou": 0.6735147772295151,
+          "precision": 0.8181818181818182,
+          "recall": 1.0,
+          "pixel_recall": 0.9213092020546492,
+          "pixel_precision": 0.7146244018088422
+        },
+        "broccoli": {
+          "intersection": 256911,
+          "union": 294691,
+          "truth_pixels": 266717,
+          "predicted_pixels": 284885,
+          "tp": 9,
+          "fp": 0,
+          "fn": 0,
+          "iou": 0.8717979171403266,
+          "precision": 1.0,
+          "recall": 1.0,
+          "pixel_recall": 0.9632344394995445,
+          "pixel_precision": 0.9018059918914649
+        },
+        "chicken": {
+          "intersection": 441816,
+          "union": 783442,
+          "truth_pixels": 544883,
+          "predicted_pixels": 680375,
+          "tp": 8,
+          "fp": 4,
+          "fn": 3,
+          "iou": 0.5639421935510223,
+          "precision": 0.6666666666666666,
+          "recall": 0.7272727272727273,
+          "pixel_recall": 0.8108456310804337,
+          "pixel_precision": 0.6493713025904831
+        }
+      },
+      "macro_iou": 0.7174581707430091,
+      "negative_images": 8,
+      "negative_false_positives": 2
+    }
+  },
+  "paired_difference": {
+    "macro_iou_difference_95_percentile_interval": [
+      -0.12239935772776055,
+      0.04062334536021561
+    ],
+    "chicken_presence_recall_difference_95_percentile_interval": [
+      -0.27272727272727276,
+      0.2727272727272727
+    ],
+    "resamples": 2000,
+    "seed": 141
+  },
+  "baseline_difference": {
+    "macro_iou_difference_95_percentile_interval": [
+      0.23123511754641665,
+      0.3492587552769117
+    ],
+    "chicken_presence_recall_difference_95_percentile_interval": [
+      0.0,
+      0.45161290322580644
+    ],
+    "resamples": 2000,
+    "seed": 141
+  },
+  "note": "Fresh held-out images from the publisher training pool, screened against all earlier splits. Chicken includes duck. Food presence recall and pixel recall are reported separately. Validation constraints do not guarantee recall on new images. No tuning on these results. Public-source contamination of frontier pretraining is unknown."
+}

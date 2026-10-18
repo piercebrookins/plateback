@@ -1,0 +1,8 @@
+{
+  "images": 349,
+  "exact_unique": 349,
+  "phash_bits": 63,
+  "threshold": 6,
+  "cross_split_candidates": [],
+  "limitation": "Heuristic duplicate screening; source does not provide physical-serving or capture-session IDs. Scene-level leakage cannot be ruled out."
+}

@@ -1,0 +1,318 @@
+{
+  "baseline-final": {
+    "images": 83,
+    "settings": {
+      "confidence": 0.2,
+      "imgsz": 320
+    },
+    "per_class": {
+      "rice": {
+        "intersection": 362177,
+        "union": 788839,
+        "tp": 16,
+        "fp": 15,
+        "fn": 4,
+        "iou": 0.4591266405438879,
+        "precision": 0.5161290322580645,
+        "recall": 0.8,
+        "f0_5": 0.5555555555555556
+      },
+      "pasta": {
+        "intersection": 0,
+        "union": 426864,
+        "tp": 0,
+        "fp": 14,
+        "fn": 0,
+        "iou": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f0_5": 0.0
+      },
+      "broccoli": {
+        "intersection": 349040,
+        "union": 561114,
+        "tp": 21,
+        "fp": 13,
+        "fn": 0,
+        "iou": 0.6220482825236939,
+        "precision": 0.6176470588235294,
+        "recall": 1.0,
+        "f0_5": 0.6687898089171974
+      },
+      "chicken": {
+        "intersection": 822112,
+        "union": 2514421,
+        "tp": 15,
+        "fp": 26,
+        "fn": 11,
+        "iou": 0.32695877102521814,
+        "precision": 0.36585365853658536,
+        "recall": 0.5769230769230769,
+        "f0_5": 0.39473684210526316
+      }
+    },
+    "macro_iou": 0.3520334235232,
+    "negative_food_images": 40,
+    "negative_food_false_positive_images": 26,
+    "latency_median_seconds": 0.01337445797980763,
+    "latency_p95_seconds": 0.01508467019884847,
+    "macro_iou_observed_classes": 0.4693778980309333,
+    "observed_classes": [
+      "rice",
+      "broccoli",
+      "chicken"
+    ]
+  },
+  "ensemble-final": {
+    "images": 83,
+    "settings": {
+      "confidence": 0,
+      "policy": {
+        "version": "v3",
+        "selection": "Validation only; maximize .55 pooled IoU + .45 presence F0.5. Require recall >= .50 when feasible. Choose class-specific source and optional presence gate.",
+        "per_class": {
+          "rice": {
+            "source": "candidate",
+            "gate": 0,
+            "confidence": 0.5,
+            "min_area_fraction": 0.01
+          },
+          "pasta": {
+            "source": "candidate",
+            "gate": 0,
+            "confidence": 0.5,
+            "min_area_fraction": 0
+          },
+          "broccoli": {
+            "source": "candidate",
+            "gate": 0,
+            "confidence": 0.6,
+            "min_area_fraction": 0
+          },
+          "chicken": {
+            "source": "baseline",
+            "gate": 0.35,
+            "confidence": 0.05,
+            "min_area_fraction": 0.01
+          }
+        }
+      }
+    },
+    "per_class": {
+      "rice": {
+        "intersection": 279789,
+        "union": 630423,
+        "tp": 12,
+        "fp": 1,
+        "fn": 8,
+        "iou": 0.4438115360638809,
+        "precision": 0.9230769230769231,
+        "recall": 0.6,
+        "f0_5": 0.8333333333333334
+      },
+      "pasta": {
+        "intersection": 0,
+        "union": 123773,
+        "tp": 0,
+        "fp": 4,
+        "fn": 0,
+        "iou": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f0_5": 0.0
+      },
+      "broccoli": {
+        "intersection": 320161,
+        "union": 390336,
+        "tp": 20,
+        "fp": 2,
+        "fn": 1,
+        "iou": 0.820218990818167,
+        "precision": 0.9090909090909091,
+        "recall": 0.9523809523809523,
+        "f0_5": 0.9174311926605505
+      },
+      "chicken": {
+        "intersection": 639612,
+        "union": 2376076,
+        "tp": 13,
+        "fp": 15,
+        "fn": 13,
+        "iou": 0.2691883592949047,
+        "precision": 0.4642857142857143,
+        "recall": 0.5,
+        "f0_5": 0.47101449275362317
+      }
+    },
+    "macro_iou": 0.3833047215442381,
+    "negative_food_images": 40,
+    "negative_food_false_positive_images": 13,
+    "latency_median_seconds": 0.0890426250116434,
+    "latency_p95_seconds": 0.10262257560389115,
+    "macro_iou_observed_classes": 0.5110729620589841,
+    "observed_classes": [
+      "rice",
+      "broccoli",
+      "chicken"
+    ]
+  },
+  "baseline-regression": {
+    "images": 188,
+    "settings": {
+      "confidence": 0.2,
+      "imgsz": 320
+    },
+    "per_class": {
+      "rice": {
+        "intersection": 920239,
+        "union": 2699374,
+        "tp": 34,
+        "fp": 35,
+        "fn": 7,
+        "iou": 0.34090829947980533,
+        "precision": 0.4927536231884058,
+        "recall": 0.8292682926829268,
+        "f0_5": 0.5362776025236593
+      },
+      "pasta": {
+        "intersection": 1016241,
+        "union": 2306939,
+        "tp": 18,
+        "fp": 24,
+        "fn": 8,
+        "iou": 0.4405148987467809,
+        "precision": 0.42857142857142855,
+        "recall": 0.6923076923076923,
+        "f0_5": 0.4639175257731959
+      },
+      "broccoli": {
+        "intersection": 1015337,
+        "union": 1637377,
+        "tp": 45,
+        "fp": 18,
+        "fn": 3,
+        "iou": 0.6200997082528947,
+        "precision": 0.7142857142857143,
+        "recall": 0.9375,
+        "f0_5": 0.75
+      },
+      "chicken": {
+        "intersection": 1428567,
+        "union": 5933515,
+        "tp": 43,
+        "fp": 62,
+        "fn": 15,
+        "iou": 0.2407623474449799,
+        "precision": 0.4095238095238095,
+        "recall": 0.7413793103448276,
+        "f0_5": 0.4497907949790795
+      }
+    },
+    "macro_iou": 0.4105713134811152,
+    "negative_food_images": 70,
+    "negative_food_false_positive_images": 43,
+    "latency_median_seconds": 0.013782207999611273,
+    "latency_p95_seconds": 0.015643681256915443,
+    "macro_iou_observed_classes": 0.4105713134811152,
+    "observed_classes": [
+      "rice",
+      "pasta",
+      "broccoli",
+      "chicken"
+    ]
+  },
+  "ensemble-regression": {
+    "images": 188,
+    "settings": {
+      "confidence": 0,
+      "policy": {
+        "version": "v3",
+        "selection": "Validation only; maximize .55 pooled IoU + .45 presence F0.5. Require recall >= .50 when feasible. Choose class-specific source and optional presence gate.",
+        "per_class": {
+          "rice": {
+            "source": "candidate",
+            "gate": 0,
+            "confidence": 0.5,
+            "min_area_fraction": 0.01
+          },
+          "pasta": {
+            "source": "candidate",
+            "gate": 0,
+            "confidence": 0.5,
+            "min_area_fraction": 0
+          },
+          "broccoli": {
+            "source": "candidate",
+            "gate": 0,
+            "confidence": 0.6,
+            "min_area_fraction": 0
+          },
+          "chicken": {
+            "source": "baseline",
+            "gate": 0.35,
+            "confidence": 0.05,
+            "min_area_fraction": 0.01
+          }
+        }
+      }
+    },
+    "per_class": {
+      "rice": {
+        "intersection": 886388,
+        "union": 1862883,
+        "tp": 28,
+        "fp": 6,
+        "fn": 13,
+        "iou": 0.47581517465133344,
+        "precision": 0.8235294117647058,
+        "recall": 0.6829268292682927,
+        "f0_5": 0.7909604519774012
+      },
+      "pasta": {
+        "intersection": 536638,
+        "union": 1401650,
+        "tp": 10,
+        "fp": 0,
+        "fn": 16,
+        "iou": 0.38286162736774515,
+        "precision": 1.0,
+        "recall": 0.38461538461538464,
+        "f0_5": 0.7575757575757576
+      },
+      "broccoli": {
+        "intersection": 996961,
+        "union": 1356696,
+        "tp": 43,
+        "fp": 5,
+        "fn": 5,
+        "iou": 0.7348447994244842,
+        "precision": 0.8958333333333334,
+        "recall": 0.8958333333333334,
+        "f0_5": 0.8958333333333334
+      },
+      "chicken": {
+        "intersection": 1257707,
+        "union": 5063193,
+        "tp": 33,
+        "fp": 42,
+        "fn": 25,
+        "iou": 0.24840194715074065,
+        "precision": 0.44,
+        "recall": 0.5689655172413793,
+        "f0_5": 0.46089385474860334
+      }
+    },
+    "macro_iou": 0.4604808871485759,
+    "negative_food_images": 70,
+    "negative_food_false_positive_images": 19,
+    "latency_median_seconds": 0.09993133299576584,
+    "latency_p95_seconds": 0.10891511249792529,
+    "macro_iou_observed_classes": 0.4604808871485759,
+    "observed_classes": [
+      "rice",
+      "pasta",
+      "broccoli",
+      "chicken"
+    ]
+  }
+}
